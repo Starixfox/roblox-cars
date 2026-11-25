@@ -1,0 +1,4405 @@
+{
+ "variant": "lite",
+ "removed": [
+  "Object_19 (Decals): 297 tris",
+  "front grille logo: 4 island(s)",
+  "rear model lettering: 15 island(s)",
+  "rear logo: 1 island(s)",
+  "wheel centre cap logo: 4 island(s)",
+  "grille S badge: 1 island(s)",
+  "caliper lettering: 48 island(s)",
+  "steering wheel logo: 19 island(s)",
+  "steering wheel logo ring: 1 island(s)"
+ ],
+ "roles": {
+  "Body": {
+   "before": 119248,
+   "after": 19954
+  },
+  "Brakes": {
+   "before": 31388,
+   "after": 1072
+  },
+  "Lights": {
+   "before": 40246,
+   "after": 2953
+  },
+  "Wheel_LF": {
+   "before": 16961,
+   "after": 2396
+  },
+  "Wheel_RF": {
+   "before": 16961,
+   "after": 2397
+  },
+  "Wheel_RR": {
+   "before": 16961,
+   "after": 2397
+  },
+  "Wheel_LR": {
+   "before": 16973,
+   "after": 2397
+  },
+  "Interior": {
+   "before": 242506,
+   "after": 9380
+  },
+  "Glass": {
+   "before": 3615,
+   "after": 1995
+  },
+  "SteeringWheel": {
+   "before": 20171,
+   "after": 1501
+  }
+ },
+ "groups": {
+  "Body_Front": {
+   "tris": 2085,
+   "dmg_tris": 0,
+   "parts": 39,
+   "detachable": false,
+   "chunks": 9
+  },
+  "Body_Mid": {
+   "tris": 3419,
+   "dmg_tris": 0,
+   "parts": 41,
+   "detachable": false,
+   "chunks": 10
+  },
+  "Body_Rear": {
+   "tris": 832,
+   "dmg_tris": 0,
+   "parts": 27,
+   "detachable": false,
+   "chunks": 10
+  },
+  "Brakes": {
+   "tris": 1046,
+   "dmg_tris": 0,
+   "parts": 4,
+   "detachable": false,
+   "chunks": 0
+  },
+  "Door_L": {
+   "tris": 2140,
+   "dmg_tris": 0,
+   "parts": 19,
+   "detachable": true,
+   "chunks": 8
+  },
+  "Door_RL": {
+   "tris": 2586,
+   "dmg_tris": 0,
+   "parts": 19,
+   "detachable": true,
+   "chunks": 7
+  },
+  "Door_RR": {
+   "tris": 2405,
+   "dmg_tris": 0,
+   "parts": 19,
+   "detachable": true,
+   "chunks": 7
+  },
+  "Door_R": {
+   "tris": 2094,
+   "dmg_tris": 0,
+   "parts": 22,
+   "detachable": true,
+   "chunks": 8
+  },
+  "FrontBumper": {
+   "tris": 3260,
+   "dmg_tris": 0,
+   "parts": 54,
+   "detachable": true,
+   "chunks": 12
+  },
+  "Glass_Door_L": {
+   "tris": 266,
+   "dmg_tris": 266,
+   "parts": 20,
+   "detachable": false,
+   "chunks": 10
+  },
+  "Glass_Door_RL": {
+   "tris": 363,
+   "dmg_tris": 363,
+   "parts": 18,
+   "detachable": false,
+   "chunks": 9
+  },
+  "Glass_Door_RR": {
+   "tris": 363,
+   "dmg_tris": 363,
+   "parts": 18,
+   "detachable": false,
+   "chunks": 9
+  },
+  "Glass_Door_R": {
+   "tris": 263,
+   "dmg_tris": 263,
+   "parts": 20,
+   "detachable": false,
+   "chunks": 10
+  },
+  "Glass_Rear": {
+   "tris": 607,
+   "dmg_tris": 607,
+   "parts": 32,
+   "detachable": false,
+   "chunks": 16
+  },
+  "Glass_Roof": {
+   "tris": 347,
+   "dmg_tris": 347,
+   "parts": 24,
+   "detachable": false,
+   "chunks": 12
+  },
+  "Glass_Windshield": {
+   "tris": 555,
+   "dmg_tris": 555,
+   "parts": 44,
+   "detachable": false,
+   "chunks": 22
+  },
+  "HeadLight_L": {
+   "tris": 317,
+   "dmg_tris": 0,
+   "parts": 3,
+   "detachable": false,
+   "chunks": 0
+  },
+  "HeadLight_R": {
+   "tris": 449,
+   "dmg_tris": 0,
+   "parts": 3,
+   "detachable": false,
+   "chunks": 0
+  },
+  "Hood": {
+   "tris": 425,
+   "dmg_tris": 0,
+   "parts": 16,
+   "detachable": true,
+   "chunks": 9
+  },
+  "Interior": {
+   "tris": 3900,
+   "dmg_tris": 0,
+   "parts": 2,
+   "detachable": false,
+   "chunks": 0
+  },
+  "Mirror_L": {
+   "tris": 582,
+   "dmg_tris": 0,
+   "parts": 5,
+   "detachable": true,
+   "chunks": 0
+  },
+  "Mirror_R": {
+   "tris": 656,
+   "dmg_tris": 0,
+   "parts": 5,
+   "detachable": true,
+   "chunks": 0
+  },
+  "RearBumper": {
+   "tris": 2969,
+   "dmg_tris": 0,
+   "parts": 58,
+   "detachable": true,
+   "chunks": 12
+  },
+  "SteeringWheel": {
+   "tris": 1435,
+   "dmg_tris": 0,
+   "parts": 1,
+   "detachable": false,
+   "chunks": 0
+  },
+  "TailLight_L": {
+   "tris": 597,
+   "dmg_tris": 0,
+   "parts": 5,
+   "detachable": false,
+   "chunks": 0
+  },
+  "TailLight_R": {
+   "tris": 596,
+   "dmg_tris": 0,
+   "parts": 5,
+   "detachable": false,
+   "chunks": 0
+  },
+  "Trunk": {
+   "tris": 2148,
+   "dmg_tris": 0,
+   "parts": 37,
+   "detachable": true,
+   "chunks": 8
+  },
+  "Wheel_LF": {
+   "tris": 2396,
+   "dmg_tris": 0,
+   "parts": 6,
+   "detachable": true,
+   "chunks": 0
+  },
+  "Wheel_LR": {
+   "tris": 2397,
+   "dmg_tris": 0,
+   "parts": 6,
+   "detachable": true,
+   "chunks": 0
+  },
+  "Wheel_RF": {
+   "tris": 2397,
+   "dmg_tris": 0,
+   "parts": 6,
+   "detachable": true,
+   "chunks": 0
+  },
+  "Wheel_RR": {
+   "tris": 2397,
+   "dmg_tris": 0,
+   "parts": 6,
+   "detachable": true,
+   "chunks": 0
+  }
+ },
+ "parts": [
+  {
+   "name": "Body_Front__C01__BayLiner",
+   "group": "Body_Front",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 22
+  },
+  {
+   "name": "Body_Front__C01__Black1",
+   "group": "Body_Front",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 115
+  },
+  {
+   "name": "Body_Front__C01__BlackChrome",
+   "group": "Body_Front",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 141
+  },
+  {
+   "name": "Body_Front__C01__Interior",
+   "group": "Body_Front",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 63
+  },
+  {
+   "name": "Body_Front__C01__UnderCarrier",
+   "group": "Body_Front",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Body_Front__C02__BayLiner",
+   "group": "Body_Front",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 24
+  },
+  {
+   "name": "Body_Front__C02__UnderCarrier",
+   "group": "Body_Front",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 6
+  },
+  {
+   "name": "Body_Front__C02__WindowsTrims",
+   "group": "Body_Front",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Body_Front__C03__UnderCarrier",
+   "group": "Body_Front",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 6
+  },
+  {
+   "name": "Body_Front__C04__Matte_Green",
+   "group": "Body_Front",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 28
+  },
+  {
+   "name": "Body_Front__C04__UnderCarrier",
+   "group": "Body_Front",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "Body_Front__C05__BayLiner",
+   "group": "Body_Front",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 42
+  },
+  {
+   "name": "Body_Front__C05__Matte_Green",
+   "group": "Body_Front",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 1
+  },
+  {
+   "name": "Body_Front__C05__UnderCarrier",
+   "group": "Body_Front",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Body_Front__C05__WindowsTrims",
+   "group": "Body_Front",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 14
+  },
+  {
+   "name": "Body_Front__C06__Black1",
+   "group": "Body_Front",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 78
+  },
+  {
+   "name": "Body_Front__C06__BlackChrome",
+   "group": "Body_Front",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 110
+  },
+  {
+   "name": "Body_Front__C06__BlackTrims1",
+   "group": "Body_Front",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 44
+  },
+  {
+   "name": "Body_Front__C06__Matte_Green",
+   "group": "Body_Front",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 159
+  },
+  {
+   "name": "Body_Front__C06__UnderCarrier",
+   "group": "Body_Front",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 19
+  },
+  {
+   "name": "Body_Front__C06__WindowsTrims",
+   "group": "Body_Front",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 45
+  },
+  {
+   "name": "Body_Front__C07__BayLiner",
+   "group": "Body_Front",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 2
+  },
+  {
+   "name": "Body_Front__C07__Black1",
+   "group": "Body_Front",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 36
+  },
+  {
+   "name": "Body_Front__C07__BlackChrome",
+   "group": "Body_Front",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 112
+  },
+  {
+   "name": "Body_Front__C07__Interior",
+   "group": "Body_Front",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 14
+  },
+  {
+   "name": "Body_Front__C07__Matte_Green",
+   "group": "Body_Front",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 57
+  },
+  {
+   "name": "Body_Front__C07__UnderCarrier",
+   "group": "Body_Front",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 14
+  },
+  {
+   "name": "Body_Front__C08__Black1",
+   "group": "Body_Front",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 35
+  },
+  {
+   "name": "Body_Front__C08__BlackChrome",
+   "group": "Body_Front",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 112
+  },
+  {
+   "name": "Body_Front__C08__BlackTrims1",
+   "group": "Body_Front",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 37
+  },
+  {
+   "name": "Body_Front__C08__Matte_Green",
+   "group": "Body_Front",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 109
+  },
+  {
+   "name": "Body_Front__C08__UnderCarrier",
+   "group": "Body_Front",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 7
+  },
+  {
+   "name": "Body_Front__C08__WindowsTrims",
+   "group": "Body_Front",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 42
+  },
+  {
+   "name": "Body_Front__C09__BayLiner",
+   "group": "Body_Front",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 6
+  },
+  {
+   "name": "Body_Front__C09__Black1",
+   "group": "Body_Front",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 149
+  },
+  {
+   "name": "Body_Front__C09__BlackChrome",
+   "group": "Body_Front",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 204
+  },
+  {
+   "name": "Body_Front__C09__Interior",
+   "group": "Body_Front",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 109
+  },
+  {
+   "name": "Body_Front__C09__Matte_Green",
+   "group": "Body_Front",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 38
+  },
+  {
+   "name": "Body_Front__C09__UnderCarrier",
+   "group": "Body_Front",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Body_Mid__C01__UnderCarrier",
+   "group": "Body_Mid",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 2
+  },
+  {
+   "name": "Body_Mid__C02__Black1",
+   "group": "Body_Mid",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 45
+  },
+  {
+   "name": "Body_Mid__C02__BlackChrome",
+   "group": "Body_Mid",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 136
+  },
+  {
+   "name": "Body_Mid__C02__BlackTrims1",
+   "group": "Body_Mid",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 193
+  },
+  {
+   "name": "Body_Mid__C02__Matte_Green",
+   "group": "Body_Mid",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 241
+  },
+  {
+   "name": "Body_Mid__C02__WindowsTrims",
+   "group": "Body_Mid",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 50
+  },
+  {
+   "name": "Body_Mid__C03__BlackChrome",
+   "group": "Body_Mid",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 26
+  },
+  {
+   "name": "Body_Mid__C03__Matte_Green",
+   "group": "Body_Mid",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 198
+  },
+  {
+   "name": "Body_Mid__C04__BlackChrome",
+   "group": "Body_Mid",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 10
+  },
+  {
+   "name": "Body_Mid__C04__Matte_Green",
+   "group": "Body_Mid",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 51
+  },
+  {
+   "name": "Body_Mid__C04__UnderCarrier",
+   "group": "Body_Mid",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 1
+  },
+  {
+   "name": "Body_Mid__C05__Black1",
+   "group": "Body_Mid",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Body_Mid__C05__BlackChrome",
+   "group": "Body_Mid",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 265
+  },
+  {
+   "name": "Body_Mid__C05__BlackTrims1",
+   "group": "Body_Mid",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 58
+  },
+  {
+   "name": "Body_Mid__C05__Matte_Green",
+   "group": "Body_Mid",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 234
+  },
+  {
+   "name": "Body_Mid__C05__WindowsTrims",
+   "group": "Body_Mid",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 38
+  },
+  {
+   "name": "Body_Mid__C06__BlackChrome",
+   "group": "Body_Mid",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 14
+  },
+  {
+   "name": "Body_Mid__C06__Matte_Green",
+   "group": "Body_Mid",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 193
+  },
+  {
+   "name": "Body_Mid__C07__BlackChrome",
+   "group": "Body_Mid",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 36
+  },
+  {
+   "name": "Body_Mid__C07__BlackTrims1",
+   "group": "Body_Mid",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 116
+  },
+  {
+   "name": "Body_Mid__C07__Matte_Green",
+   "group": "Body_Mid",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 308
+  },
+  {
+   "name": "Body_Mid__C07__UnderCarrier",
+   "group": "Body_Mid",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 58
+  },
+  {
+   "name": "Body_Mid__C07__WindowsTrims",
+   "group": "Body_Mid",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Body_Mid__C08__Black1",
+   "group": "Body_Mid",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 21
+  },
+  {
+   "name": "Body_Mid__C08__BlackChrome",
+   "group": "Body_Mid",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 39
+  },
+  {
+   "name": "Body_Mid__C08__BlackTrims1",
+   "group": "Body_Mid",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 6
+  },
+  {
+   "name": "Body_Mid__C08__CarbonFiber",
+   "group": "Body_Mid",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 2
+  },
+  {
+   "name": "Body_Mid__C08__Matte_Green",
+   "group": "Body_Mid",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 182
+  },
+  {
+   "name": "Body_Mid__C08__WindowsTrims",
+   "group": "Body_Mid",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 4
+  },
+  {
+   "name": "Body_Mid__C09__BlackChrome",
+   "group": "Body_Mid",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 167
+  },
+  {
+   "name": "Body_Mid__C09__BlackTrims1",
+   "group": "Body_Mid",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 6
+  },
+  {
+   "name": "Body_Mid__C09__Matte_Green",
+   "group": "Body_Mid",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 300
+  },
+  {
+   "name": "Body_Mid__C09__UnderCarrier",
+   "group": "Body_Mid",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 58
+  },
+  {
+   "name": "Body_Mid__C09__WindowsTrims",
+   "group": "Body_Mid",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "Body_Mid__C10__Black1",
+   "group": "Body_Mid",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 67
+  },
+  {
+   "name": "Body_Mid__C10__BlackChrome",
+   "group": "Body_Mid",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 19
+  },
+  {
+   "name": "Body_Mid__C10__BlackTrims1",
+   "group": "Body_Mid",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 22
+  },
+  {
+   "name": "Body_Mid__C10__CarbonFiber",
+   "group": "Body_Mid",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 2
+  },
+  {
+   "name": "Body_Mid__C10__Matte_Green",
+   "group": "Body_Mid",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 196
+  },
+  {
+   "name": "Body_Mid__C10__UnderCarrier",
+   "group": "Body_Mid",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 1
+  },
+  {
+   "name": "Body_Mid__C10__WindowsTrims",
+   "group": "Body_Mid",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 1
+  },
+  {
+   "name": "Body_Rear__C01__Matte_Green",
+   "group": "Body_Rear",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "Body_Rear__C01__UnderCarrier",
+   "group": "Body_Rear",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 44
+  },
+  {
+   "name": "Body_Rear__C02__UnderCarrier",
+   "group": "Body_Rear",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 7
+  },
+  {
+   "name": "Body_Rear__C03__BayLiner",
+   "group": "Body_Rear",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 48
+  },
+  {
+   "name": "Body_Rear__C03__Matte_Green",
+   "group": "Body_Rear",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "Body_Rear__C03__Reflectors",
+   "group": "Body_Rear",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 5
+  },
+  {
+   "name": "Body_Rear__C04__BayLiner",
+   "group": "Body_Rear",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 48
+  },
+  {
+   "name": "Body_Rear__C04__BlackTrims1",
+   "group": "Body_Rear",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 67
+  },
+  {
+   "name": "Body_Rear__C04__Interior",
+   "group": "Body_Rear",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 4
+  },
+  {
+   "name": "Body_Rear__C04__Matte_Green",
+   "group": "Body_Rear",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 23
+  },
+  {
+   "name": "Body_Rear__C04__Reflectors",
+   "group": "Body_Rear",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 1
+  },
+  {
+   "name": "Body_Rear__C05__UnderCarrier",
+   "group": "Body_Rear",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 10
+  },
+  {
+   "name": "Body_Rear__C06__UnderCarrier",
+   "group": "Body_Rear",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Body_Rear__C07__BlackChrome",
+   "group": "Body_Rear",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 23
+  },
+  {
+   "name": "Body_Rear__C07__BlackTrims1",
+   "group": "Body_Rear",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Body_Rear__C07__Matte_Green",
+   "group": "Body_Rear",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 40
+  },
+  {
+   "name": "Body_Rear__C07__UnderCarrier",
+   "group": "Body_Rear",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 14
+  },
+  {
+   "name": "Body_Rear__C08__BlackChrome",
+   "group": "Body_Rear",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 53
+  },
+  {
+   "name": "Body_Rear__C08__BlackTrims1",
+   "group": "Body_Rear",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 10
+  },
+  {
+   "name": "Body_Rear__C08__Matte_Green",
+   "group": "Body_Rear",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 93
+  },
+  {
+   "name": "Body_Rear__C08__WindowsTrims",
+   "group": "Body_Rear",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 59
+  },
+  {
+   "name": "Body_Rear__C09__BlackChrome",
+   "group": "Body_Rear",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 44
+  },
+  {
+   "name": "Body_Rear__C09__BlackTrims1",
+   "group": "Body_Rear",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 29
+  },
+  {
+   "name": "Body_Rear__C09__Matte_Green",
+   "group": "Body_Rear",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 62
+  },
+  {
+   "name": "Body_Rear__C09__Reflectors",
+   "group": "Body_Rear",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 4
+  },
+  {
+   "name": "Body_Rear__C09__WindowsTrims",
+   "group": "Body_Rear",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 61
+  },
+  {
+   "name": "Body_Rear__C10__UnderCarrier",
+   "group": "Body_Rear",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 19
+  },
+  {
+   "name": "Brakes__BlackChrome",
+   "group": "Brakes",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 134
+  },
+  {
+   "name": "Brakes__BrakePads",
+   "group": "Brakes",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 248
+  },
+  {
+   "name": "Brakes__Interior",
+   "group": "Brakes",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 118
+  },
+  {
+   "name": "Brakes__YellowTrims",
+   "group": "Brakes",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 546
+  },
+  {
+   "name": "Door_L__C01__BlackChrome",
+   "group": "Door_L",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 24
+  },
+  {
+   "name": "Door_L__C01__Interior",
+   "group": "Door_L",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 54
+  },
+  {
+   "name": "Door_L__C01__Matte_Green",
+   "group": "Door_L",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 19
+  },
+  {
+   "name": "Door_L__C02__Interior",
+   "group": "Door_L",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 57
+  },
+  {
+   "name": "Door_L__C03__Interior",
+   "group": "Door_L",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 294
+  },
+  {
+   "name": "Door_L__C03__Matte_Green",
+   "group": "Door_L",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 61
+  },
+  {
+   "name": "Door_L__C04__BlackChrome",
+   "group": "Door_L",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 24
+  },
+  {
+   "name": "Door_L__C04__Interior",
+   "group": "Door_L",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 49
+  },
+  {
+   "name": "Door_L__C04__Matte_Green",
+   "group": "Door_L",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 426
+  },
+  {
+   "name": "Door_L__C05__Black1",
+   "group": "Door_L",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Door_L__C05__BlackChrome",
+   "group": "Door_L",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 24
+  },
+  {
+   "name": "Door_L__C05__Interior",
+   "group": "Door_L",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 254
+  },
+  {
+   "name": "Door_L__C05__Matte_Green",
+   "group": "Door_L",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 61
+  },
+  {
+   "name": "Door_L__C06__Interior",
+   "group": "Door_L",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 323
+  },
+  {
+   "name": "Door_L__C06__Matte_Green",
+   "group": "Door_L",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 51
+  },
+  {
+   "name": "Door_L__C07__Interior",
+   "group": "Door_L",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 123
+  },
+  {
+   "name": "Door_L__C07__Matte_Green",
+   "group": "Door_L",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Door_L__C08__Interior",
+   "group": "Door_L",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 115
+  },
+  {
+   "name": "Door_L__C08__Matte_Green",
+   "group": "Door_L",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 31
+  },
+  {
+   "name": "Door_RL__C01__BlackChrome",
+   "group": "Door_RL",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 4
+  },
+  {
+   "name": "Door_RL__C01__Interior",
+   "group": "Door_RL",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 86
+  },
+  {
+   "name": "Door_RL__C01__Matte_Green",
+   "group": "Door_RL",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 3
+  },
+  {
+   "name": "Door_RL__C02__Black1",
+   "group": "Door_RL",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 114
+  },
+  {
+   "name": "Door_RL__C02__BlackChrome",
+   "group": "Door_RL",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 55
+  },
+  {
+   "name": "Door_RL__C02__Interior",
+   "group": "Door_RL",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 364
+  },
+  {
+   "name": "Door_RL__C02__Matte_Green",
+   "group": "Door_RL",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 62
+  },
+  {
+   "name": "Door_RL__C03__Interior",
+   "group": "Door_RL",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 471
+  },
+  {
+   "name": "Door_RL__C03__Matte_Green",
+   "group": "Door_RL",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 93
+  },
+  {
+   "name": "Door_RL__C04__Interior",
+   "group": "Door_RL",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 54
+  },
+  {
+   "name": "Door_RL__C04__Matte_Green",
+   "group": "Door_RL",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 42
+  },
+  {
+   "name": "Door_RL__C05__BlackChrome",
+   "group": "Door_RL",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 46
+  },
+  {
+   "name": "Door_RL__C05__Interior",
+   "group": "Door_RL",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 195
+  },
+  {
+   "name": "Door_RL__C05__Matte_Green",
+   "group": "Door_RL",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 60
+  },
+  {
+   "name": "Door_RL__C06__BlackChrome",
+   "group": "Door_RL",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 14
+  },
+  {
+   "name": "Door_RL__C06__Interior",
+   "group": "Door_RL",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 176
+  },
+  {
+   "name": "Door_RL__C06__Matte_Green",
+   "group": "Door_RL",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 449
+  },
+  {
+   "name": "Door_RL__C07__Interior",
+   "group": "Door_RL",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 239
+  },
+  {
+   "name": "Door_RL__C07__Matte_Green",
+   "group": "Door_RL",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 59
+  },
+  {
+   "name": "Door_RR__C01__Interior",
+   "group": "Door_RR",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 60
+  },
+  {
+   "name": "Door_RR__C01__Matte_Green",
+   "group": "Door_RR",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 71
+  },
+  {
+   "name": "Door_RR__C02__Interior",
+   "group": "Door_RR",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Door_RR__C03__BlackChrome",
+   "group": "Door_RR",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Door_RR__C03__Interior",
+   "group": "Door_RR",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 44
+  },
+  {
+   "name": "Door_RR__C03__Matte_Green",
+   "group": "Door_RR",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 45
+  },
+  {
+   "name": "Door_RR__C04__Black1",
+   "group": "Door_RR",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 114
+  },
+  {
+   "name": "Door_RR__C04__BlackChrome",
+   "group": "Door_RR",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 24
+  },
+  {
+   "name": "Door_RR__C04__BlackTrims1",
+   "group": "Door_RR",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 232
+  },
+  {
+   "name": "Door_RR__C04__Interior",
+   "group": "Door_RR",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 330
+  },
+  {
+   "name": "Door_RR__C04__Matte_Green",
+   "group": "Door_RR",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 72
+  },
+  {
+   "name": "Door_RR__C05__Interior",
+   "group": "Door_RR",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 437
+  },
+  {
+   "name": "Door_RR__C05__Matte_Green",
+   "group": "Door_RR",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 37
+  },
+  {
+   "name": "Door_RR__C06__BlackChrome",
+   "group": "Door_RR",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 84
+  },
+  {
+   "name": "Door_RR__C06__BlackTrims1",
+   "group": "Door_RR",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 8
+  },
+  {
+   "name": "Door_RR__C06__Interior",
+   "group": "Door_RR",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 160
+  },
+  {
+   "name": "Door_RR__C06__Matte_Green",
+   "group": "Door_RR",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 480
+  },
+  {
+   "name": "Door_RR__C07__Interior",
+   "group": "Door_RR",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 114
+  },
+  {
+   "name": "Door_RR__C07__Matte_Green",
+   "group": "Door_RR",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 61
+  },
+  {
+   "name": "Door_R__C01__BlackChrome",
+   "group": "Door_R",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 24
+  },
+  {
+   "name": "Door_R__C01__BlackTrims1",
+   "group": "Door_R",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 5
+  },
+  {
+   "name": "Door_R__C01__Interior",
+   "group": "Door_R",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 67
+  },
+  {
+   "name": "Door_R__C01__Matte_Green",
+   "group": "Door_R",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 416
+  },
+  {
+   "name": "Door_R__C02__Interior",
+   "group": "Door_R",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 52
+  },
+  {
+   "name": "Door_R__C02__Matte_Green",
+   "group": "Door_R",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 64
+  },
+  {
+   "name": "Door_R__C03__Interior",
+   "group": "Door_R",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 290
+  },
+  {
+   "name": "Door_R__C03__Matte_Green",
+   "group": "Door_R",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 56
+  },
+  {
+   "name": "Door_R__C04__Interior",
+   "group": "Door_R",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 55
+  },
+  {
+   "name": "Door_R__C05__Interior",
+   "group": "Door_R",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 32
+  },
+  {
+   "name": "Door_R__C05__Matte_Green",
+   "group": "Door_R",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 8
+  },
+  {
+   "name": "Door_R__C06__Black1",
+   "group": "Door_R",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Door_R__C06__BlackChrome",
+   "group": "Door_R",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 7
+  },
+  {
+   "name": "Door_R__C06__BlackTrims1",
+   "group": "Door_R",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 114
+  },
+  {
+   "name": "Door_R__C06__Interior",
+   "group": "Door_R",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 348
+  },
+  {
+   "name": "Door_R__C06__Matte_Green",
+   "group": "Door_R",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 82
+  },
+  {
+   "name": "Door_R__C07__BlackChrome",
+   "group": "Door_R",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Door_R__C07__Interior",
+   "group": "Door_R",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 141
+  },
+  {
+   "name": "Door_R__C07__Matte_Green",
+   "group": "Door_R",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 34
+  },
+  {
+   "name": "Door_R__C08__BlackChrome",
+   "group": "Door_R",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 29
+  },
+  {
+   "name": "Door_R__C08__Interior",
+   "group": "Door_R",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "Door_R__C08__Matte_Green",
+   "group": "Door_R",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 19
+  },
+  {
+   "name": "FrontBumper__C01__Grille1",
+   "group": "FrontBumper",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 110
+  },
+  {
+   "name": "FrontBumper__C01__Matte_Green",
+   "group": "FrontBumper",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "FrontBumper__C01__UnderCarrier",
+   "group": "FrontBumper",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 5
+  },
+  {
+   "name": "FrontBumper__C02__UnderCarrier",
+   "group": "FrontBumper",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 7
+  },
+  {
+   "name": "FrontBumper__C03__Carbon_Fiber",
+   "group": "FrontBumper",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 11
+  },
+  {
+   "name": "FrontBumper__C03__Grille1",
+   "group": "FrontBumper",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 169
+  },
+  {
+   "name": "FrontBumper__C03__Matte_Green",
+   "group": "FrontBumper",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 22
+  },
+  {
+   "name": "FrontBumper__C03__UnderCarrier",
+   "group": "FrontBumper",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 19
+  },
+  {
+   "name": "FrontBumper__C04__BlackChrome",
+   "group": "FrontBumper",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 178
+  },
+  {
+   "name": "FrontBumper__C04__Carbon_Fiber",
+   "group": "FrontBumper",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 13
+  },
+  {
+   "name": "FrontBumper__C04__Grille1",
+   "group": "FrontBumper",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 3
+  },
+  {
+   "name": "FrontBumper__C04__Matte_Green",
+   "group": "FrontBumper",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 133
+  },
+  {
+   "name": "FrontBumper__C04__UnderCarrier",
+   "group": "FrontBumper",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 2
+  },
+  {
+   "name": "FrontBumper__C04__YellowTrims",
+   "group": "FrontBumper",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 22
+  },
+  {
+   "name": "FrontBumper__C05__BlackChrome",
+   "group": "FrontBumper",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 1
+  },
+  {
+   "name": "FrontBumper__C05__Carbon_Fiber",
+   "group": "FrontBumper",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 44
+  },
+  {
+   "name": "FrontBumper__C05__Grille1",
+   "group": "FrontBumper",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 52
+  },
+  {
+   "name": "FrontBumper__C05__Matte_Green",
+   "group": "FrontBumper",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 87
+  },
+  {
+   "name": "FrontBumper__C05__UnderCarrier",
+   "group": "FrontBumper",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "FrontBumper__C05__YellowTrims",
+   "group": "FrontBumper",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 28
+  },
+  {
+   "name": "FrontBumper__C06__Carbon_Fiber",
+   "group": "FrontBumper",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 1
+  },
+  {
+   "name": "FrontBumper__C06__Matte_Green",
+   "group": "FrontBumper",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 35
+  },
+  {
+   "name": "FrontBumper__C06__UnderCarrier",
+   "group": "FrontBumper",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 6
+  },
+  {
+   "name": "FrontBumper__C07__Carbon_Fiber",
+   "group": "FrontBumper",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 31
+  },
+  {
+   "name": "FrontBumper__C07__Grille1",
+   "group": "FrontBumper",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 41
+  },
+  {
+   "name": "FrontBumper__C07__Matte_Green",
+   "group": "FrontBumper",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 45
+  },
+  {
+   "name": "FrontBumper__C07__UnderCarrier",
+   "group": "FrontBumper",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 10
+  },
+  {
+   "name": "FrontBumper__C07__YellowTrims",
+   "group": "FrontBumper",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "FrontBumper__C08__BlackChrome",
+   "group": "FrontBumper",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 410
+  },
+  {
+   "name": "FrontBumper__C08__Carbon_Fiber",
+   "group": "FrontBumper",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 8
+  },
+  {
+   "name": "FrontBumper__C08__Interior",
+   "group": "FrontBumper",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "FrontBumper__C08__Matte_Green",
+   "group": "FrontBumper",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 250
+  },
+  {
+   "name": "FrontBumper__C08__UnderCarrier",
+   "group": "FrontBumper",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 1
+  },
+  {
+   "name": "FrontBumper__C08__YellowTrims",
+   "group": "FrontBumper",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 76
+  },
+  {
+   "name": "FrontBumper__C09__BlackChrome",
+   "group": "FrontBumper",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 172
+  },
+  {
+   "name": "FrontBumper__C09__Carbon_Fiber",
+   "group": "FrontBumper",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 1
+  },
+  {
+   "name": "FrontBumper__C09__Interior",
+   "group": "FrontBumper",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 186
+  },
+  {
+   "name": "FrontBumper__C09__Matte_Green",
+   "group": "FrontBumper",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 106
+  },
+  {
+   "name": "FrontBumper__C09__YellowTrims",
+   "group": "FrontBumper",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 60
+  },
+  {
+   "name": "FrontBumper__C10__BlackChrome",
+   "group": "FrontBumper",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 167
+  },
+  {
+   "name": "FrontBumper__C10__Carbon_Fiber",
+   "group": "FrontBumper",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 1
+  },
+  {
+   "name": "FrontBumper__C10__Interior",
+   "group": "FrontBumper",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 29
+  },
+  {
+   "name": "FrontBumper__C10__Matte_Green",
+   "group": "FrontBumper",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 61
+  },
+  {
+   "name": "FrontBumper__C11__Carbon_Fiber",
+   "group": "FrontBumper",
+   "chunk": 11,
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "FrontBumper__C11__Grille1",
+   "group": "FrontBumper",
+   "chunk": 11,
+   "dmg": false,
+   "tris": 121
+  },
+  {
+   "name": "FrontBumper__C11__Matte_Green",
+   "group": "FrontBumper",
+   "chunk": 11,
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "FrontBumper__C11__UnderCarrier",
+   "group": "FrontBumper",
+   "chunk": 11,
+   "dmg": false,
+   "tris": 5
+  },
+  {
+   "name": "FrontBumper__C11__YellowTrims",
+   "group": "FrontBumper",
+   "chunk": 11,
+   "dmg": false,
+   "tris": 23
+  },
+  {
+   "name": "FrontBumper__C12__BlackChrome",
+   "group": "FrontBumper",
+   "chunk": 12,
+   "dmg": false,
+   "tris": 62
+  },
+  {
+   "name": "FrontBumper__C12__Carbon_Fiber",
+   "group": "FrontBumper",
+   "chunk": 12,
+   "dmg": false,
+   "tris": 9
+  },
+  {
+   "name": "FrontBumper__C12__Grille1",
+   "group": "FrontBumper",
+   "chunk": 12,
+   "dmg": false,
+   "tris": 162
+  },
+  {
+   "name": "FrontBumper__C12__Matte_Green",
+   "group": "FrontBumper",
+   "chunk": 12,
+   "dmg": false,
+   "tris": 56
+  },
+  {
+   "name": "FrontBumper__C12__UnderCarrier",
+   "group": "FrontBumper",
+   "chunk": 12,
+   "dmg": false,
+   "tris": 5
+  },
+  {
+   "name": "FrontBumper__C12__YellowTrims",
+   "group": "FrontBumper",
+   "chunk": 12,
+   "dmg": false,
+   "tris": 13
+  },
+  {
+   "name": "Glass_Door_L__C01__DMG__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 1,
+   "dmg": true,
+   "tris": 32
+  },
+  {
+   "name": "Glass_Door_L__C01__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 32
+  },
+  {
+   "name": "Glass_Door_L__C02__DMG__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 2,
+   "dmg": true,
+   "tris": 27
+  },
+  {
+   "name": "Glass_Door_L__C02__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 27
+  },
+  {
+   "name": "Glass_Door_L__C03__DMG__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 3,
+   "dmg": true,
+   "tris": 28
+  },
+  {
+   "name": "Glass_Door_L__C03__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 28
+  },
+  {
+   "name": "Glass_Door_L__C04__DMG__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 4,
+   "dmg": true,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Door_L__C04__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Door_L__C05__DMG__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 5,
+   "dmg": true,
+   "tris": 23
+  },
+  {
+   "name": "Glass_Door_L__C05__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 23
+  },
+  {
+   "name": "Glass_Door_L__C06__DMG__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 6,
+   "dmg": true,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Door_L__C06__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Door_L__C07__DMG__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 7,
+   "dmg": true,
+   "tris": 28
+  },
+  {
+   "name": "Glass_Door_L__C07__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 28
+  },
+  {
+   "name": "Glass_Door_L__C08__DMG__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 8,
+   "dmg": true,
+   "tris": 38
+  },
+  {
+   "name": "Glass_Door_L__C08__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 38
+  },
+  {
+   "name": "Glass_Door_L__C09__DMG__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 9,
+   "dmg": true,
+   "tris": 17
+  },
+  {
+   "name": "Glass_Door_L__C09__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "Glass_Door_L__C10__DMG__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 10,
+   "dmg": true,
+   "tris": 29
+  },
+  {
+   "name": "Glass_Door_L__C10__Windows",
+   "group": "Glass_Door_L",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 29
+  },
+  {
+   "name": "Glass_Door_RL__C01__DMG__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 1,
+   "dmg": true,
+   "tris": 45
+  },
+  {
+   "name": "Glass_Door_RL__C01__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 45
+  },
+  {
+   "name": "Glass_Door_RL__C02__DMG__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 2,
+   "dmg": true,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Door_RL__C02__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Door_RL__C03__DMG__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 3,
+   "dmg": true,
+   "tris": 27
+  },
+  {
+   "name": "Glass_Door_RL__C03__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 27
+  },
+  {
+   "name": "Glass_Door_RL__C04__DMG__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 4,
+   "dmg": true,
+   "tris": 40
+  },
+  {
+   "name": "Glass_Door_RL__C04__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 40
+  },
+  {
+   "name": "Glass_Door_RL__C05__DMG__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 5,
+   "dmg": true,
+   "tris": 23
+  },
+  {
+   "name": "Glass_Door_RL__C05__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 23
+  },
+  {
+   "name": "Glass_Door_RL__C06__DMG__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 6,
+   "dmg": true,
+   "tris": 66
+  },
+  {
+   "name": "Glass_Door_RL__C06__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 66
+  },
+  {
+   "name": "Glass_Door_RL__C07__DMG__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 7,
+   "dmg": true,
+   "tris": 76
+  },
+  {
+   "name": "Glass_Door_RL__C07__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 76
+  },
+  {
+   "name": "Glass_Door_RL__C08__DMG__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 8,
+   "dmg": true,
+   "tris": 32
+  },
+  {
+   "name": "Glass_Door_RL__C08__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 32
+  },
+  {
+   "name": "Glass_Door_RL__C09__DMG__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 9,
+   "dmg": true,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Door_RL__C09__Windows",
+   "group": "Glass_Door_RL",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Door_RR__C01__DMG__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 1,
+   "dmg": true,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Door_RR__C01__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Door_RR__C02__DMG__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 2,
+   "dmg": true,
+   "tris": 14
+  },
+  {
+   "name": "Glass_Door_RR__C02__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 14
+  },
+  {
+   "name": "Glass_Door_RR__C03__DMG__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 3,
+   "dmg": true,
+   "tris": 77
+  },
+  {
+   "name": "Glass_Door_RR__C03__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 77
+  },
+  {
+   "name": "Glass_Door_RR__C04__DMG__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 4,
+   "dmg": true,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Door_RR__C04__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Door_RR__C05__DMG__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 5,
+   "dmg": true,
+   "tris": 46
+  },
+  {
+   "name": "Glass_Door_RR__C05__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 46
+  },
+  {
+   "name": "Glass_Door_RR__C06__DMG__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 6,
+   "dmg": true,
+   "tris": 11
+  },
+  {
+   "name": "Glass_Door_RR__C06__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 11
+  },
+  {
+   "name": "Glass_Door_RR__C07__DMG__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 7,
+   "dmg": true,
+   "tris": 31
+  },
+  {
+   "name": "Glass_Door_RR__C07__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 31
+  },
+  {
+   "name": "Glass_Door_RR__C08__DMG__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 8,
+   "dmg": true,
+   "tris": 127
+  },
+  {
+   "name": "Glass_Door_RR__C08__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 127
+  },
+  {
+   "name": "Glass_Door_RR__C09__DMG__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 9,
+   "dmg": true,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Door_RR__C09__Windows",
+   "group": "Glass_Door_RR",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Door_R__C01__DMG__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 1,
+   "dmg": true,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Door_R__C01__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Door_R__C02__DMG__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 2,
+   "dmg": true,
+   "tris": 37
+  },
+  {
+   "name": "Glass_Door_R__C02__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 37
+  },
+  {
+   "name": "Glass_Door_R__C03__DMG__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 3,
+   "dmg": true,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Door_R__C03__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Door_R__C04__DMG__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 4,
+   "dmg": true,
+   "tris": 28
+  },
+  {
+   "name": "Glass_Door_R__C04__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 28
+  },
+  {
+   "name": "Glass_Door_R__C05__DMG__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 5,
+   "dmg": true,
+   "tris": 33
+  },
+  {
+   "name": "Glass_Door_R__C05__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 33
+  },
+  {
+   "name": "Glass_Door_R__C06__DMG__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 6,
+   "dmg": true,
+   "tris": 19
+  },
+  {
+   "name": "Glass_Door_R__C06__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 19
+  },
+  {
+   "name": "Glass_Door_R__C07__DMG__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 7,
+   "dmg": true,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Door_R__C07__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Door_R__C08__DMG__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 8,
+   "dmg": true,
+   "tris": 21
+  },
+  {
+   "name": "Glass_Door_R__C08__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 21
+  },
+  {
+   "name": "Glass_Door_R__C09__DMG__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 9,
+   "dmg": true,
+   "tris": 23
+  },
+  {
+   "name": "Glass_Door_R__C09__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 23
+  },
+  {
+   "name": "Glass_Door_R__C10__DMG__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 10,
+   "dmg": true,
+   "tris": 22
+  },
+  {
+   "name": "Glass_Door_R__C10__Windows",
+   "group": "Glass_Door_R",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 22
+  },
+  {
+   "name": "Glass_Rear__C01__DMG__Windows",
+   "group": "Glass_Rear",
+   "chunk": 1,
+   "dmg": true,
+   "tris": 45
+  },
+  {
+   "name": "Glass_Rear__C01__Windows",
+   "group": "Glass_Rear",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 45
+  },
+  {
+   "name": "Glass_Rear__C02__DMG__Windows",
+   "group": "Glass_Rear",
+   "chunk": 2,
+   "dmg": true,
+   "tris": 51
+  },
+  {
+   "name": "Glass_Rear__C02__Windows",
+   "group": "Glass_Rear",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 51
+  },
+  {
+   "name": "Glass_Rear__C03__DMG__Windows",
+   "group": "Glass_Rear",
+   "chunk": 3,
+   "dmg": true,
+   "tris": 49
+  },
+  {
+   "name": "Glass_Rear__C03__Windows",
+   "group": "Glass_Rear",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 49
+  },
+  {
+   "name": "Glass_Rear__C04__DMG__Windows",
+   "group": "Glass_Rear",
+   "chunk": 4,
+   "dmg": true,
+   "tris": 26
+  },
+  {
+   "name": "Glass_Rear__C04__Windows",
+   "group": "Glass_Rear",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 26
+  },
+  {
+   "name": "Glass_Rear__C05__DMG__Windows",
+   "group": "Glass_Rear",
+   "chunk": 5,
+   "dmg": true,
+   "tris": 37
+  },
+  {
+   "name": "Glass_Rear__C05__Windows",
+   "group": "Glass_Rear",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 37
+  },
+  {
+   "name": "Glass_Rear__C06__DMG__Windows",
+   "group": "Glass_Rear",
+   "chunk": 6,
+   "dmg": true,
+   "tris": 61
+  },
+  {
+   "name": "Glass_Rear__C06__Windows",
+   "group": "Glass_Rear",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 61
+  },
+  {
+   "name": "Glass_Rear__C07__DMG__Windows",
+   "group": "Glass_Rear",
+   "chunk": 7,
+   "dmg": true,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Rear__C07__Windows",
+   "group": "Glass_Rear",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Rear__C08__DMG__Windows",
+   "group": "Glass_Rear",
+   "chunk": 8,
+   "dmg": true,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Rear__C08__Windows",
+   "group": "Glass_Rear",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Rear__C09__DMG__Windows",
+   "group": "Glass_Rear",
+   "chunk": 9,
+   "dmg": true,
+   "tris": 32
+  },
+  {
+   "name": "Glass_Rear__C09__Windows",
+   "group": "Glass_Rear",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 32
+  },
+  {
+   "name": "Glass_Rear__C10__DMG__Windows",
+   "group": "Glass_Rear",
+   "chunk": 10,
+   "dmg": true,
+   "tris": 28
+  },
+  {
+   "name": "Glass_Rear__C10__Windows",
+   "group": "Glass_Rear",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 28
+  },
+  {
+   "name": "Glass_Rear__C11__DMG__Windows",
+   "group": "Glass_Rear",
+   "chunk": 11,
+   "dmg": true,
+   "tris": 38
+  },
+  {
+   "name": "Glass_Rear__C11__Windows",
+   "group": "Glass_Rear",
+   "chunk": 11,
+   "dmg": false,
+   "tris": 38
+  },
+  {
+   "name": "Glass_Rear__C12__DMG__Windows",
+   "group": "Glass_Rear",
+   "chunk": 12,
+   "dmg": true,
+   "tris": 50
+  },
+  {
+   "name": "Glass_Rear__C12__Windows",
+   "group": "Glass_Rear",
+   "chunk": 12,
+   "dmg": false,
+   "tris": 50
+  },
+  {
+   "name": "Glass_Rear__C13__DMG__Windows",
+   "group": "Glass_Rear",
+   "chunk": 13,
+   "dmg": true,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Rear__C13__Windows",
+   "group": "Glass_Rear",
+   "chunk": 13,
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Rear__C14__DMG__Windows",
+   "group": "Glass_Rear",
+   "chunk": 14,
+   "dmg": true,
+   "tris": 26
+  },
+  {
+   "name": "Glass_Rear__C14__Windows",
+   "group": "Glass_Rear",
+   "chunk": 14,
+   "dmg": false,
+   "tris": 26
+  },
+  {
+   "name": "Glass_Rear__C15__DMG__Windows",
+   "group": "Glass_Rear",
+   "chunk": 15,
+   "dmg": true,
+   "tris": 45
+  },
+  {
+   "name": "Glass_Rear__C15__Windows",
+   "group": "Glass_Rear",
+   "chunk": 15,
+   "dmg": false,
+   "tris": 45
+  },
+  {
+   "name": "Glass_Rear__C16__DMG__Windows",
+   "group": "Glass_Rear",
+   "chunk": 16,
+   "dmg": true,
+   "tris": 39
+  },
+  {
+   "name": "Glass_Rear__C16__Windows",
+   "group": "Glass_Rear",
+   "chunk": 16,
+   "dmg": false,
+   "tris": 39
+  },
+  {
+   "name": "Glass_Roof__C01__DMG__Windows",
+   "group": "Glass_Roof",
+   "chunk": 1,
+   "dmg": true,
+   "tris": 28
+  },
+  {
+   "name": "Glass_Roof__C01__Windows",
+   "group": "Glass_Roof",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 28
+  },
+  {
+   "name": "Glass_Roof__C02__DMG__Windows",
+   "group": "Glass_Roof",
+   "chunk": 2,
+   "dmg": true,
+   "tris": 27
+  },
+  {
+   "name": "Glass_Roof__C02__Windows",
+   "group": "Glass_Roof",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 27
+  },
+  {
+   "name": "Glass_Roof__C03__DMG__Windows",
+   "group": "Glass_Roof",
+   "chunk": 3,
+   "dmg": true,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Roof__C03__Windows",
+   "group": "Glass_Roof",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Roof__C04__DMG__Windows",
+   "group": "Glass_Roof",
+   "chunk": 4,
+   "dmg": true,
+   "tris": 41
+  },
+  {
+   "name": "Glass_Roof__C04__Windows",
+   "group": "Glass_Roof",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 41
+  },
+  {
+   "name": "Glass_Roof__C05__DMG__Windows",
+   "group": "Glass_Roof",
+   "chunk": 5,
+   "dmg": true,
+   "tris": 17
+  },
+  {
+   "name": "Glass_Roof__C05__Windows",
+   "group": "Glass_Roof",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "Glass_Roof__C06__DMG__Windows",
+   "group": "Glass_Roof",
+   "chunk": 6,
+   "dmg": true,
+   "tris": 37
+  },
+  {
+   "name": "Glass_Roof__C06__Windows",
+   "group": "Glass_Roof",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 37
+  },
+  {
+   "name": "Glass_Roof__C07__DMG__Windows",
+   "group": "Glass_Roof",
+   "chunk": 7,
+   "dmg": true,
+   "tris": 23
+  },
+  {
+   "name": "Glass_Roof__C07__Windows",
+   "group": "Glass_Roof",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 23
+  },
+  {
+   "name": "Glass_Roof__C08__DMG__Windows",
+   "group": "Glass_Roof",
+   "chunk": 8,
+   "dmg": true,
+   "tris": 33
+  },
+  {
+   "name": "Glass_Roof__C08__Windows",
+   "group": "Glass_Roof",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 33
+  },
+  {
+   "name": "Glass_Roof__C09__DMG__Windows",
+   "group": "Glass_Roof",
+   "chunk": 9,
+   "dmg": true,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Roof__C09__Windows",
+   "group": "Glass_Roof",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Roof__C10__DMG__Windows",
+   "group": "Glass_Roof",
+   "chunk": 10,
+   "dmg": true,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Roof__C10__Windows",
+   "group": "Glass_Roof",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Roof__C11__DMG__Windows",
+   "group": "Glass_Roof",
+   "chunk": 11,
+   "dmg": true,
+   "tris": 46
+  },
+  {
+   "name": "Glass_Roof__C11__Windows",
+   "group": "Glass_Roof",
+   "chunk": 11,
+   "dmg": false,
+   "tris": 46
+  },
+  {
+   "name": "Glass_Roof__C12__DMG__Windows",
+   "group": "Glass_Roof",
+   "chunk": 12,
+   "dmg": true,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Roof__C12__Windows",
+   "group": "Glass_Roof",
+   "chunk": 12,
+   "dmg": false,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Windshield__C01__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 1,
+   "dmg": true,
+   "tris": 19
+  },
+  {
+   "name": "Glass_Windshield__C01__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 19
+  },
+  {
+   "name": "Glass_Windshield__C02__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 2,
+   "dmg": true,
+   "tris": 48
+  },
+  {
+   "name": "Glass_Windshield__C02__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 48
+  },
+  {
+   "name": "Glass_Windshield__C03__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 3,
+   "dmg": true,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Windshield__C03__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Windshield__C04__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 4,
+   "dmg": true,
+   "tris": 11
+  },
+  {
+   "name": "Glass_Windshield__C04__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 11
+  },
+  {
+   "name": "Glass_Windshield__C05__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 5,
+   "dmg": true,
+   "tris": 13
+  },
+  {
+   "name": "Glass_Windshield__C05__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 13
+  },
+  {
+   "name": "Glass_Windshield__C06__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 6,
+   "dmg": true,
+   "tris": 61
+  },
+  {
+   "name": "Glass_Windshield__C06__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 61
+  },
+  {
+   "name": "Glass_Windshield__C07__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 7,
+   "dmg": true,
+   "tris": 12
+  },
+  {
+   "name": "Glass_Windshield__C07__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Glass_Windshield__C08__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 8,
+   "dmg": true,
+   "tris": 12
+  },
+  {
+   "name": "Glass_Windshield__C08__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Glass_Windshield__C09__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 9,
+   "dmg": true,
+   "tris": 44
+  },
+  {
+   "name": "Glass_Windshield__C09__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 44
+  },
+  {
+   "name": "Glass_Windshield__C10__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 10,
+   "dmg": true,
+   "tris": 33
+  },
+  {
+   "name": "Glass_Windshield__C10__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 33
+  },
+  {
+   "name": "Glass_Windshield__C11__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 11,
+   "dmg": true,
+   "tris": 17
+  },
+  {
+   "name": "Glass_Windshield__C11__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 11,
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "Glass_Windshield__C12__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 12,
+   "dmg": true,
+   "tris": 38
+  },
+  {
+   "name": "Glass_Windshield__C12__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 12,
+   "dmg": false,
+   "tris": 38
+  },
+  {
+   "name": "Glass_Windshield__C13__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 13,
+   "dmg": true,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Windshield__C13__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 13,
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Windshield__C14__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 14,
+   "dmg": true,
+   "tris": 16
+  },
+  {
+   "name": "Glass_Windshield__C14__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 14,
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "Glass_Windshield__C15__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 15,
+   "dmg": true,
+   "tris": 31
+  },
+  {
+   "name": "Glass_Windshield__C15__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 15,
+   "dmg": false,
+   "tris": 31
+  },
+  {
+   "name": "Glass_Windshield__C16__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 16,
+   "dmg": true,
+   "tris": 38
+  },
+  {
+   "name": "Glass_Windshield__C16__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 16,
+   "dmg": false,
+   "tris": 38
+  },
+  {
+   "name": "Glass_Windshield__C17__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 17,
+   "dmg": true,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Windshield__C17__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 17,
+   "dmg": false,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Windshield__C18__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 18,
+   "dmg": true,
+   "tris": 26
+  },
+  {
+   "name": "Glass_Windshield__C18__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 18,
+   "dmg": false,
+   "tris": 26
+  },
+  {
+   "name": "Glass_Windshield__C19__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 19,
+   "dmg": true,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Windshield__C19__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 19,
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Windshield__C20__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 20,
+   "dmg": true,
+   "tris": 13
+  },
+  {
+   "name": "Glass_Windshield__C20__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 20,
+   "dmg": false,
+   "tris": 13
+  },
+  {
+   "name": "Glass_Windshield__C21__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 21,
+   "dmg": true,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Windshield__C21__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 21,
+   "dmg": false,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Windshield__C22__DMG__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 22,
+   "dmg": true,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Windshield__C22__Windows",
+   "group": "Glass_Windshield",
+   "chunk": 22,
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "HeadLight_L__DRLs",
+   "group": "HeadLight_L",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 93
+  },
+  {
+   "name": "HeadLight_L__HeadLightsGlass",
+   "group": "HeadLight_L",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "HeadLight_L__SilverChrome",
+   "group": "HeadLight_L",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 104
+  },
+  {
+   "name": "HeadLight_R__DRLs",
+   "group": "HeadLight_R",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 211
+  },
+  {
+   "name": "HeadLight_R__HeadLightsGlass",
+   "group": "HeadLight_R",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "HeadLight_R__SilverChrome",
+   "group": "HeadLight_R",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 118
+  },
+  {
+   "name": "Hood__C01__Black1",
+   "group": "Hood",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 59
+  },
+  {
+   "name": "Hood__C01__Matte_Green",
+   "group": "Hood",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 4
+  },
+  {
+   "name": "Hood__C01__WindowsTrims",
+   "group": "Hood",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 5
+  },
+  {
+   "name": "Hood__C02__Matte_Green",
+   "group": "Hood",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 10
+  },
+  {
+   "name": "Hood__C03__Matte_Green",
+   "group": "Hood",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 28
+  },
+  {
+   "name": "Hood__C04__Matte_Green",
+   "group": "Hood",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 5
+  },
+  {
+   "name": "Hood__C05__Matte_Green",
+   "group": "Hood",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 39
+  },
+  {
+   "name": "Hood__C06__Black1",
+   "group": "Hood",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 50
+  },
+  {
+   "name": "Hood__C06__Matte_Green",
+   "group": "Hood",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 19
+  },
+  {
+   "name": "Hood__C07__Matte_Green",
+   "group": "Hood",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "Hood__C08__Black1",
+   "group": "Hood",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 80
+  },
+  {
+   "name": "Hood__C08__Matte_Green",
+   "group": "Hood",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 7
+  },
+  {
+   "name": "Hood__C08__WindowsTrims",
+   "group": "Hood",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Hood__C09__Black1",
+   "group": "Hood",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 50
+  },
+  {
+   "name": "Hood__C09__Matte_Green",
+   "group": "Hood",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 32
+  },
+  {
+   "name": "Hood__C09__WindowsTrims",
+   "group": "Hood",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 8
+  },
+  {
+   "name": "Interior__Interior",
+   "group": "Interior",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 3868
+  },
+  {
+   "name": "Interior__Mirrors",
+   "group": "Interior",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 32
+  },
+  {
+   "name": "Mirror_L__Black1",
+   "group": "Mirror_L",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "Mirror_L__BlackTrims1",
+   "group": "Mirror_L",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 141
+  },
+  {
+   "name": "Mirror_L__Carbon_Fiber",
+   "group": "Mirror_L",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Mirror_L__DRLs",
+   "group": "Mirror_L",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "Mirror_L__Mirrors",
+   "group": "Mirror_L",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 83
+  },
+  {
+   "name": "Mirror_R__Black1",
+   "group": "Mirror_R",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 192
+  },
+  {
+   "name": "Mirror_R__BlackTrims1",
+   "group": "Mirror_R",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 142
+  },
+  {
+   "name": "Mirror_R__Carbon_Fiber",
+   "group": "Mirror_R",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Mirror_R__DRLs",
+   "group": "Mirror_R",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "Mirror_R__Mirrors",
+   "group": "Mirror_R",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 83
+  },
+  {
+   "name": "RearBumper__C01__Black1",
+   "group": "RearBumper",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 163
+  },
+  {
+   "name": "RearBumper__C01__BlackChrome",
+   "group": "RearBumper",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 36
+  },
+  {
+   "name": "RearBumper__C01__BlackTrims1",
+   "group": "RearBumper",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 1
+  },
+  {
+   "name": "RearBumper__C01__Carbon_Fiber",
+   "group": "RearBumper",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 36
+  },
+  {
+   "name": "RearBumper__C01__ChromeTrims",
+   "group": "RearBumper",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 69
+  },
+  {
+   "name": "RearBumper__C01__Interior",
+   "group": "RearBumper",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "RearBumper__C01__Matte_Green",
+   "group": "RearBumper",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 201
+  },
+  {
+   "name": "RearBumper__C01__Reflectors",
+   "group": "RearBumper",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 54
+  },
+  {
+   "name": "RearBumper__C01__UnderCarrier",
+   "group": "RearBumper",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 19
+  },
+  {
+   "name": "RearBumper__C02__Black1",
+   "group": "RearBumper",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 77
+  },
+  {
+   "name": "RearBumper__C02__BlackChrome",
+   "group": "RearBumper",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 36
+  },
+  {
+   "name": "RearBumper__C02__BlackTrims1",
+   "group": "RearBumper",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 7
+  },
+  {
+   "name": "RearBumper__C02__Carbon_Fiber",
+   "group": "RearBumper",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 40
+  },
+  {
+   "name": "RearBumper__C02__ChromeTrims",
+   "group": "RearBumper",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 71
+  },
+  {
+   "name": "RearBumper__C02__Matte_Green",
+   "group": "RearBumper",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 155
+  },
+  {
+   "name": "RearBumper__C02__Reflectors",
+   "group": "RearBumper",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 61
+  },
+  {
+   "name": "RearBumper__C02__UnderCarrier",
+   "group": "RearBumper",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "RearBumper__C03__BlackChrome",
+   "group": "RearBumper",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 26
+  },
+  {
+   "name": "RearBumper__C03__BlackTrims1",
+   "group": "RearBumper",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 49
+  },
+  {
+   "name": "RearBumper__C03__Carbon_Fiber",
+   "group": "RearBumper",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 40
+  },
+  {
+   "name": "RearBumper__C03__Interior",
+   "group": "RearBumper",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 21
+  },
+  {
+   "name": "RearBumper__C03__Matte_Green",
+   "group": "RearBumper",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 134
+  },
+  {
+   "name": "RearBumper__C03__UnderCarrier",
+   "group": "RearBumper",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 1
+  },
+  {
+   "name": "RearBumper__C04__BlackTrims1",
+   "group": "RearBumper",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 43
+  },
+  {
+   "name": "RearBumper__C04__Carbon_Fiber",
+   "group": "RearBumper",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "RearBumper__C04__Interior",
+   "group": "RearBumper",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 24
+  },
+  {
+   "name": "RearBumper__C04__Matte_Green",
+   "group": "RearBumper",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 68
+  },
+  {
+   "name": "RearBumper__C04__Reflectors",
+   "group": "RearBumper",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 5
+  },
+  {
+   "name": "RearBumper__C04__UnderCarrier",
+   "group": "RearBumper",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 2
+  },
+  {
+   "name": "RearBumper__C05__BlackChrome",
+   "group": "RearBumper",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 40
+  },
+  {
+   "name": "RearBumper__C05__Grille1",
+   "group": "RearBumper",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "RearBumper__C05__Matte_Green",
+   "group": "RearBumper",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 89
+  },
+  {
+   "name": "RearBumper__C05__UnderCarrier",
+   "group": "RearBumper",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 25
+  },
+  {
+   "name": "RearBumper__C06__BlackChrome",
+   "group": "RearBumper",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 11
+  },
+  {
+   "name": "RearBumper__C06__BlackTrims1",
+   "group": "RearBumper",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 5
+  },
+  {
+   "name": "RearBumper__C06__Grille1",
+   "group": "RearBumper",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "RearBumper__C06__Matte_Green",
+   "group": "RearBumper",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 102
+  },
+  {
+   "name": "RearBumper__C06__UnderCarrier",
+   "group": "RearBumper",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 28
+  },
+  {
+   "name": "RearBumper__C07__BlackChrome",
+   "group": "RearBumper",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 55
+  },
+  {
+   "name": "RearBumper__C07__UnderCarrier",
+   "group": "RearBumper",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 10
+  },
+  {
+   "name": "RearBumper__C08__BlackTrims1",
+   "group": "RearBumper",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 44
+  },
+  {
+   "name": "RearBumper__C08__Carbon_Fiber",
+   "group": "RearBumper",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 11
+  },
+  {
+   "name": "RearBumper__C08__Interior",
+   "group": "RearBumper",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 26
+  },
+  {
+   "name": "RearBumper__C08__Matte_Green",
+   "group": "RearBumper",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 57
+  },
+  {
+   "name": "RearBumper__C08__UnderCarrier",
+   "group": "RearBumper",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 3
+  },
+  {
+   "name": "RearBumper__C09__BlackChrome",
+   "group": "RearBumper",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 53
+  },
+  {
+   "name": "RearBumper__C09__UnderCarrier",
+   "group": "RearBumper",
+   "chunk": 9,
+   "dmg": false,
+   "tris": 11
+  },
+  {
+   "name": "RearBumper__C10__Matte_Green",
+   "group": "RearBumper",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 46
+  },
+  {
+   "name": "RearBumper__C10__UnderCarrier",
+   "group": "RearBumper",
+   "chunk": 10,
+   "dmg": false,
+   "tris": 9
+  },
+  {
+   "name": "RearBumper__C11__BlackChrome",
+   "group": "RearBumper",
+   "chunk": 11,
+   "dmg": false,
+   "tris": 80
+  },
+  {
+   "name": "RearBumper__C11__ChromeTrims",
+   "group": "RearBumper",
+   "chunk": 11,
+   "dmg": false,
+   "tris": 57
+  },
+  {
+   "name": "RearBumper__C11__Grille1",
+   "group": "RearBumper",
+   "chunk": 11,
+   "dmg": false,
+   "tris": 45
+  },
+  {
+   "name": "RearBumper__C11__Matte_Green",
+   "group": "RearBumper",
+   "chunk": 11,
+   "dmg": false,
+   "tris": 165
+  },
+  {
+   "name": "RearBumper__C12__BlackChrome",
+   "group": "RearBumper",
+   "chunk": 12,
+   "dmg": false,
+   "tris": 23
+  },
+  {
+   "name": "RearBumper__C12__BlackTrims1",
+   "group": "RearBumper",
+   "chunk": 12,
+   "dmg": false,
+   "tris": 115
+  },
+  {
+   "name": "RearBumper__C12__ChromeTrims",
+   "group": "RearBumper",
+   "chunk": 12,
+   "dmg": false,
+   "tris": 55
+  },
+  {
+   "name": "RearBumper__C12__Grille1",
+   "group": "RearBumper",
+   "chunk": 12,
+   "dmg": false,
+   "tris": 43
+  },
+  {
+   "name": "RearBumper__C12__Matte_Green",
+   "group": "RearBumper",
+   "chunk": 12,
+   "dmg": false,
+   "tris": 143
+  },
+  {
+   "name": "SteeringWheel__Interior",
+   "group": "SteeringWheel",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 1435
+  },
+  {
+   "name": "TailLight_L__BrakeLightsGlass1",
+   "group": "TailLight_L",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "TailLight_L__BrakeLightsGlass2",
+   "group": "TailLight_L",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "TailLight_L__DarkRedChrome",
+   "group": "TailLight_L",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "TailLight_L__RedMain",
+   "group": "TailLight_L",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "TailLight_L__SignalLens",
+   "group": "TailLight_L",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "TailLight_R__BrakeLightsGlass1",
+   "group": "TailLight_R",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "TailLight_R__BrakeLightsGlass2",
+   "group": "TailLight_R",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "TailLight_R__DarkRedChrome",
+   "group": "TailLight_R",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 118
+  },
+  {
+   "name": "TailLight_R__RedMain",
+   "group": "TailLight_R",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "TailLight_R__SignalLens",
+   "group": "TailLight_R",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Trunk__C01__Black1",
+   "group": "Trunk",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 35
+  },
+  {
+   "name": "Trunk__C01__BlackTrims1",
+   "group": "Trunk",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 75
+  },
+  {
+   "name": "Trunk__C01__BrakeLightsGlass1",
+   "group": "Trunk",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 37
+  },
+  {
+   "name": "Trunk__C01__BrakeLightsGlass2",
+   "group": "Trunk",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 27
+  },
+  {
+   "name": "Trunk__C01__DarkRedChrome",
+   "group": "Trunk",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 38
+  },
+  {
+   "name": "Trunk__C01__Interior",
+   "group": "Trunk",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 5
+  },
+  {
+   "name": "Trunk__C01__Matte_Green",
+   "group": "Trunk",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 161
+  },
+  {
+   "name": "Trunk__C01__RedMain",
+   "group": "Trunk",
+   "chunk": 1,
+   "dmg": false,
+   "tris": 43
+  },
+  {
+   "name": "Trunk__C02__ChromeTrims",
+   "group": "Trunk",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 56
+  },
+  {
+   "name": "Trunk__C02__DRLs",
+   "group": "Trunk",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Trunk__C02__Matte_Green",
+   "group": "Trunk",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 176
+  },
+  {
+   "name": "Trunk__C02__WindowsTrims",
+   "group": "Trunk",
+   "chunk": 2,
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Trunk__C03__ChromeTrims",
+   "group": "Trunk",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 4
+  },
+  {
+   "name": "Trunk__C03__Matte_Green",
+   "group": "Trunk",
+   "chunk": 3,
+   "dmg": false,
+   "tris": 130
+  },
+  {
+   "name": "Trunk__C04__Black1",
+   "group": "Trunk",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 60
+  },
+  {
+   "name": "Trunk__C04__BlackTrims1",
+   "group": "Trunk",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 141
+  },
+  {
+   "name": "Trunk__C04__BrakeLightsGlass1",
+   "group": "Trunk",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 60
+  },
+  {
+   "name": "Trunk__C04__BrakeLightsGlass2",
+   "group": "Trunk",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 62
+  },
+  {
+   "name": "Trunk__C04__DarkRedChrome",
+   "group": "Trunk",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 61
+  },
+  {
+   "name": "Trunk__C04__Interior",
+   "group": "Trunk",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 4
+  },
+  {
+   "name": "Trunk__C04__Matte_Green",
+   "group": "Trunk",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 201
+  },
+  {
+   "name": "Trunk__C04__RedMain",
+   "group": "Trunk",
+   "chunk": 4,
+   "dmg": false,
+   "tris": 59
+  },
+  {
+   "name": "Trunk__C05__Black1",
+   "group": "Trunk",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 25
+  },
+  {
+   "name": "Trunk__C05__BlackTrims1",
+   "group": "Trunk",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 23
+  },
+  {
+   "name": "Trunk__C05__BrakeLightsGlass1",
+   "group": "Trunk",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 23
+  },
+  {
+   "name": "Trunk__C05__BrakeLightsGlass2",
+   "group": "Trunk",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Trunk__C05__DarkRedChrome",
+   "group": "Trunk",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 21
+  },
+  {
+   "name": "Trunk__C05__Matte_Green",
+   "group": "Trunk",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 126
+  },
+  {
+   "name": "Trunk__C05__RedMain",
+   "group": "Trunk",
+   "chunk": 5,
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "Trunk__C06__Matte_Green",
+   "group": "Trunk",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 63
+  },
+  {
+   "name": "Trunk__C06__WindowsTrims",
+   "group": "Trunk",
+   "chunk": 6,
+   "dmg": false,
+   "tris": 53
+  },
+  {
+   "name": "Trunk__C07__Interior",
+   "group": "Trunk",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 4
+  },
+  {
+   "name": "Trunk__C07__Matte_Green",
+   "group": "Trunk",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 66
+  },
+  {
+   "name": "Trunk__C07__WindowsTrims",
+   "group": "Trunk",
+   "chunk": 7,
+   "dmg": false,
+   "tris": 46
+  },
+  {
+   "name": "Trunk__C08__ChromeTrims",
+   "group": "Trunk",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 60
+  },
+  {
+   "name": "Trunk__C08__DRLs",
+   "group": "Trunk",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Trunk__C08__Matte_Green",
+   "group": "Trunk",
+   "chunk": 8,
+   "dmg": false,
+   "tris": 112
+  },
+  {
+   "name": "Wheel_LF__BrakeRotors",
+   "group": "Wheel_LF",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "Wheel_LF__ChromeTrims",
+   "group": "Wheel_LF",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 156
+  },
+  {
+   "name": "Wheel_LF__Interior",
+   "group": "Wheel_LF",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 240
+  },
+  {
+   "name": "Wheel_LF__Rims1",
+   "group": "Wheel_LF",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Wheel_LF__Rims2",
+   "group": "Wheel_LF",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 1562
+  },
+  {
+   "name": "Wheel_LF__Tires",
+   "group": "Wheel_LF",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 199
+  },
+  {
+   "name": "Wheel_LR__BrakeRotors",
+   "group": "Wheel_LR",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "Wheel_LR__ChromeTrims",
+   "group": "Wheel_LR",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 157
+  },
+  {
+   "name": "Wheel_LR__Interior",
+   "group": "Wheel_LR",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 240
+  },
+  {
+   "name": "Wheel_LR__Rims1",
+   "group": "Wheel_LR",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Wheel_LR__Rims2",
+   "group": "Wheel_LR",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 1563
+  },
+  {
+   "name": "Wheel_LR__Tires",
+   "group": "Wheel_LR",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 198
+  },
+  {
+   "name": "Wheel_RF__BrakeRotors",
+   "group": "Wheel_RF",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "Wheel_RF__ChromeTrims",
+   "group": "Wheel_RF",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 148
+  },
+  {
+   "name": "Wheel_RF__Interior",
+   "group": "Wheel_RF",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 240
+  },
+  {
+   "name": "Wheel_RF__Rims1",
+   "group": "Wheel_RF",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Wheel_RF__Rims2",
+   "group": "Wheel_RF",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 1582
+  },
+  {
+   "name": "Wheel_RF__Tires",
+   "group": "Wheel_RF",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 188
+  },
+  {
+   "name": "Wheel_RR__BrakeRotors",
+   "group": "Wheel_RR",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "Wheel_RR__ChromeTrims",
+   "group": "Wheel_RR",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 148
+  },
+  {
+   "name": "Wheel_RR__Interior",
+   "group": "Wheel_RR",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 240
+  },
+  {
+   "name": "Wheel_RR__Rims1",
+   "group": "Wheel_RR",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Wheel_RR__Rims2",
+   "group": "Wheel_RR",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 1582
+  },
+  {
+   "name": "Wheel_RR__Tires",
+   "group": "Wheel_RR",
+   "chunk": 0,
+   "dmg": false,
+   "tris": 188
+  }
+ ],
+ "duplicate_tris_removed": 23424,
+ "groups_before_simplify": {
+  "Hood": 4046,
+  "Trunk": 16162,
+  "Body_Front": 14951,
+  "Mirror_R": 4216,
+  "RearBumper": 17713,
+  "Body_Mid": 24497,
+  "Door_RR": 20145,
+  "Door_R": 21323,
+  "Door_L": 28320,
+  "Door_RL": 26751,
+  "Mirror_L": 4218,
+  "FrontBumper": 29155,
+  "Brakes": 31388,
+  "Body_Rear": 3872,
+  "TailLight_L": 7247,
+  "TailLight_R": 7260,
+  "Wheel_LF": 16961,
+  "Wheel_RF": 16961,
+  "Wheel_RR": 16961,
+  "Wheel_LR": 16973,
+  "HeadLight_R": 7881,
+  "HeadLight_L": 7878,
+  "Interior": 156365,
+  "Glass_Roof": 462,
+  "Glass_Door_RL": 496,
+  "Glass_Windshield": 767,
+  "Glass_Rear": 916,
+  "Glass_Door_L": 239,
+  "Glass_Door_RR": 496,
+  "Glass_Door_R": 239,
+  "SteeringWheel": 20171
+ },
+ "hidden_faces_removed": 901,
+ "visible_tris": 46292,
+ "dmg_tris": 2764,
+ "part_count": 584,
+ "max_part_tris": 3868,
+ "materials_per_part_ok": true
+}

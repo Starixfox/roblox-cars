@@ -1,0 +1,7 @@
+'GAC AION RAY7' by GARAGISTA (Sketchfab), CC BY 4.0, modified for Roblox
+Source: https://sketchfab.com/3d-models/42986e524ed74e4f994cc1185c9d405c
+License: Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/)
+
+Changes: rescaled and re-oriented, reduced polygon count (High and Lite versions), brand marks,
+logos, plate text and tyre lettering removed, materials simplified, panels and glass split into
+damage groups and pre-fractured chunks, cracked glass versions and bay floors added.

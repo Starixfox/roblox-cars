@@ -1,0 +1,3286 @@
+{
+ "total_tris": 824904,
+ "mesh_count": 170,
+ "objects": [
+  {
+   "name": "EXT_PLASTIC_GLOSS_0",
+   "parent": null,
+   "tris": 91918,
+   "mats": [
+    "Carbonblack_coat"
+   ],
+   "min": [
+    -1.011,
+    -2.17,
+    0.371
+   ],
+   "max": [
+    1.011,
+    2.17,
+    1.164
+   ]
+  },
+  {
+   "name": "EXT_PLASTIC_GLOSS_5",
+   "parent": null,
+   "tris": 60636,
+   "mats": [
+    "Carbonblack_coat"
+   ],
+   "min": [
+    -0.948,
+    -2.299,
+    0.083
+   ],
+   "max": [
+    0.948,
+    2.272,
+    1.265
+   ]
+  },
+  {
+   "name": "INT_PLASTIC_3",
+   "parent": "COCKPIT_HR",
+   "tris": 53494,
+   "mats": [
+    "Smooth_plastic"
+   ],
+   "min": [
+    -0.754,
+    -0.922,
+    0.131
+   ],
+   "max": [
+    0.754,
+    1.135,
+    0.862
+   ]
+  },
+  {
+   "name": "INT_PLASTIC_8",
+   "parent": "COCKPIT_HR",
+   "tris": 42217,
+   "mats": [
+    "Smooth_plastic"
+   ],
+   "min": [
+    -0.721,
+    -0.884,
+    0.161
+   ],
+   "max": [
+    0.721,
+    0.599,
+    1.172
+   ]
+  },
+  {
+   "name": "INT_LEATHER_BLACK_1.002",
+   "parent": "COCKPIT_HR",
+   "tris": 31498,
+   "mats": [
+    "Seat_leather_2"
+   ],
+   "min": [
+    -0.726,
+    -0.987,
+    0.184
+   ],
+   "max": [
+    0.726,
+    0.518,
+    1.057
+   ]
+  },
+  {
+   "name": "INT_CHROME_BLACK_1",
+   "parent": "COCKPIT_HR",
+   "tris": 31191,
+   "mats": [
+    "RIM_chrome.001"
+   ],
+   "min": [
+    -0.706,
+    -0.694,
+    0.337
+   ],
+   "max": [
+    0.706,
+    0.534,
+    0.878
+   ]
+  },
+  {
+   "name": "INT_PLASTIC_GLOSS_0",
+   "parent": "COCKPIT_HR",
+   "tris": 26692,
+   "mats": [
+    "INT_PLASTIC_GLOSS"
+   ],
+   "min": [
+    -0.633,
+    -0.924,
+    0.475
+   ],
+   "max": [
+    0.633,
+    -0.121,
+    0.877
+   ]
+  },
+  {
+   "name": "EXT_CARBON_0",
+   "parent": null,
+   "tris": 24702,
+   "mats": [
+    "Carbonblack_coat"
+   ],
+   "min": [
+    -1.013,
+    -2.172,
+    0.076
+   ],
+   "max": [
+    1.013,
+    2.298,
+    1.275
+   ]
+  },
+  {
+   "name": "INT_CARBON_1",
+   "parent": "COCKPIT_HR",
+   "tris": 24145,
+   "mats": [
+    "Carbonblack_coat"
+   ],
+   "min": [
+    -0.689,
+    -0.458,
+    0.138
+   ],
+   "max": [
+    0.689,
+    0.535,
+    1.046
+   ]
+  },
+  {
+   "name": "ext_Body_fenders",
+   "parent": null,
+   "tris": 22164,
+   "mats": [
+    "CarPaint_flake"
+   ],
+   "min": [
+    -0.952,
+    -2.115,
+    0.135
+   ],
+   "max": [
+    0.952,
+    1.855,
+    1.214
+   ]
+  },
+  {
+   "name": "INT_PLASTIC_9",
+   "parent": "STEER_HR",
+   "tris": 17248,
+   "mats": [
+    "INT_PLASTIC"
+   ],
+   "min": [
+    0.194,
+    -0.358,
+    0.582
+   ],
+   "max": [
+    0.486,
+    -0.219,
+    0.782
+   ]
+  },
+  {
+   "name": "ext_Wheel_paint1_2.001",
+   "parent": "RIM.001",
+   "tris": 16172,
+   "mats": [
+    "RIM_chrome"
+   ],
+   "min": [
+    0.621,
+    0.913,
+    0.059
+   ],
+   "max": [
+    0.959,
+    1.486,
+    0.632
+   ]
+  },
+  {
+   "name": "ext_Wheel_paint1_2.002",
+   "parent": "RIM.003",
+   "tris": 16172,
+   "mats": [
+    "RIM_chrome"
+   ],
+   "min": [
+    -0.959,
+    0.913,
+    0.059
+   ],
+   "max": [
+    -0.621,
+    1.486,
+    0.632
+   ]
+  },
+  {
+   "name": "Plane.003",
+   "parent": "RIM.002",
+   "tris": 16172,
+   "mats": [
+    "RIM_chrome"
+   ],
+   "min": [
+    -0.946,
+    -1.531,
+    0.063
+   ],
+   "max": [
+    -0.665,
+    -0.984,
+    0.611
+   ]
+  },
+  {
+   "name": "Plane.142",
+   "parent": "RIM",
+   "tris": 16172,
+   "mats": [
+    "RIM_chrome"
+   ],
+   "min": [
+    0.67,
+    -1.531,
+    0.063
+   ],
+   "max": [
+    0.947,
+    -0.984,
+    0.611
+   ]
+  },
+  {
+   "name": "INT_LEATHER_BLACK_1",
+   "parent": "COCKPIT_HR",
+   "tris": 14242,
+   "mats": [
+    "Seat_leather_2"
+   ],
+   "min": [
+    -0.738,
+    -0.818,
+    0.437
+   ],
+   "max": [
+    0.738,
+    1.165,
+    0.921
+   ]
+  },
+  {
+   "name": "EXT_PLASTIC_HL_HOUSE",
+   "parent": null,
+   "tris": 11676,
+   "mats": [
+    "Smooth_plastic"
+   ],
+   "min": [
+    -0.818,
+    -1.897,
+    0.544
+   ],
+   "max": [
+    0.818,
+    -1.531,
+    0.775
+   ]
+  },
+  {
+   "name": "INT_CHROME_BLACK_0",
+   "parent": "STEER_HR",
+   "tris": 11520,
+   "mats": [
+    "INT_CHROME_BLACK"
+   ],
+   "min": [
+    0.196,
+    -0.318,
+    0.585
+   ],
+   "max": [
+    0.484,
+    -0.195,
+    0.768
+   ]
+  },
+  {
+   "name": "INT_CHROME_BLACK_2",
+   "parent": "COCKPIT_HR",
+   "tris": 10296,
+   "mats": [
+    "INT_CHROME_BLACK"
+   ],
+   "min": [
+    -0.629,
+    -0.942,
+    0.129
+   ],
+   "max": [
+    0.629,
+    0.335,
+    0.637
+   ]
+  },
+  {
+   "name": "int_leather_paint4_1",
+   "parent": "COCKPIT_HR",
+   "tris": 9292,
+   "mats": [
+    "int_leather_paint4"
+   ],
+   "min": [
+    -0.578,
+    0.524,
+    0.367
+   ],
+   "max": [
+    0.578,
+    1.141,
+    1.17
+   ]
+  },
+  {
+   "name": "EXT_CHROME_0",
+   "parent": null,
+   "tris": 9124,
+   "mats": [
+    "EXT_CHROME"
+   ],
+   "min": [
+    -0.798,
+    1.638,
+    0.656
+   ],
+   "max": [
+    0.798,
+    2.173,
+    1.259
+   ]
+  },
+  {
+   "name": "EXT_BLACK_MISC_1",
+   "parent": "COCKPIT_HR",
+   "tris": 8574,
+   "mats": [
+    "EXT_BLACK_MISC"
+   ],
+   "min": [
+    -0.723,
+    -0.991,
+    0.789
+   ],
+   "max": [
+    0.723,
+    1.632,
+    1.186
+   ]
+  },
+  {
+   "name": "INT_FABRIC_0",
+   "parent": "COCKPIT_HR",
+   "tris": 8356,
+   "mats": [
+    "INT_FABRIC"
+   ],
+   "min": [
+    -0.736,
+    -0.737,
+    0.646
+   ],
+   "max": [
+    0.736,
+    1.568,
+    1.218
+   ]
+  },
+  {
+   "name": "EXT_SHOCKWORKS_CALIPER_LF",
+   "parent": "SUSP_LF",
+   "tris": 8300,
+   "mats": [
+    "ext_Wheel_brake_caliper"
+   ],
+   "min": [
+    0.657,
+    -1.251,
+    0.057
+   ],
+   "max": [
+    0.82,
+    -0.97,
+    0.426
+   ]
+  },
+  {
+   "name": "EXT_SHOCKWORKS_CALIPER_LF.001",
+   "parent": "SUSP_LR",
+   "tris": 8300,
+   "mats": [
+    "ext_Wheel_brake_caliper"
+   ],
+   "min": [
+    0.704,
+    0.961,
+    0.185
+   ],
+   "max": [
+    0.834,
+    1.059,
+    0.489
+   ]
+  },
+  {
+   "name": "EXT_SHOCKWORKS_CALIPER_LF.002",
+   "parent": "SUSP_RR",
+   "tris": 8300,
+   "mats": [
+    "ext_Wheel_brake_caliper"
+   ],
+   "min": [
+    -0.818,
+    0.961,
+    0.185
+   ],
+   "max": [
+    -0.688,
+    1.059,
+    0.489
+   ]
+  },
+  {
+   "name": "EXT_SHOCKWORKS_CALIPER_RF",
+   "parent": "SUSP_RF",
+   "tris": 8300,
+   "mats": [
+    "ext_Wheel_brake_caliper"
+   ],
+   "min": [
+    -0.87,
+    -1.25,
+    0.056
+   ],
+   "max": [
+    -0.707,
+    -0.968,
+    0.425
+   ]
+  },
+  {
+   "name": "INT_CHROME_1",
+   "parent": "COCKPIT_HR",
+   "tris": 7840,
+   "mats": [
+    "EXT_CHROME"
+   ],
+   "min": [
+    -0.684,
+    -0.894,
+    0.162
+   ],
+   "max": [
+    0.684,
+    0.346,
+    1.133
+   ]
+  },
+  {
+   "name": "EXT_EXHAUST_0",
+   "parent": "EXHAUST",
+   "tris": 7808,
+   "mats": [
+    "EXT_EXHAUST"
+   ],
+   "min": [
+    -0.221,
+    1.886,
+    0.172
+   ],
+   "max": [
+    0.221,
+    2.31,
+    0.375
+   ]
+  },
+  {
+   "name": "ext_Body_rearBumper",
+   "parent": null,
+   "tris": 6522,
+   "mats": [
+    "CarPaint_flake"
+   ],
+   "min": [
+    -0.951,
+    1.297,
+    0.201
+   ],
+   "max": [
+    0.951,
+    2.272,
+    0.72
+   ]
+  },
+  {
+   "name": "EXT_GLASS",
+   "parent": null,
+   "tris": 6336,
+   "mats": [
+    "EXT_GLASS"
+   ],
+   "min": [
+    -0.807,
+    -2.171,
+    0.371
+   ],
+   "max": [
+    0.807,
+    2.123,
+    0.948
+   ]
+  },
+  {
+   "name": "EXT_PLASTIC_GLOSS_3",
+   "parent": null,
+   "tris": 6162,
+   "mats": [
+    "EXT_PLASTIC_GLOSS"
+   ],
+   "min": [
+    -0.688,
+    -1.072,
+    0.772
+   ],
+   "max": [
+    0.125,
+    -0.708,
+    0.853
+   ]
+  },
+  {
+   "name": "INT_CARPET_1",
+   "parent": "COCKPIT_HR",
+   "tris": 5940,
+   "mats": [
+    "Carpet_pattern"
+   ],
+   "min": [
+    -0.554,
+    0.409,
+    0.318
+   ],
+   "max": [
+    0.554,
+    1.597,
+    0.966
+   ]
+  },
+  {
+   "name": "INT_FABRIC_1",
+   "parent": "STEER_HR",
+   "tris": 5744,
+   "mats": [
+    "INT_FABRIC"
+   ],
+   "min": [
+    0.16,
+    -0.31,
+    0.563
+   ],
+   "max": [
+    0.52,
+    -0.183,
+    0.914
+   ]
+  },
+  {
+   "name": "EXT_PLASTIC_GLOSS_1",
+   "parent": null,
+   "tris": 5688,
+   "mats": [
+    "EXT_PLASTIC_GLOSS"
+   ],
+   "min": [
+    -0.098,
+    -0.989,
+    0.748
+   ],
+   "max": [
+    0.635,
+    -0.848,
+    0.859
+   ]
+  },
+  {
+   "name": "INT_CHROME_0",
+   "parent": "COCKPIT_HR",
+   "tris": 5548,
+   "mats": [
+    "INT_CHROME"
+   ],
+   "min": [
+    -0.519,
+    -0.456,
+    0.703
+   ],
+   "max": [
+    -0.436,
+    -0.453,
+    0.727
+   ]
+  },
+  {
+   "name": "Object_1113",
+   "parent": null,
+   "tris": 5298,
+   "mats": [
+    "Wheel_Paint_Red_61",
+    "Wheel_Paint_Red_62"
+   ],
+   "min": [
+    -0.141,
+    2.208,
+    0.358
+   ],
+   "max": [
+    0.142,
+    2.248,
+    0.501
+   ]
+  },
+  {
+   "name": "INT_PLASTIC_1",
+   "parent": "STEER_HR",
+   "tris": 5200,
+   "mats": [
+    "INT_PLASTIC"
+   ],
+   "min": [
+    0.192,
+    -0.326,
+    0.695
+   ],
+   "max": [
+    0.487,
+    -0.237,
+    0.774
+   ]
+  },
+  {
+   "name": "INT_PLASTIC_0",
+   "parent": "STEER_HR",
+   "tris": 4466,
+   "mats": [
+    "INT_PLASTIC"
+   ],
+   "min": [
+    0.209,
+    -0.352,
+    0.685
+   ],
+   "max": [
+    0.471,
+    -0.28,
+    0.795
+   ]
+  },
+  {
+   "name": "ext_Body_doors",
+   "parent": null,
+   "tris": 4064,
+   "mats": [
+    "CarPaint_flake"
+   ],
+   "min": [
+    -0.899,
+    -0.74,
+    0.204
+   ],
+   "max": [
+    0.899,
+    0.563,
+    0.849
+   ]
+  },
+  {
+   "name": "INT_LEATHER_BLACK_0",
+   "parent": "STEER_HR",
+   "tris": 3968,
+   "mats": [
+    "Seat_leather_2"
+   ],
+   "min": [
+    0.274,
+    -0.275,
+    0.654
+   ],
+   "max": [
+    0.405,
+    -0.221,
+    0.782
+   ]
+  },
+  {
+   "name": "EXT_WINDOW",
+   "parent": null,
+   "tris": 3954,
+   "mats": [
+    "EXT_WINDOW"
+   ],
+   "min": [
+    -0.736,
+    -0.991,
+    0.791
+   ],
+   "max": [
+    0.736,
+    1.63,
+    1.187
+   ]
+  },
+  {
+   "name": "INT_WINDOW",
+   "parent": "COCKPIT_HR",
+   "tris": 3954,
+   "mats": [
+    "INT_WINDOW"
+   ],
+   "min": [
+    -0.736,
+    -0.991,
+    0.791
+   ],
+   "max": [
+    0.736,
+    1.63,
+    1.187
+   ]
+  },
+  {
+   "name": "EXT_RIM_CHROME_1.001",
+   "parent": "RIM.001",
+   "tris": 3900,
+   "mats": [
+    "EXT_RIM_CHROME"
+   ],
+   "min": [
+    0.88,
+    1.163,
+    0.309
+   ],
+   "max": [
+    0.892,
+    1.236,
+    0.383
+   ]
+  },
+  {
+   "name": "EXT_RIM_CHROME_1.002",
+   "parent": "RIM.003",
+   "tris": 3900,
+   "mats": [
+    "EXT_RIM_CHROME"
+   ],
+   "min": [
+    -0.892,
+    1.163,
+    0.309
+   ],
+   "max": [
+    -0.88,
+    1.236,
+    0.383
+   ]
+  },
+  {
+   "name": "Plane.001",
+   "parent": "RIM.002",
+   "tris": 3900,
+   "mats": [
+    "EXT_RIM_CHROME"
+   ],
+   "min": [
+    -0.926,
+    -1.293,
+    0.302
+   ],
+   "max": [
+    -0.914,
+    -1.222,
+    0.373
+   ]
+  },
+  {
+   "name": "Plane.144",
+   "parent": "RIM",
+   "tris": 3900,
+   "mats": [
+    "EXT_RIM_CHROME"
+   ],
+   "min": [
+    0.914,
+    -1.293,
+    0.302
+   ],
+   "max": [
+    0.926,
+    -1.222,
+    0.373
+   ]
+  },
+  {
+   "name": "ext_Body_frontBumper",
+   "parent": null,
+   "tris": 3718,
+   "mats": [
+    "CarPaint_flake"
+   ],
+   "min": [
+    -0.917,
+    -2.285,
+    0.135
+   ],
+   "max": [
+    0.917,
+    -1.543,
+    0.543
+   ]
+  },
+  {
+   "name": "EXT_PLASTIC",
+   "parent": null,
+   "tris": 3712,
+   "mats": [
+    "EXT_PLASTIC"
+   ],
+   "min": [
+    -0.163,
+    2.221,
+    0.508
+   ],
+   "max": [
+    0.163,
+    2.262,
+    0.53
+   ]
+  },
+  {
+   "name": "INT_PLASTIC_4",
+   "parent": "COCKPIT_HR",
+   "tris": 3510,
+   "mats": [
+    "INT_PLASTIC"
+   ],
+   "min": [
+    -0.736,
+    -0.591,
+    0.688
+   ],
+   "max": [
+    0.736,
+    0.571,
+    1.149
+   ]
+  },
+  {
+   "name": "EXT_GLASS_RED",
+   "parent": null,
+   "tris": 3474,
+   "mats": [
+    "EXT_GLASS_RED"
+   ],
+   "min": [
+    -0.779,
+    1.776,
+    0.353
+   ],
+   "max": [
+    0.779,
+    2.168,
+    0.735
+   ]
+  },
+  {
+   "name": "int_leather_paint5",
+   "parent": "COCKPIT_HR",
+   "tris": 3160,
+   "mats": [
+    "Seat_leather_2.001"
+   ],
+   "min": [
+    -0.718,
+    -0.218,
+    0.186
+   ],
+   "max": [
+    0.718,
+    0.482,
+    0.666
+   ]
+  },
+  {
+   "name": "EXT_CHROME_6",
+   "parent": null,
+   "tris": 3040,
+   "mats": [
+    "EXT_CHROME"
+   ],
+   "min": [
+    -0.778,
+    -1.722,
+    0.591
+   ],
+   "max": [
+    0.778,
+    -1.623,
+    0.732
+   ]
+  },
+  {
+   "name": "INT_Stitching_2",
+   "parent": "COCKPIT_HR",
+   "tris": 2990,
+   "mats": [
+    "INT_Stitching_2"
+   ],
+   "min": [
+    -0.723,
+    -0.613,
+    0.252
+   ],
+   "max": [
+    0.723,
+    0.498,
+    1.058
+   ]
+  },
+  {
+   "name": "INT_CLUSTER_COLOR",
+   "parent": "COCKPIT_HR",
+   "tris": 2976,
+   "mats": [
+    "INT_CLUSTER_COLOR"
+   ],
+   "min": [
+    -0.027,
+    -0.674,
+    0.822
+   ],
+   "max": [
+    0.027,
+    -0.657,
+    0.872
+   ]
+  },
+  {
+   "name": "INT_PLASTIC_6",
+   "parent": "COCKPIT_HR",
+   "tris": 2946,
+   "mats": [
+    "INT_PLASTIC"
+   ],
+   "min": [
+    -0.023,
+    -0.675,
+    0.824
+   ],
+   "max": [
+    0.023,
+    -0.66,
+    0.869
+   ]
+  },
+  {
+   "name": "EXT_HL_DRL",
+   "parent": null,
+   "tris": 2624,
+   "mats": [
+    "EXT_HL_DRL"
+   ],
+   "min": [
+    -0.771,
+    -1.721,
+    0.603
+   ],
+   "max": [
+    0.771,
+    -1.633,
+    0.719
+   ]
+  },
+  {
+   "name": "ext_Body_trunk",
+   "parent": null,
+   "tris": 2560,
+   "mats": [
+    "CarPaint_flake"
+   ],
+   "min": [
+    -0.708,
+    1.794,
+    0.728
+   ],
+   "max": [
+    0.708,
+    2.163,
+    0.861
+   ]
+  },
+  {
+   "name": "INT_CHROME_2",
+   "parent": "STEER_HR",
+   "tris": 2556,
+   "mats": [
+    "INT_CHROME"
+   ],
+   "min": [
+    0.197,
+    -0.263,
+    0.586
+   ],
+   "max": [
+    0.483,
+    -0.197,
+    0.762
+   ]
+  },
+  {
+   "name": "EXT_PLASTIC_GLOSS_4",
+   "parent": null,
+   "tris": 2516,
+   "mats": [
+    "EXT_PLASTIC_GLOSS"
+   ],
+   "min": [
+    -0.984,
+    -0.479,
+    0.766
+   ],
+   "max": [
+    0.984,
+    -0.343,
+    0.865
+   ]
+  },
+  {
+   "name": "INT_CHROME_BLACK_1.001",
+   "parent": "COCKPIT_HR",
+   "tris": 2464,
+   "mats": [
+    "Carbonblack_coat"
+   ],
+   "min": [
+    -0.682,
+    -0.3,
+    0.517
+   ],
+   "max": [
+    0.682,
+    -0.158,
+    0.655
+   ]
+  },
+  {
+   "name": "INT_PLASTIC_5",
+   "parent": "ARROW_RPM",
+   "tris": 2370,
+   "mats": [
+    "INT_PLASTIC"
+   ],
+   "min": [
+    0.328,
+    -0.496,
+    0.769
+   ],
+   "max": [
+    0.382,
+    -0.485,
+    0.797
+   ]
+  },
+  {
+   "name": "INT_PLASTIC_7",
+   "parent": "ARROW_CLOCK",
+   "tris": 2136,
+   "mats": [
+    "INT_PLASTIC"
+   ],
+   "min": [
+    -0.003,
+    -0.676,
+    0.838
+   ],
+   "max": [
+    0.003,
+    -0.661,
+    0.87
+   ]
+  },
+  {
+   "name": "INT_CARPET_0",
+   "parent": "COCKPIT_HR",
+   "tris": 2101,
+   "mats": [
+    "Carpet_pattern"
+   ],
+   "min": [
+    -0.651,
+    -0.982,
+    0.123
+   ],
+   "max": [
+    0.656,
+    0.492,
+    0.516
+   ]
+  },
+  {
+   "name": "EXT_CARBON_0.002",
+   "parent": null,
+   "tris": 1976,
+   "mats": [
+    "EXT_PLASTIC_GLOSS"
+   ],
+   "min": [
+    -0.922,
+    -1.174,
+    0.628
+   ],
+   "max": [
+    0.922,
+    -0.972,
+    0.725
+   ]
+  },
+  {
+   "name": "EXT_PLASTIC_GLOSS_6",
+   "parent": null,
+   "tris": 1888,
+   "mats": [
+    "EXT_PLASTIC_GLOSS"
+   ],
+   "min": [
+    -0.871,
+    1.734,
+    1.072
+   ],
+   "max": [
+    0.871,
+    2.214,
+    1.27
+   ]
+  },
+  {
+   "name": "INT_LEATHER_BLACK_1.001",
+   "parent": "COCKPIT_HR",
+   "tris": 1888,
+   "mats": [
+    "INT_FABRIC"
+   ],
+   "min": [
+    -0.053,
+    -0.313,
+    0.513
+   ],
+   "max": [
+    0.053,
+    -0.211,
+    0.578
+   ]
+  },
+  {
+   "name": "EXT_HL_DRL_LOWER",
+   "parent": null,
+   "tris": 1848,
+   "mats": [
+    "EXT_EMISSIVE_BULB.2"
+   ],
+   "min": [
+    -0.751,
+    -1.873,
+    0.55
+   ],
+   "max": [
+    0.751,
+    -1.728,
+    0.566
+   ]
+  },
+  {
+   "name": "A_Tyre_LF",
+   "parent": "WHEEL_LF",
+   "tris": 1800,
+   "mats": [
+    "EXT_Tyre"
+   ],
+   "min": [
+    0.666,
+    -1.596,
+    -0.001
+   ],
+   "max": [
+    0.944,
+    -0.919,
+    0.676
+   ]
+  },
+  {
+   "name": "A_Tyre_LF.001",
+   "parent": "WHEEL_LR",
+   "tris": 1800,
+   "mats": [
+    "EXT_Tyre"
+   ],
+   "min": [
+    0.621,
+    0.85,
+    -0.004
+   ],
+   "max": [
+    0.956,
+    1.55,
+    0.696
+   ]
+  },
+  {
+   "name": "A_Tyre_LF.002",
+   "parent": "WHEEL_RF",
+   "tris": 1800,
+   "mats": [
+    "EXT_Tyre"
+   ],
+   "min": [
+    -0.944,
+    -1.596,
+    -0.001
+   ],
+   "max": [
+    -0.666,
+    -0.919,
+    0.676
+   ]
+  },
+  {
+   "name": "A_Tyre_LF.003",
+   "parent": "WHEEL_RR",
+   "tris": 1800,
+   "mats": [
+    "EXT_Tyre"
+   ],
+   "min": [
+    -0.956,
+    0.85,
+    -0.004
+   ],
+   "max": [
+    -0.621,
+    1.55,
+    0.696
+   ]
+  },
+  {
+   "name": "EXT_RIM_PLASTIC.001",
+   "parent": "RIM.001",
+   "tris": 1800,
+   "mats": [
+    "EXT_RIM_PLASTIC"
+   ],
+   "min": [
+    0.877,
+    1.15,
+    0.296
+   ],
+   "max": [
+    0.892,
+    1.249,
+    0.396
+   ]
+  },
+  {
+   "name": "EXT_RIM_PLASTIC.002",
+   "parent": "RIM.003",
+   "tris": 1800,
+   "mats": [
+    "EXT_RIM_PLASTIC"
+   ],
+   "min": [
+    -0.892,
+    1.15,
+    0.296
+   ],
+   "max": [
+    -0.877,
+    1.249,
+    0.396
+   ]
+  },
+  {
+   "name": "Plane.004",
+   "parent": "RIM.002",
+   "tris": 1800,
+   "mats": [
+    "EXT_RIM_PLASTIC"
+   ],
+   "min": [
+    -0.926,
+    -1.305,
+    0.29
+   ],
+   "max": [
+    -0.911,
+    -1.21,
+    0.385
+   ]
+  },
+  {
+   "name": "Plane.139",
+   "parent": "RIM",
+   "tris": 1800,
+   "mats": [
+    "EXT_RIM_PLASTIC"
+   ],
+   "min": [
+    0.912,
+    -1.305,
+    0.29
+   ],
+   "max": [
+    0.926,
+    -1.21,
+    0.385
+   ]
+  },
+  {
+   "name": "INT_PLASTIC_4.001",
+   "parent": "COCKPIT_HR",
+   "tris": 1568,
+   "mats": [
+    "int_leather_paint2"
+   ],
+   "min": [
+    -0.57,
+    -0.959,
+    0.141
+   ],
+   "max": [
+    0.567,
+    -0.273,
+    0.347
+   ]
+  },
+  {
+   "name": "EXT_BLACK_MISC_2",
+   "parent": null,
+   "tris": 1548,
+   "mats": [
+    "EXT_BLACK_MISC"
+   ],
+   "min": [
+    -0.946,
+    -2.207,
+    0.084
+   ],
+   "max": [
+    0.939,
+    2.205,
+    0.939
+   ]
+  },
+  {
+   "name": "EXT_GLASS_HDL",
+   "parent": null,
+   "tris": 1520,
+   "mats": [
+    "EXT_GLASS"
+   ],
+   "min": [
+    -0.827,
+    -1.91,
+    0.543
+   ],
+   "max": [
+    0.827,
+    -1.562,
+    0.782
+   ]
+  },
+  {
+   "name": "INT_CLUSTER_SIDE",
+   "parent": "COCKPIT_HR",
+   "tris": 1481,
+   "mats": [
+    "INT_CLUSTER_SIDE"
+   ],
+   "min": [
+    -0.007,
+    -0.667,
+    0.727
+   ],
+   "max": [
+    0.56,
+    -0.438,
+    0.85
+   ]
+  },
+  {
+   "name": "EXT_BADGE_PORSCHE_0",
+   "parent": null,
+   "tris": 1328,
+   "mats": [
+    "EXT_BADGE_PORSCHE"
+   ],
+   "min": [
+    -0.025,
+    -2.11,
+    0.556
+   ],
+   "max": [
+    0.025,
+    -2.05,
+    0.589
+   ]
+  },
+  {
+   "name": "EXT_BADGE_PORSCHE_1",
+   "parent": "STEER_HR",
+   "tris": 1328,
+   "mats": [
+    "EXT_BADGE_PORSCHE"
+   ],
+   "min": [
+    0.325,
+    -0.237,
+    0.707
+   ],
+   "max": [
+    0.355,
+    -0.226,
+    0.746
+   ]
+  },
+  {
+   "name": "EXT_CHROME_3",
+   "parent": "Wing_Adjust",
+   "tris": 1280,
+   "mats": [
+    "EXT_CHROME"
+   ],
+   "min": [
+    -0.309,
+    2.067,
+    1.184
+   ],
+   "max": [
+    0.309,
+    2.094,
+    1.223
+   ]
+  },
+  {
+   "name": "ext_Body_hood",
+   "parent": null,
+   "tris": 1276,
+   "mats": [
+    "CarPaint_flake"
+   ],
+   "min": [
+    -0.584,
+    -1.921,
+    0.598
+   ],
+   "max": [
+    0.584,
+    -0.86,
+    0.859
+   ]
+  },
+  {
+   "name": "int_leather_paint6",
+   "parent": "COCKPIT_HR",
+   "tris": 1200,
+   "mats": [
+    "int_leather_paint6"
+   ],
+   "min": [
+    -0.687,
+    -0.211,
+    0.747
+   ],
+   "max": [
+    0.687,
+    -0.181,
+    0.771
+   ]
+  },
+  {
+   "name": "EXT_DEFROST",
+   "parent": "COCKPIT_HR",
+   "tris": 1176,
+   "mats": [
+    "EXT_DEFROST"
+   ],
+   "min": [
+    -0.463,
+    0.924,
+    0.97
+   ],
+   "max": [
+    0.463,
+    1.464,
+    1.153
+   ]
+  },
+  {
+   "name": "ext_Body_spoiler",
+   "parent": null,
+   "tris": 1116,
+   "mats": [
+    "ext_Body_Paint"
+   ],
+   "min": [
+    -0.854,
+    1.798,
+    1.119
+   ],
+   "max": [
+    0.854,
+    2.096,
+    1.208
+   ]
+  },
+  {
+   "name": "EXT_CHROME_1.001",
+   "parent": "Main_Wing",
+   "tris": 1096,
+   "mats": [
+    "EXT_CHROME"
+   ],
+   "min": [
+    -0.315,
+    1.999,
+    1.177
+   ],
+   "max": [
+    0.315,
+    2.085,
+    1.241
+   ]
+  },
+  {
+   "name": "EXT_BLACK_MISC_0",
+   "parent": "COCKPIT_HR",
+   "tris": 1090,
+   "mats": [
+    "EXT_BLACK_MISC"
+   ],
+   "min": [
+    -0.686,
+    -0.87,
+    0.423
+   ],
+   "max": [
+    0.686,
+    1.123,
+    0.946
+   ]
+  },
+  {
+   "name": "EXT_HL_LB",
+   "parent": null,
+   "tris": 1088,
+   "mats": [
+    "Headlight_led"
+   ],
+   "min": [
+    -0.734,
+    -1.713,
+    0.636
+   ],
+   "max": [
+    0.734,
+    -1.68,
+    0.687
+   ]
+  },
+  {
+   "name": "EXT_CARBON_1",
+   "parent": "Wing_Part",
+   "tris": 1080,
+   "mats": [
+    "Carbonblack_coat"
+   ],
+   "min": [
+    -0.848,
+    2.073,
+    1.167
+   ],
+   "max": [
+    0.848,
+    2.208,
+    1.255
+   ]
+  },
+  {
+   "name": "EXT_EXHAUST_1",
+   "parent": "EXHAUST",
+   "tris": 1064,
+   "mats": [
+    "EXT_EXHAUST"
+   ],
+   "min": [
+    -0.146,
+    2.099,
+    0.136
+   ],
+   "max": [
+    0.146,
+    2.104,
+    0.315
+   ]
+  },
+  {
+   "name": "EXT_CHROME_5",
+   "parent": null,
+   "tris": 992,
+   "mats": [
+    "Material.001"
+   ],
+   "min": [
+    -0.78,
+    1.914,
+    0.353
+   ],
+   "max": [
+    0.78,
+    2.162,
+    0.405
+   ]
+  },
+  {
+   "name": "EXT_PLATE_LIGHT",
+   "parent": null,
+   "tris": 976,
+   "mats": [
+    "Headlight_led"
+   ],
+   "min": [
+    -0.155,
+    2.229,
+    0.527
+   ],
+   "max": [
+    0.155,
+    2.253,
+    0.532
+   ]
+  },
+  {
+   "name": "int_leather_paint3",
+   "parent": "COCKPIT_HR",
+   "tris": 880,
+   "mats": [
+    "Carpet_pattern"
+   ],
+   "min": [
+    -0.559,
+    -0.952,
+    0.157
+   ],
+   "max": [
+    0.555,
+    -0.284,
+    0.339
+   ]
+  },
+  {
+   "name": "EXT_TL_DRL",
+   "parent": null,
+   "tris": 864,
+   "mats": [
+    "Tailght_EMISSIVE"
+   ],
+   "min": [
+    -0.722,
+    1.801,
+    0.706
+   ],
+   "max": [
+    0.722,
+    2.157,
+    0.731
+   ]
+  },
+  {
+   "name": "MIRROR_PLACEMENT_0",
+   "parent": null,
+   "tris": 840,
+   "mats": [
+    "MIRROR_PLACEMENT"
+   ],
+   "min": [
+    -0.993,
+    -0.335,
+    0.823
+   ],
+   "max": [
+    0.993,
+    -0.272,
+    0.936
+   ]
+  },
+  {
+   "name": "int_leather_paint1",
+   "parent": "COCKPIT_HR",
+   "tris": 800,
+   "mats": [
+    "int_leather_paint1"
+   ],
+   "min": [
+    -0.63,
+    0.196,
+    0.202
+   ],
+   "max": [
+    0.63,
+    0.558,
+    0.917
+   ]
+  },
+  {
+   "name": "INT_CLUSTER_COLOR2",
+   "parent": "COCKPIT_HR",
+   "tris": 752,
+   "mats": [
+    "INT_CLUSTER_COLOR"
+   ],
+   "min": [
+    0.292,
+    -0.498,
+    0.784
+   ],
+   "max": [
+    0.39,
+    -0.49,
+    0.841
+   ]
+  },
+  {
+   "name": "INT_PLASTIC_2",
+   "parent": "COCKPIT_HR",
+   "tris": 724,
+   "mats": [
+    "INT_PLASTIC"
+   ],
+   "min": [
+    -0.662,
+    -0.218,
+    0.506
+   ],
+   "max": [
+    0.715,
+    -0.072,
+    0.53
+   ]
+  },
+  {
+   "name": "INT_METAL_KNOB_DETAIL_0",
+   "parent": "COCKPIT_HR",
+   "tris": 666,
+   "mats": [
+    "INT_METAL_KNOB_DETAIL"
+   ],
+   "min": [
+    -0.627,
+    -0.496,
+    0.557
+   ],
+   "max": [
+    0.627,
+    -0.338,
+    0.763
+   ]
+  },
+  {
+   "name": "INT_PLASTIC_COLOR",
+   "parent": "STEER_HR",
+   "tris": 652,
+   "mats": [
+    "INT_PLASTIC_COLOR"
+   ],
+   "min": [
+    0.224,
+    -0.308,
+    0.785
+   ],
+   "max": [
+    0.455,
+    -0.305,
+    0.79
+   ]
+  },
+  {
+   "name": "INT_SPEAKER",
+   "parent": "COCKPIT_HR",
+   "tris": 648,
+   "mats": [
+    "INT_SPEAKER"
+   ],
+   "min": [
+    -0.72,
+    -0.705,
+    0.375
+   ],
+   "max": [
+    0.72,
+    -0.077,
+    0.83
+   ]
+  },
+  {
+   "name": "EXT_DECAL_SIDE",
+   "parent": null,
+   "tris": 632,
+   "mats": [
+    "ext_Decal_Paint"
+   ],
+   "min": [
+    -0.94,
+    -0.729,
+    0.214
+   ],
+   "max": [
+    0.94,
+    0.769,
+    0.405
+   ]
+  },
+  {
+   "name": "INT_PLASTIC_RED",
+   "parent": "COCKPIT_HR",
+   "tris": 616,
+   "mats": [
+    "INT_PLASTIC_RED"
+   ],
+   "min": [
+    -0.136,
+    0.112,
+    0.374
+   ],
+   "max": [
+    0.136,
+    0.153,
+    0.396
+   ]
+  },
+  {
+   "name": "EXT_PLASTIC_GLOSS_2",
+   "parent": null,
+   "tris": 576,
+   "mats": [
+    "EXT_PLASTIC_GLOSS"
+   ],
+   "min": [
+    -0.026,
+    -2.11,
+    0.553
+   ],
+   "max": [
+    0.026,
+    -2.048,
+    0.589
+   ]
+  },
+  {
+   "name": "EXT_TL_TURN_LR",
+   "parent": null,
+   "tris": 560,
+   "mats": [
+    "EXT_EMISSIVE_STRIP"
+   ],
+   "min": [
+    0.47,
+    1.724,
+    0.661
+   ],
+   "max": [
+    0.767,
+    2.114,
+    0.718
+   ]
+  },
+  {
+   "name": "EXT_TL_TURN_RR",
+   "parent": null,
+   "tris": 560,
+   "mats": [
+    "EXT_EMISSIVE_STRIP"
+   ],
+   "min": [
+    -0.767,
+    1.724,
+    0.661
+   ],
+   "max": [
+    -0.47,
+    2.114,
+    0.718
+   ]
+  },
+  {
+   "name": "EXT_RIM_CAP_0",
+   "parent": "RIM.001",
+   "tris": 540,
+   "mats": [
+    "EXT_RIM_CAP"
+   ],
+   "min": [
+    0.878,
+    1.151,
+    0.297
+   ],
+   "max": [
+    0.892,
+    1.248,
+    0.394
+   ]
+  },
+  {
+   "name": "EXT_RIM_CAP_0.001",
+   "parent": "RIM.003",
+   "tris": 540,
+   "mats": [
+    "EXT_RIM_CAP"
+   ],
+   "min": [
+    -0.892,
+    1.151,
+    0.297
+   ],
+   "max": [
+    -0.878,
+    1.248,
+    0.394
+   ]
+  },
+  {
+   "name": "Plane.002",
+   "parent": "RIM.002",
+   "tris": 540,
+   "mats": [
+    "EXT_RIM_CAP"
+   ],
+   "min": [
+    -0.926,
+    -1.304,
+    0.291
+   ],
+   "max": [
+    -0.913,
+    -1.211,
+    0.384
+   ]
+  },
+  {
+   "name": "Plane.143",
+   "parent": "RIM",
+   "tris": 540,
+   "mats": [
+    "EXT_RIM_CAP"
+   ],
+   "min": [
+    0.913,
+    -1.304,
+    0.291
+   ],
+   "max": [
+    0.926,
+    -1.211,
+    0.384
+   ]
+  },
+  {
+   "name": "INT_GLASS_DOMELIGHT",
+   "parent": "COCKPIT_HR",
+   "tris": 444,
+   "mats": [
+    "INT_GLASS"
+   ],
+   "min": [
+    -0.092,
+    -0.203,
+    1.12
+   ],
+   "max": [
+    0.092,
+    -0.159,
+    1.132
+   ]
+  },
+  {
+   "name": "EXT_HL_DRL_2",
+   "parent": null,
+   "tris": 432,
+   "mats": [
+    "Headlight_led"
+   ],
+   "min": [
+    -0.778,
+    -1.681,
+    0.615
+   ],
+   "max": [
+    0.778,
+    -1.663,
+    0.707
+   ]
+  },
+  {
+   "name": "INT_Leather_Yellow",
+   "parent": "STEER_HR",
+   "tris": 432,
+   "mats": [
+    "int_leather_paint3"
+   ],
+   "min": [
+    0.335,
+    -0.303,
+    0.883
+   ],
+   "max": [
+    0.345,
+    -0.272,
+    0.914
+   ]
+  },
+  {
+   "name": "INT_CLUSTER_ALPHA",
+   "parent": "COCKPIT_HR",
+   "tris": 430,
+   "mats": [
+    "INT_CLUSTER_ALPHA"
+   ],
+   "min": [
+    0.289,
+    -0.498,
+    0.74
+   ],
+   "max": [
+    0.39,
+    -0.485,
+    0.841
+   ]
+  },
+  {
+   "name": "EXT_GRILL",
+   "parent": null,
+   "tris": 428,
+   "mats": [
+    "EXT_GRILL"
+   ],
+   "min": [
+    -0.798,
+    -2.221,
+    0.146
+   ],
+   "max": [
+    0.798,
+    1.958,
+    0.916
+   ]
+  },
+  {
+   "name": "INT_DOMELIGHT",
+   "parent": "COCKPIT_HR",
+   "tris": 420,
+   "mats": [
+    "INT_DOMELIGHT"
+   ],
+   "min": [
+    -0.086,
+    -0.19,
+    1.133
+   ],
+   "max": [
+    0.086,
+    -0.178,
+    1.137
+   ]
+  },
+  {
+   "name": "GEO_discLF",
+   "parent": "DISC_LF",
+   "tris": 392,
+   "mats": [
+    "EXT_disc"
+   ],
+   "min": [
+    0.722,
+    -1.459,
+    0.136
+   ],
+   "max": [
+    0.8,
+    -1.057,
+    0.538
+   ]
+  },
+  {
+   "name": "GEO_discRF",
+   "parent": "DISC_RF",
+   "tris": 392,
+   "mats": [
+    "EXT_disc"
+   ],
+   "min": [
+    -0.851,
+    -1.458,
+    0.136
+   ],
+   "max": [
+    -0.772,
+    -1.056,
+    0.538
+   ]
+  },
+  {
+   "name": "GEO_discLR",
+   "parent": "DISC_LR",
+   "tris": 384,
+   "mats": [
+    "EXT_disc"
+   ],
+   "min": [
+    0.73,
+    1.003,
+    0.15
+   ],
+   "max": [
+    0.799,
+    1.396,
+    0.543
+   ]
+  },
+  {
+   "name": "GEO_discRR",
+   "parent": "DISC_RR",
+   "tris": 384,
+   "mats": [
+    "EXT_disc"
+   ],
+   "min": [
+    -0.805,
+    1.003,
+    0.15
+   ],
+   "max": [
+    -0.736,
+    1.396,
+    0.543
+   ]
+  },
+  {
+   "name": "INT_DECALS_0",
+   "parent": "COCKPIT_HR",
+   "tris": 342,
+   "mats": [
+    "INT_DECALS"
+   ],
+   "min": [
+    -0.69,
+    -0.405,
+    0.457
+   ],
+   "max": [
+    0.705,
+    -0.0,
+    0.786
+   ]
+  },
+  {
+   "name": "EXT_TL_BRAKE",
+   "parent": null,
+   "tris": 324,
+   "mats": [
+    "EXT_EMISSIVE_STRIP"
+   ],
+   "min": [
+    -0.669,
+    1.896,
+    0.682
+   ],
+   "max": [
+    0.669,
+    2.039,
+    0.691
+   ]
+  },
+  {
+   "name": "EXT_CHROME_WIN",
+   "parent": "Wing_Damper",
+   "tris": 300,
+   "mats": [
+    "EXT_CHROME"
+   ],
+   "min": [
+    -0.306,
+    1.895,
+    1.179
+   ],
+   "max": [
+    0.306,
+    2.018,
+    1.217
+   ]
+  },
+  {
+   "name": "INT_STITCH",
+   "parent": "STEER_HR",
+   "tris": 280,
+   "mats": [
+    "INT_STITCH"
+   ],
+   "min": [
+    0.197,
+    -0.297,
+    0.595
+   ],
+   "max": [
+    0.483,
+    -0.21,
+    0.887
+   ]
+  },
+  {
+   "name": "INT_CLOCK",
+   "parent": "COCKPIT_HR",
+   "tris": 256,
+   "mats": [
+    "INT_DECALS"
+   ],
+   "min": [
+    -0.027,
+    -0.674,
+    0.821
+   ],
+   "max": [
+    0.027,
+    -0.657,
+    0.873
+   ]
+  },
+  {
+   "name": "INT_METAL_KNOB_DETAIL_2",
+   "parent": "STEER_HR",
+   "tris": 256,
+   "mats": [
+    "INT_METAL_KNOB_DETAIL"
+   ],
+   "min": [
+    0.236,
+    -0.251,
+    0.63
+   ],
+   "max": [
+    0.444,
+    -0.23,
+    0.689
+   ]
+  },
+  {
+   "name": "MIRROR_PLACEMENT_1",
+   "parent": "COCKPIT_HR",
+   "tris": 252,
+   "mats": [
+    "MIRROR_PLACEMENT"
+   ],
+   "min": [
+    -0.105,
+    -0.271,
+    1.051
+   ],
+   "max": [
+    0.105,
+    -0.264,
+    1.106
+   ]
+  },
+  {
+   "name": "INT_DECAL_2_1",
+   "parent": "STEER_HR",
+   "tris": 226,
+   "mats": [
+    "INT_DECAL_2"
+   ],
+   "min": [
+    0.251,
+    -0.258,
+    0.634
+   ],
+   "max": [
+    0.464,
+    -0.229,
+    0.751
+   ]
+  },
+  {
+   "name": "INT_DECAL_SHIFTER",
+   "parent": "COCKPIT_HR",
+   "tris": 224,
+   "mats": [
+    "INT_DECAL_SHIFTER"
+   ],
+   "min": [
+    -0.014,
+    -0.256,
+    0.637
+   ],
+   "max": [
+    0.014,
+    -0.231,
+    0.648
+   ]
+  },
+  {
+   "name": "int_light_paint1.001",
+   "parent": "COCKPIT_HR",
+   "tris": 200,
+   "mats": [
+    "int_light_paint1"
+   ],
+   "min": [
+    -0.353,
+    -0.817,
+    0.481
+   ],
+   "max": [
+    0.357,
+    -0.734,
+    0.487
+   ]
+  },
+  {
+   "name": "int_light_paint1.002",
+   "parent": "COCKPIT_HR",
+   "tris": 200,
+   "mats": [
+    "int_light_paint1"
+   ],
+   "min": [
+    -0.687,
+    -0.057,
+    0.371
+   ],
+   "max": [
+    0.687,
+    -0.019,
+    0.372
+   ]
+  },
+  {
+   "name": "EXT_TL_REVERSE",
+   "parent": null,
+   "tris": 160,
+   "mats": [
+    "EXT_EMISSIVE_STRIP"
+   ],
+   "min": [
+    -0.515,
+    2.043,
+    0.686
+   ],
+   "max": [
+    0.515,
+    2.073,
+    0.692
+   ]
+  },
+  {
+   "name": "int_light_paint1.003",
+   "parent": "COCKPIT_HR",
+   "tris": 160,
+   "mats": [
+    "int_light_paint1"
+   ],
+   "min": [
+    -0.689,
+    -0.354,
+    0.37
+   ],
+   "max": [
+    0.689,
+    -0.299,
+    0.373
+   ]
+  },
+  {
+   "name": "EXT_CHROME_4",
+   "parent": "Wing_Adjust_2",
+   "tris": 140,
+   "mats": [
+    "EXT_CHROME"
+   ],
+   "min": [
+    -0.3,
+    1.968,
+    1.206
+   ],
+   "max": [
+    0.3,
+    2.032,
+    1.24
+   ]
+  },
+  {
+   "name": "EXT_Logo_Weissach",
+   "parent": null,
+   "tris": 129,
+   "mats": [
+    "EXT_Logo_Weissach"
+   ],
+   "min": [
+    -0.858,
+    1.857,
+    1.147
+   ],
+   "max": [
+    0.86,
+    2.094,
+    1.226
+   ]
+  },
+  {
+   "name": "EXT_BLACK_MISC_2.001",
+   "parent": "EXHAUST",
+   "tris": 128,
+   "mats": [
+    "EXT_BLACK_MISC"
+   ],
+   "min": [
+    -0.096,
+    2.047,
+    0.187
+   ],
+   "max": [
+    0.096,
+    2.127,
+    0.264
+   ]
+  },
+  {
+   "name": "EXT_DECAL_REAR_1",
+   "parent": "Wing_Part",
+   "tris": 128,
+   "mats": [
+    "EXT_DECAL_REAR"
+   ],
+   "min": [
+    -0.778,
+    2.1,
+    1.167
+   ],
+   "max": [
+    0.797,
+    2.202,
+    1.241
+   ]
+  },
+  {
+   "name": "INT_GLASS",
+   "parent": "COCKPIT_HR",
+   "tris": 128,
+   "mats": [
+    "INT_GLASS"
+   ],
+   "min": [
+    -0.028,
+    -0.667,
+    0.739
+   ],
+   "max": [
+    0.393,
+    -0.476,
+    0.875
+   ]
+  },
+  {
+   "name": "EXT_HL_TURN_LF",
+   "parent": null,
+   "tris": 120,
+   "mats": [
+    "EXT_EMISSIVE_STRIP"
+   ],
+   "min": [
+    0.512,
+    -2.161,
+    0.379
+   ],
+   "max": [
+    0.701,
+    -2.035,
+    0.396
+   ]
+  },
+  {
+   "name": "EXT_HL_TURN_RF",
+   "parent": null,
+   "tris": 120,
+   "mats": [
+    "EXT_EMISSIVE_STRIP"
+   ],
+   "min": [
+    -0.701,
+    -2.161,
+    0.379
+   ],
+   "max": [
+    -0.512,
+    -2.035,
+    0.396
+   ]
+  },
+  {
+   "name": "Plane.067",
+   "parent": "ARROW_RPM",
+   "tris": 94,
+   "mats": [
+    "INT_CLUSTER_NEEDLE_EMISSIVE"
+   ],
+   "min": [
+    0.332,
+    -0.489,
+    0.772
+   ],
+   "max": [
+    0.378,
+    -0.486,
+    0.796
+   ]
+  },
+  {
+   "name": "INT_Logo_Weissach",
+   "parent": "COCKPIT_HR",
+   "tris": 72,
+   "mats": [
+    "int_Decal_Paint"
+   ],
+   "min": [
+    -0.439,
+    0.467,
+    0.924
+   ],
+   "max": [
+    0.439,
+    0.472,
+    0.993
+   ]
+  },
+  {
+   "name": "INT_CLUSTER_SHIFT",
+   "parent": "COCKPIT_HR",
+   "tris": 64,
+   "mats": [
+    "INT_CLUSTER_SHIFT"
+   ],
+   "min": [
+    0.259,
+    -0.492,
+    0.76
+   ],
+   "max": [
+    0.421,
+    -0.483,
+    0.82
+   ]
+  },
+  {
+   "name": "INT_DECALS_2",
+   "parent": "STEER_HR",
+   "tris": 64,
+   "mats": [
+    "INT_DECALS"
+   ],
+   "min": [
+    0.238,
+    -0.24,
+    0.665
+   ],
+   "max": [
+    0.263,
+    -0.234,
+    0.688
+   ]
+  },
+  {
+   "name": "INT_GRILL_AT",
+   "parent": "COCKPIT_HR",
+   "tris": 64,
+   "mats": [
+    "INT_GRILL_AT"
+   ],
+   "min": [
+    -0.084,
+    -0.82,
+    0.419
+   ],
+   "max": [
+    0.084,
+    -0.027,
+    0.853
+   ]
+  },
+  {
+   "name": "INT_METAL_KNOB_DETAIL_1",
+   "parent": "STEER_HR",
+   "tris": 64,
+   "mats": [
+    "INT_METAL_KNOB_DETAIL"
+   ],
+   "min": [
+    0.23,
+    -0.258,
+    0.736
+   ],
+   "max": [
+    0.45,
+    -0.248,
+    0.748
+   ]
+  },
+  {
+   "name": "INT_PLASTIC_GLOSS_1",
+   "parent": "COCKPIT_HR",
+   "tris": 64,
+   "mats": [
+    "INT_PLASTIC_GLOSS"
+   ],
+   "min": [
+    0.306,
+    -0.498,
+    0.757
+   ],
+   "max": [
+    0.374,
+    -0.491,
+    0.824
+   ]
+  },
+  {
+   "name": "Plane.073",
+   "parent": "ARROW_CLOCK",
+   "tris": 40,
+   "mats": [
+    "INT_CLUSTER_NEEDLE_EMISSIVE"
+   ],
+   "min": [
+    -0.001,
+    -0.67,
+    0.842
+   ],
+   "max": [
+    0.001,
+    -0.663,
+    0.866
+   ]
+  },
+  {
+   "name": "EXT_DECAL_REAR_0",
+   "parent": null,
+   "tris": 32,
+   "mats": [
+    "EXT_DECAL_REAR"
+   ],
+   "min": [
+    -0.108,
+    2.204,
+    0.649
+   ],
+   "max": [
+    0.108,
+    2.237,
+    0.671
+   ]
+  },
+  {
+   "name": "EXT_HL_HB",
+   "parent": null,
+   "tris": 32,
+   "mats": [
+    "frontlight"
+   ],
+   "min": [
+    -0.732,
+    -1.635,
+    0.713
+   ],
+   "max": [
+    0.732,
+    -1.627,
+    0.732
+   ]
+  },
+  {
+   "name": "EXT_TL_THIRD_BRAKE",
+   "parent": null,
+   "tris": 32,
+   "mats": [
+    "EXT_TL_THIRD_BRAKE"
+   ],
+   "min": [
+    -0.038,
+    1.707,
+    0.864
+   ],
+   "max": [
+    0.038,
+    1.874,
+    0.937
+   ]
+  },
+  {
+   "name": "INT_CLUSTER",
+   "parent": "COCKPIT_HR",
+   "tris": 32,
+   "mats": [
+    "INT_CLUSTER"
+   ],
+   "min": [
+    0.316,
+    -0.494,
+    0.762
+   ],
+   "max": [
+    0.364,
+    -0.491,
+    0.785
+   ]
+  },
+  {
+   "name": "EXT_GLASS_NM.001",
+   "parent": null,
+   "tris": 16,
+   "mats": [
+    "EXT_GLASS_NM"
+   ],
+   "min": [
+    -0.161,
+    2.228,
+    0.523
+   ],
+   "max": [
+    0.161,
+    2.256,
+    0.526
+   ]
+  },
+  {
+   "name": "INT_CLUSTER_WARNING_LIGHTS",
+   "parent": "COCKPIT_HR",
+   "tris": 16,
+   "mats": [
+    "INT_CLUSTER_WARNING_LIGHTS"
+   ],
+   "min": [
+    0.309,
+    -0.497,
+    0.787
+   ],
+   "max": [
+    0.37,
+    -0.494,
+    0.818
+   ]
+  },
+  {
+   "name": "INT_DECAL_TOP",
+   "parent": "COCKPIT_HR",
+   "tris": 14,
+   "mats": [
+    "EXT_DECAL_2"
+   ],
+   "min": [
+    -0.059,
+    -0.202,
+    1.118
+   ],
+   "max": [
+    0.062,
+    -0.159,
+    1.126
+   ]
+  },
+  {
+   "name": "INT_DECALS_1",
+   "parent": "STEER_HR",
+   "tris": 12,
+   "mats": [
+    "INT_DECALS"
+   ],
+   "min": [
+    0.214,
+    -0.254,
+    0.731
+   ],
+   "max": [
+    0.257,
+    -0.242,
+    0.752
+   ]
+  },
+  {
+   "name": "EXT_DECAL_HL",
+   "parent": null,
+   "tris": 4,
+   "mats": [
+    "EXT_DECAL_2"
+   ],
+   "min": [
+    -0.602,
+    -1.774,
+    0.641
+   ],
+   "max": [
+    0.602,
+    -1.695,
+    0.656
+   ]
+  },
+  {
+   "name": "INT_CLUSTER_WARNING_BRAKE",
+   "parent": "COCKPIT_HR",
+   "tris": 2,
+   "mats": [
+    "INT_CLUSTER_WARNING_LIGHTS"
+   ],
+   "min": [
+    0.194,
+    -0.463,
+    0.755
+   ],
+   "max": [
+    0.202,
+    -0.459,
+    0.763
+   ]
+  },
+  {
+   "name": "INT_CLUSTER_WARNING_CAR",
+   "parent": "COCKPIT_HR",
+   "tris": 2,
+   "mats": [
+    "INT_CLUSTER_WARNING_LIGHTS"
+   ],
+   "min": [
+    0.256,
+    -0.491,
+    0.824
+   ],
+   "max": [
+    0.264,
+    -0.487,
+    0.832
+   ]
+  },
+  {
+   "name": "INT_CLUSTER_WARNING_HB",
+   "parent": "COCKPIT_HR",
+   "tris": 2,
+   "mats": [
+    "INT_CLUSTER_WARNING_LIGHTS"
+   ],
+   "min": [
+    0.428,
+    -0.479,
+    0.742
+   ],
+   "max": [
+    0.439,
+    -0.474,
+    0.753
+   ]
+  },
+  {
+   "name": "INT_CLUSTER_WARNING_LB",
+   "parent": "COCKPIT_HR",
+   "tris": 2,
+   "mats": [
+    "INT_CLUSTER_WARNING_LIGHTS"
+   ],
+   "min": [
+    0.486,
+    -0.459,
+    0.749
+   ],
+   "max": [
+    0.495,
+    -0.456,
+    0.757
+   ]
+  },
+  {
+   "name": "INT_CLUSTER_WARNING_LB2",
+   "parent": "COCKPIT_HR",
+   "tris": 2,
+   "mats": [
+    "INT_CLUSTER_WARNING_LIGHTS"
+   ],
+   "min": [
+    0.416,
+    -0.483,
+    0.742
+   ],
+   "max": [
+    0.427,
+    -0.478,
+    0.753
+   ]
+  },
+  {
+   "name": "INT_CLUSTER_WARNING_OIL_PRESS",
+   "parent": "COCKPIT_HR",
+   "tris": 2,
+   "mats": [
+    "INT_CLUSTER_WARNING_LIGHTS"
+   ],
+   "min": [
+    0.265,
+    -0.494,
+    0.824
+   ],
+   "max": [
+    0.273,
+    -0.49,
+    0.832
+   ]
+  },
+  {
+   "name": "INT_CLUSTER_WARNING_SEATBELT",
+   "parent": "COCKPIT_HR",
+   "tris": 2,
+   "mats": [
+    "INT_CLUSTER_WARNING_LIGHTS"
+   ],
+   "min": [
+    0.48,
+    -0.467,
+    0.804
+   ],
+   "max": [
+    0.488,
+    -0.464,
+    0.812
+   ]
+  },
+  {
+   "name": "INT_CLUSTER_WARNING_TC_OFF",
+   "parent": "COCKPIT_HR",
+   "tris": 2,
+   "mats": [
+    "INT_CLUSTER_WARNING_LIGHTS"
+   ],
+   "min": [
+    0.477,
+    -0.463,
+    0.749
+   ],
+   "max": [
+    0.485,
+    -0.459,
+    0.757
+   ]
+  },
+  {
+   "name": "INT_CLUSTER_WARNING_TYRE_PRESS",
+   "parent": "COCKPIT_HR",
+   "tris": 2,
+   "mats": [
+    "INT_CLUSTER_WARNING_LIGHTS"
+   ],
+   "min": [
+    0.263,
+    -0.485,
+    0.746
+   ],
+   "max": [
+    0.271,
+    -0.482,
+    0.754
+   ]
+  },
+  {
+   "name": "INT_DECAL_2_0",
+   "parent": "COCKPIT_HR",
+   "tris": 2,
+   "mats": [
+    "INT_DECAL_2"
+   ],
+   "min": [
+    -0.02,
+    -0.198,
+    0.509
+   ],
+   "max": [
+    0.019,
+    -0.197,
+    0.513
+   ]
+  },
+  {
+   "name": "INT_GPS",
+   "parent": "COCKPIT_HR",
+   "tris": 2,
+   "mats": [
+    "INT_GPS"
+   ],
+   "min": [
+    -0.158,
+    -0.461,
+    0.704
+   ],
+   "max": [
+    0.113,
+    -0.454,
+    0.788
+   ]
+  }
+ ],
+ "materials": {
+  "Carbonblack_coat": [
+   "Image_5",
+   "Image_1"
+  ],
+  "CarPaint_flake": [
+   "T_Flakes_D2_Normal"
+  ],
+  "Carpet_pattern": [
+   "Carpet_NM"
+  ],
+  "EXT_BADGE_PORSCHE": [
+   "EXT_PORSCHE_LOGO_DIF",
+   "EXT_PORSCHE_LOGO_NM"
+  ],
+  "EXT_BLACK_MISC": [],
+  "ext_Body_Paint": [],
+  "EXT_CHROME": [],
+  "EXT_DECAL_2": [
+   "PORSCHE_DECAL"
+  ],
+  "ext_Decal_Paint": [
+   "ext_Decal_Paint"
+  ],
+  "EXT_DECAL_REAR": [
+   "GT3RSlogo"
+  ],
+  "EXT_DEFROST": [
+   "ORANGE_NULL"
+  ],
+  "EXT_disc": [
+   "Brake_Disc_DIF",
+   "Brake_Disc_NM"
+  ],
+  "EXT_EMISSIVE_BULB.2": [],
+  "EXT_EMISSIVE_STRIP": [],
+  "EXT_EXHAUST": [],
+  "EXT_GLASS": [],
+  "EXT_GLASS_NM": [],
+  "EXT_GLASS_RED": [],
+  "EXT_GRILL": [
+   "GRILL_1_AT",
+   "GRILL_1_AT_NM"
+  ],
+  "EXT_HL_DRL": [
+   "RIDGES_D"
+  ],
+  "EXT_Logo_Weissach": [
+   "Weissach_Decal_D"
+  ],
+  "EXT_PLASTIC": [],
+  "EXT_PLASTIC_GLOSS": [
+   "PlasticDetail",
+   "plastic_detail_nm"
+  ],
+  "EXT_RIM_CAP": [
+   "911 GT3 RS",
+   "911 GT3 RS_N"
+  ],
+  "EXT_RIM_CHROME": [],
+  "EXT_RIM_PLASTIC": [],
+  "EXT_TL_THIRD_BRAKE": [],
+  "EXT_Tyre": [
+   "Tyre_D",
+   "Tyre_NM"
+  ],
+  "ext_Wheel_brake_caliper": [
+   "EXT_CALIPER_AO_SHOCKWORKS"
+  ],
+  "EXT_WINDOW": [],
+  "frontlight": [],
+  "Headlight_led": [],
+  "INT_CHROME": [],
+  "INT_CHROME_BLACK": [],
+  "INT_CLUSTER": [
+   "911 GT3 RS",
+   "911 GT3 RS_N"
+  ],
+  "INT_CLUSTER_ALPHA": [
+   "911 GT3 RS",
+   "911 GT3 RS",
+   "911 GT3 RS_N"
+  ],
+  "INT_CLUSTER_COLOR": [
+   "EXT_PLASTIC_COLORS"
+  ],
+  "INT_CLUSTER_NEEDLE_EMISSIVE": [
+   "YELLOW_NULL",
+   "YELLOW_NULL"
+  ],
+  "INT_CLUSTER_SHIFT": [
+   "shift_thing"
+  ],
+  "INT_CLUSTER_SIDE": [
+   "GT3RS Side Decals",
+   "GT3RS Side Decals"
+  ],
+  "INT_CLUSTER_WARNING_LIGHTS": [
+   "INT_CLUSTER_WARNING_LIGHTS",
+   "INT_CLUSTER_WARNING_LIGHTS"
+  ],
+  "INT_DECAL_2": [
+   "911 GT3 RS",
+   "911 GT3 RS_N"
+  ],
+  "int_Decal_Paint": [
+   "int_Decal_Paint"
+  ],
+  "INT_DECAL_SHIFTER": [
+   "INT_Gear_Decal"
+  ],
+  "INT_DECALS": [
+   "Porsche_Decals",
+   "Porsche_Decals"
+  ],
+  "INT_DOMELIGHT": [
+   "NULL"
+  ],
+  "INT_FABRIC": [
+   "INT_LEATHER_ALCANTARA_NM"
+  ],
+  "INT_GLASS": [],
+  "INT_GPS": [
+   "INT_GPS_PORSCHE"
+  ],
+  "INT_GRILL_AT": [
+   "GRILL_1_AT",
+   "GRILL_1_AT_NM"
+  ],
+  "int_leather_paint1": [
+   "leather_6"
+  ],
+  "int_leather_paint2": [
+   "Carpet_NM"
+  ],
+  "int_leather_paint3": [],
+  "int_leather_paint4": [],
+  "int_leather_paint6": [
+   "leather_6"
+  ],
+  "int_light_paint1": [
+   "int_light_paint1"
+  ],
+  "INT_METAL_KNOB_DETAIL": [
+   "RIDGES_NM"
+  ],
+  "INT_PLASTIC": [
+   "INT_plastic_nm"
+  ],
+  "INT_PLASTIC_COLOR": [
+   "EXT_PLASTIC_COLORS"
+  ],
+  "INT_PLASTIC_GLOSS": [],
+  "INT_PLASTIC_RED": [],
+  "INT_SPEAKER": [
+   "INT_SPEAKER_1_DIF",
+   "INT_SPEAKER_1_NM"
+  ],
+  "INT_STITCH": [
+   "STITCH_2_DIFFUSE"
+  ],
+  "INT_Stitching_2": [
+   "Decals_Thread_tileable_decal_BaseColor"
+  ],
+  "INT_WINDOW": [],
+  "Material.001": [],
+  "MIRROR_PLACEMENT": [],
+  "RIM_chrome": [
+   "paint_detail_nm"
+  ],
+  "RIM_chrome.001": [
+   "paint_detail_nm"
+  ],
+  "Seat_leather_2": [
+   "INT_LEATHER_ALCANTARA_NM"
+  ],
+  "Seat_leather_2.001": [
+   "INT_LEATHER_ALCANTARA_NM"
+  ],
+  "Smooth_plastic": [
+   "INT_plastic_nm"
+  ],
+  "Tailght_EMISSIVE": [],
+  "Wheel_Paint_Red_61": [
+   "License_plate",
+   "Image_1"
+  ],
+  "Wheel_Paint_Red_62": []
+ },
+ "empties": [
+  "ARROW_CLOCK",
+  "ARROW_RPM",
+  "COCKPIT_HR",
+  "DISC_LF",
+  "DISC_LR",
+  "DISC_RF",
+  "DISC_RR",
+  "EXHAUST",
+  "EXT_LP_DUMMY",
+  "int_light_paint1",
+  "Main_Wing",
+  "RIM",
+  "RIM.001",
+  "RIM.002",
+  "RIM.003",
+  "STEER_HR",
+  "SUSP_LF",
+  "SUSP_LR",
+  "SUSP_RF",
+  "SUSP_RR",
+  "WHEEL_LF",
+  "WHEEL_LR",
+  "WHEEL_RF",
+  "WHEEL_RR",
+  "Wing_Adjust",
+  "Wing_Adjust_2",
+  "Wing_Damper",
+  "Wing_Part"
+ ]
+}

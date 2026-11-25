@@ -1,0 +1,8 @@
+'[FREE] London Skyscraper' by 99.Miles (Sketchfab), CC BY 4.0, modified for Roblox
+
+License: Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/)
+Commercial use is allowed as long as this credit is shown (for example in the game description or an in-game credits screen).
+
+Modifications: merged by material, cleaned (duplicate vertices, planar dissolve), split into height bands
+of at most 19,000 triangles, textures resized to 1024 px and repacked, glass materials re-tinted,
+added an optional NightWindows set, origin moved to the base center at ground level. Scale unchanged (1:1, metres).

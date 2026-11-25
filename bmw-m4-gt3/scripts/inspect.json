@@ -1,0 +1,6804 @@
+{
+ "total_tris": 108073,
+ "objects": [
+  {
+   "name": "BMW:SM_RearKit_0000_001_SM_RearKit_0000_MAT_GT3_EVO_car_cfc21d2",
+   "parent": "group1",
+   "tris": 13279,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 13279
+   },
+   "min": [
+    -0.01,
+    -0.01,
+    0.0
+   ],
+   "max": [
+    0.01,
+    0.025,
+    0.014
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_FrontKit_0000_001_SM_FrontKit_0000_MAT_GT3_EVO_c_7550faa",
+   "parent": "group1",
+   "tris": 12152,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 12152
+   },
+   "min": [
+    -0.01,
+    -0.025,
+    0.0
+   ],
+   "max": [
+    0.01,
+    -0.007,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_FrontKit_0000_001_SM_FrontKit_0000_MAT_GT3_EVO_c_40fc8ab",
+   "parent": "group1",
+   "tris": 5956,
+   "mats": {
+    "BMW:MAT_Lights1": 5956
+   },
+   "min": [
+    -0.009,
+    -0.023,
+    0.002
+   ],
+   "max": [
+    0.009,
+    -0.019,
+    0.006
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_RearKit_0000_001_SM_RearKit_0000_MAT_GT3_EVO_car_aa681ec",
+   "parent": "group1",
+   "tris": 4998,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 4998
+   },
+   "min": [
+    -0.01,
+    -0.01,
+    0.0
+   ],
+   "max": [
+    0.01,
+    0.024,
+    0.013
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Hood_0000_001_SM_Hood_0000_MAT_GT3_EVO_car_paint_002",
+   "parent": "group1",
+   "tris": 4138,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 4138
+   },
+   "min": [
+    -0.008,
+    -0.023,
+    0.006
+   ],
+   "max": [
+    0.008,
+    -0.008,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_RearKit_0000_001_SM_RearKit_0000_MAT_GT3_EVO_car_d455c6a",
+   "parent": "group1",
+   "tris": 4094,
+   "mats": {
+    "BMW:MAT_Lights1": 4094
+   },
+   "min": [
+    -0.008,
+    0.018,
+    0.007
+   ],
+   "max": [
+    0.008,
+    0.023,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_RearKit_0000_001_SM_RearKit_0000_MAT_GT3_EVO_car_35e22f9",
+   "parent": "group1",
+   "tris": 3112,
+   "mats": {
+    "BMW:MAT_Details_EXT1": 3112
+   },
+   "min": [
+    -0.01,
+    0.003,
+    0.002
+   ],
+   "max": [
+    0.01,
+    0.024,
+    0.014
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_4:SM_RearKit_0000_001_SM_RearKit_0000_MAT_GT3_EV_41009ee",
+   "parent": "group1",
+   "tris": 2986,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 2986
+   },
+   "min": [
+    -0.01,
+    -0.01,
+    0.0
+   ],
+   "max": [
+    0.01,
+    0.025,
+    0.013
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Hub_L_0000_001_SM_Hub_L_0000_MAT_Tire_Hub",
+   "parent": "3DWheel Rear L",
+   "tris": 2630,
+   "mats": {
+    "BMW:MAT_Tire_Hub1": 2630
+   },
+   "min": [
+    0.007,
+    0.011,
+    0.001
+   ],
+   "max": [
+    0.01,
+    0.016,
+    0.006
+   ],
+   "scale": [
+    0.0105,
+    0.0103,
+    0.0103
+   ]
+  },
+  {
+   "name": "BMW:SM_Hub_R_0000_001_SM_Hub_R_0000_MAT_Tire_Hub_001",
+   "parent": "3DWheel Rear R",
+   "tris": 2630,
+   "mats": {
+    "BMW:MAT_Tire_Hub1": 2630
+   },
+   "min": [
+    -0.01,
+    0.011,
+    0.001
+   ],
+   "max": [
+    -0.007,
+    0.016,
+    0.006
+   ],
+   "scale": [
+    0.0105,
+    0.0103,
+    0.0103
+   ]
+  },
+  {
+   "name": "SM_Hub_L_0000_001_SM_Hub_L_0000_MAT_Tire_Hub",
+   "parent": "3DWheel Front L",
+   "tris": 2630,
+   "mats": {
+    "BMW:MAT_Tire_Hub1": 2630
+   },
+   "min": [
+    0.007,
+    -0.018,
+    0.001
+   ],
+   "max": [
+    0.01,
+    -0.013,
+    0.006
+   ],
+   "scale": [
+    0.01,
+    0.0102,
+    0.0102
+   ]
+  },
+  {
+   "name": "SM_Hub_R_0000_001_SM_Hub_R_0000_MAT_Tire_Hub_001",
+   "parent": "3DWheel Front R",
+   "tris": 2630,
+   "mats": {
+    "BMW:MAT_Tire_Hub1": 2630
+   },
+   "min": [
+    -0.01,
+    -0.018,
+    0.001
+   ],
+   "max": [
+    -0.007,
+    -0.013,
+    0.006
+   ],
+   "scale": [
+    0.01,
+    0.0102,
+    0.0102
+   ]
+  },
+  {
+   "name": "Carbon_2:SM_FrontKit_0000_001_SM_FrontKit_0000_MAT_GT3__f1c9181",
+   "parent": "group1",
+   "tris": 2384,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 2384
+   },
+   "min": [
+    -0.01,
+    -0.025,
+    0.0
+   ],
+   "max": [
+    0.01,
+    -0.008,
+    0.006
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "polySurface1",
+   "parent": "3DWheel Front L",
+   "tris": 2240,
+   "mats": {
+    "Tire:BMW_M4GT3_2022_Wheel1A_3D_3DWheel1A_Material1": 2240
+   },
+   "min": [
+    0.007,
+    -0.019,
+    -0.0
+   ],
+   "max": [
+    0.01,
+    -0.012,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "polySurface324",
+   "parent": "3DWheel Front R",
+   "tris": 2240,
+   "mats": {
+    "Tire:BMW_M4GT3_2022_Wheel1A_3D_3DWheel1A_Material1": 2240
+   },
+   "min": [
+    -0.01,
+    -0.019,
+    -0.0
+   ],
+   "max": [
+    -0.007,
+    -0.012,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "polySurface647",
+   "parent": "3DWheel Rear L",
+   "tris": 2240,
+   "mats": {
+    "Tire:BMW_M4GT3_2022_Wheel1A_3D_3DWheel1A_Material1": 2240
+   },
+   "min": [
+    0.007,
+    0.01,
+    0.0
+   ],
+   "max": [
+    0.01,
+    0.017,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "polySurface999",
+   "parent": "3DWheel Rear R",
+   "tris": 2240,
+   "mats": {
+    "Tire:BMW_M4GT3_2022_Wheel1A_3D_3DWheel1A_Material1": 2240
+   },
+   "min": [
+    -0.01,
+    0.01,
+    0.0
+   ],
+   "max": [
+    -0.007,
+    0.017,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_FrontKit_0000_001_SM_FrontKit_0000_MAT_GT3_EVO_c_e7ce72d",
+   "parent": "group1",
+   "tris": 2072,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 2072
+   },
+   "min": [
+    -0.01,
+    -0.024,
+    0.0
+   ],
+   "max": [
+    0.01,
+    -0.007,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_10",
+   "parent": "group1",
+   "tris": 1945,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1945
+   },
+   "min": [
+    -0.009,
+    -0.011,
+    0.001
+   ],
+   "max": [
+    0.009,
+    0.018,
+    0.013
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "glass:SM_RearKit_0000_001_SM_RearKit_0000_MAT_GT3_EVO_c_ad29caa",
+   "parent": "group1",
+   "tris": 1609,
+   "mats": {
+    "glass:MAT_Glass1": 804,
+    "BMW:MAT_Glass_002": 805
+   },
+   "min": [
+    -0.008,
+    -0.01,
+    0.006
+   ],
+   "max": [
+    0.008,
+    0.023,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Interior_0000_001_SM_Interior_0000_MAT_GT3_EVO_c_719e9f1",
+   "parent": "group1",
+   "tris": 1569,
+   "mats": {
+    "BMW:MAT_Details_Add_02": 1569
+   },
+   "min": [
+    -0.0,
+    -0.001,
+    0.002
+   ],
+   "max": [
+    0.006,
+    0.007,
+    0.011
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_37",
+   "parent": "group1",
+   "tris": 1348,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 1348
+   },
+   "min": [
+    -0.008,
+    -0.01,
+    0.001
+   ],
+   "max": [
+    0.006,
+    0.013,
+    0.013
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Interior_0000_001_SM_Interior_0000_MAT_GT3_EVO_c_d14a9d1",
+   "parent": "group1",
+   "tris": 1035,
+   "mats": {
+    "BMW:MAT_Details_Add_04": 1035
+   },
+   "min": [
+    -0.007,
+    -0.011,
+    0.006
+   ],
+   "max": [
+    0.007,
+    -0.004,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_44",
+   "parent": "group1",
+   "tris": 916,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 916
+   },
+   "min": [
+    -0.007,
+    -0.01,
+    0.001
+   ],
+   "max": [
+    0.006,
+    0.013,
+    0.013
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_14",
+   "parent": "group1",
+   "tris": 802,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 802
+   },
+   "min": [
+    -0.009,
+    -0.01,
+    0.001
+   ],
+   "max": [
+    0.009,
+    0.015,
+    0.013
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_42",
+   "parent": "group1",
+   "tris": 751,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 751
+   },
+   "min": [
+    -0.008,
+    -0.01,
+    0.005
+   ],
+   "max": [
+    0.007,
+    0.019,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_FrontKit_0000_001_SM_FrontKit_0000_MAT_GT3_EVO_c_0d39cb5",
+   "parent": "group1",
+   "tris": 688,
+   "mats": {
+    "BMW:MAT_Glass_002": 688
+   },
+   "min": [
+    -0.009,
+    -0.023,
+    0.002
+   ],
+   "max": [
+    0.009,
+    -0.019,
+    0.006
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_26",
+   "parent": "group1",
+   "tris": 642,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 642
+   },
+   "min": [
+    -0.007,
+    -0.009,
+    0.001
+   ],
+   "max": [
+    0.006,
+    0.018,
+    0.013
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_09",
+   "parent": "group1",
+   "tris": 641,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 641
+   },
+   "min": [
+    0.008,
+    -0.009,
+    0.002
+   ],
+   "max": [
+    0.009,
+    0.006,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_08",
+   "parent": "group1",
+   "tris": 641,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 641
+   },
+   "min": [
+    -0.009,
+    -0.009,
+    0.002
+   ],
+   "max": [
+    -0.008,
+    0.006,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Brake_RL_0000_001_SM_Brake_RL_0000_MAT_Tire_Brake_002",
+   "parent": "3DWheel Rear L",
+   "tris": 603,
+   "mats": {
+    "BMW:MAT_Tire_Brake1": 603
+   },
+   "min": [
+    0.008,
+    0.012,
+    0.002
+   ],
+   "max": [
+    0.009,
+    0.012,
+    0.005
+   ],
+   "scale": [
+    0.0115,
+    0.0112,
+    0.0112
+   ]
+  },
+  {
+   "name": "BMW:SM_Brake_RR_0000_001_SM_Brake_RR_0000_MAT_Tire_Brake_003",
+   "parent": "3DWheel Rear R",
+   "tris": 603,
+   "mats": {
+    "BMW:MAT_Tire_Brake1": 603
+   },
+   "min": [
+    -0.009,
+    0.012,
+    0.002
+   ],
+   "max": [
+    -0.008,
+    0.012,
+    0.005
+   ],
+   "scale": [
+    0.0115,
+    0.0112,
+    0.0112
+   ]
+  },
+  {
+   "name": "BMW:SM_FrontKit_0000_001_SM_FrontKit_0000_MAT_GT3_EVO_c_23e6d0d",
+   "parent": "group1",
+   "tris": 564,
+   "mats": {
+    "BMW:MAT_Details_EXT1": 564
+   },
+   "min": [
+    -0.01,
+    -0.024,
+    0.001
+   ],
+   "max": [
+    0.01,
+    -0.008,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Brake_FL_0000_001_SM_Brake_FL_0000_MAT_Tire_Brake",
+   "parent": "3DWheel Front L",
+   "tris": 500,
+   "mats": {
+    "BMW:MAT_Tire_Brake1": 500
+   },
+   "min": [
+    0.008,
+    -0.015,
+    0.002
+   ],
+   "max": [
+    0.009,
+    -0.014,
+    0.005
+   ],
+   "scale": [
+    0.012,
+    0.0123,
+    0.0123
+   ]
+  },
+  {
+   "name": "BMW:SM_Brake_FR_0000_001_SM_Brake_FR_0000_MAT_Tire_Brake_001",
+   "parent": "3DWheel Front R",
+   "tris": 500,
+   "mats": {
+    "BMW:MAT_Tire_Brake1": 500
+   },
+   "min": [
+    -0.009,
+    -0.015,
+    0.002
+   ],
+   "max": [
+    -0.008,
+    -0.014,
+    0.005
+   ],
+   "scale": [
+    0.012,
+    0.0123,
+    0.0123
+   ]
+  },
+  {
+   "name": "BMW:SM_Engine_0000_001_SM_Engine_0000_MAT_Details_Engine",
+   "parent": "group1",
+   "tris": 494,
+   "mats": {
+    "BMW:MAT_Details_Engine1": 494
+   },
+   "min": [
+    -0.01,
+    -0.012,
+    0.001
+   ],
+   "max": [
+    -0.007,
+    -0.008,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_R_13",
+   "parent": "group1",
+   "tris": 468,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 468
+   },
+   "min": [
+    -0.009,
+    -0.008,
+    0.002
+   ],
+   "max": [
+    -0.006,
+    0.006,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_32",
+   "parent": "group1",
+   "tris": 455,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 455
+   },
+   "min": [
+    -0.007,
+    -0.009,
+    0.001
+   ],
+   "max": [
+    0.007,
+    0.013,
+    0.013
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_L_12",
+   "parent": "group1",
+   "tris": 441,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 441
+   },
+   "min": [
+    0.006,
+    -0.008,
+    0.002
+   ],
+   "max": [
+    0.009,
+    0.006,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_05",
+   "parent": "group1",
+   "tris": 434,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 434
+   },
+   "min": [
+    0.008,
+    -0.006,
+    0.007
+   ],
+   "max": [
+    0.01,
+    0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_04",
+   "parent": "group1",
+   "tris": 434,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 434
+   },
+   "min": [
+    -0.01,
+    -0.006,
+    0.007
+   ],
+   "max": [
+    -0.008,
+    0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_48",
+   "parent": "group1",
+   "tris": 405,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 405
+   },
+   "min": [
+    -0.008,
+    -0.01,
+    0.002
+   ],
+   "max": [
+    0.008,
+    0.017,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_L_13",
+   "parent": "group1",
+   "tris": 403,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 403
+   },
+   "min": [
+    0.006,
+    -0.009,
+    0.002
+   ],
+   "max": [
+    0.009,
+    0.006,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Hood_0000_001_SM_Hood_0000_MAT_GT3_EVO_car_paint_004",
+   "parent": "group1",
+   "tris": 362,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 362
+   },
+   "min": [
+    -0.005,
+    -0.015,
+    0.007
+   ],
+   "max": [
+    0.005,
+    -0.011,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_R_14",
+   "parent": "group1",
+   "tris": 350,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 350
+   },
+   "min": [
+    -0.009,
+    -0.009,
+    0.002
+   ],
+   "max": [
+    -0.006,
+    0.006,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_55",
+   "parent": "group1",
+   "tris": 325,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 325
+   },
+   "min": [
+    -0.006,
+    -0.009,
+    0.001
+   ],
+   "max": [
+    0.008,
+    0.01,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_53",
+   "parent": "group1",
+   "tris": 323,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 323
+   },
+   "min": [
+    -0.007,
+    -0.006,
+    0.002
+   ],
+   "max": [
+    0.007,
+    0.02,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_56",
+   "parent": "group1",
+   "tris": 314,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 314
+   },
+   "min": [
+    -0.008,
+    -0.009,
+    0.001
+   ],
+   "max": [
+    0.007,
+    0.01,
+    0.011
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_07",
+   "parent": "group1",
+   "tris": 300,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 300
+   },
+   "min": [
+    0.008,
+    -0.006,
+    0.009
+   ],
+   "max": [
+    0.01,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_06",
+   "parent": "group1",
+   "tris": 300,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 300
+   },
+   "min": [
+    -0.01,
+    -0.006,
+    0.009
+   ],
+   "max": [
+    -0.008,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_43",
+   "parent": "group1",
+   "tris": 280,
+   "mats": {
+    "BMW:MAT_Details_INT1": 280
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.006
+   ],
+   "max": [
+    0.005,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_37",
+   "parent": "group1",
+   "tris": 268,
+   "mats": {
+    "BMW:MAT_Details_INT1": 268
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.005,
+    -0.0,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_36",
+   "parent": "group1",
+   "tris": 250,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 250
+   },
+   "min": [
+    -0.008,
+    -0.01,
+    0.006
+   ],
+   "max": [
+    0.008,
+    0.019,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Interior_0000_001_SM_Interior_0000_MAT_GT3_EVO_c_4dfcb64",
+   "parent": "group1",
+   "tris": 247,
+   "mats": {
+    "BMW:MAT_Details_Add_06": 247
+   },
+   "min": [
+    0.007,
+    -0.008,
+    0.002
+   ],
+   "max": [
+    0.008,
+    0.004,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:D_Body_17",
+   "parent": "group1",
+   "tris": 211,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 211
+   },
+   "min": [
+    -0.008,
+    -0.01,
+    0.002
+   ],
+   "max": [
+    0.006,
+    0.006,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Interior_0000_001_SM_Interior_0000_MAT_GT3_EVO_c_e53e61c",
+   "parent": "group1",
+   "tris": 208,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 208
+   },
+   "min": [
+    -0.009,
+    -0.011,
+    0.001
+   ],
+   "max": [
+    0.009,
+    0.02,
+    0.013
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Disk_L_0000_001_SM_Disk_L_0000_MAT_Tire_Disk",
+   "parent": "3DWheel Rear L",
+   "tris": 204,
+   "mats": {
+    "BMW:MAT_Tire_Disk1": 204
+   },
+   "min": [
+    0.008,
+    0.012,
+    0.002
+   ],
+   "max": [
+    0.009,
+    0.015,
+    0.005
+   ],
+   "scale": [
+    0.0115,
+    0.0112,
+    0.0112
+   ]
+  },
+  {
+   "name": "BMW:SM_Disk_R_0000_001_SM_Disk_R_0000_MAT_Tire_Disk_001",
+   "parent": "3DWheel Rear R",
+   "tris": 204,
+   "mats": {
+    "BMW:MAT_Tire_Disk1": 204
+   },
+   "min": [
+    -0.009,
+    0.012,
+    0.002
+   ],
+   "max": [
+    -0.008,
+    0.015,
+    0.005
+   ],
+   "scale": [
+    0.0115,
+    0.0112,
+    0.0112
+   ]
+  },
+  {
+   "name": "SM_Disk_L_0000_001_SM_Disk_L_0000_MAT_Tire_Disk",
+   "parent": "3DWheel Front L",
+   "tris": 204,
+   "mats": {
+    "BMW:MAT_Tire_Disk1": 204
+   },
+   "min": [
+    0.008,
+    -0.018,
+    0.002
+   ],
+   "max": [
+    0.009,
+    -0.014,
+    0.005
+   ],
+   "scale": [
+    0.012,
+    0.0123,
+    0.0123
+   ]
+  },
+  {
+   "name": "SM_Disk_R_0000_001_SM_Disk_R_0000_MAT_Tire_Disk_001",
+   "parent": "3DWheel Front R",
+   "tris": 204,
+   "mats": {
+    "BMW:MAT_Tire_Disk1": 204
+   },
+   "min": [
+    -0.009,
+    -0.018,
+    0.002
+   ],
+   "max": [
+    -0.008,
+    -0.014,
+    0.005
+   ],
+   "scale": [
+    0.012,
+    0.0123,
+    0.0123
+   ]
+  },
+  {
+   "name": "BMW:D_Body_69",
+   "parent": "group1",
+   "tris": 198,
+   "mats": {
+    "BMW:MAT_Details_INT1": 198
+   },
+   "min": [
+    -0.007,
+    -0.007,
+    0.002
+   ],
+   "max": [
+    0.004,
+    0.013,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_78",
+   "parent": "group1",
+   "tris": 191,
+   "mats": {
+    "BMW:MAT_Details_INT1": 191
+   },
+   "min": [
+    -0.003,
+    -0.006,
+    0.003
+   ],
+   "max": [
+    0.006,
+    0.012,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_76",
+   "parent": "group1",
+   "tris": 190,
+   "mats": {
+    "BMW:MAT_Details_INT1": 190
+   },
+   "min": [
+    -0.002,
+    -0.004,
+    0.003
+   ],
+   "max": [
+    0.002,
+    0.013,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "carbon_1:ANC_Door_L_13",
+   "parent": "group1",
+   "tris": 185,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 185
+   },
+   "min": [
+    0.006,
+    -0.008,
+    0.008
+   ],
+   "max": [
+    0.008,
+    0.006,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "carbon_1:ANC_Door_R_11",
+   "parent": "group1",
+   "tris": 185,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 185
+   },
+   "min": [
+    -0.008,
+    -0.008,
+    0.008
+   ],
+   "max": [
+    -0.006,
+    0.006,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_06",
+   "parent": "group1",
+   "tris": 172,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 172
+   },
+   "min": [
+    0.009,
+    0.002,
+    0.007
+   ],
+   "max": [
+    0.009,
+    0.004,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_05",
+   "parent": "group1",
+   "tris": 172,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 172
+   },
+   "min": [
+    -0.009,
+    0.002,
+    0.007
+   ],
+   "max": [
+    -0.009,
+    0.004,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_49",
+   "parent": "group1",
+   "tris": 171,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 171
+   },
+   "min": [
+    -0.008,
+    -0.007,
+    0.001
+   ],
+   "max": [
+    0.004,
+    0.008,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_41",
+   "parent": "group1",
+   "tris": 168,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 168
+   },
+   "min": [
+    0.002,
+    -0.011,
+    0.006
+   ],
+   "max": [
+    0.004,
+    -0.002,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_35",
+   "parent": "group1",
+   "tris": 160,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 160
+   },
+   "min": [
+    0.003,
+    -0.005,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.002,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_21",
+   "parent": "group1",
+   "tris": 154,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 154
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.005,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_20",
+   "parent": "group1",
+   "tris": 148,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 148
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.005,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_75",
+   "parent": "group1",
+   "tris": 148,
+   "mats": {
+    "BMW:MAT_Details_INT1": 148
+   },
+   "min": [
+    -0.002,
+    -0.007,
+    0.003
+   ],
+   "max": [
+    0.001,
+    0.012,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_50",
+   "parent": "group1",
+   "tris": 144,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 144
+   },
+   "min": [
+    -0.008,
+    -0.008,
+    0.003
+   ],
+   "max": [
+    0.008,
+    0.007,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_FrontKit_0000_001_SM_FrontKit_0000_MAT_GT3_EVO_c_6ef868c",
+   "parent": "group1",
+   "tris": 142,
+   "mats": {
+    "BMW:MAT_Details_Grid_01_002": 142
+   },
+   "min": [
+    -0.003,
+    -0.023,
+    0.001
+   ],
+   "max": [
+    0.003,
+    -0.023,
+    0.006
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_26",
+   "parent": "group1",
+   "tris": 132,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 132
+   },
+   "min": [
+    0.007,
+    -0.007,
+    0.008
+   ],
+   "max": [
+    0.009,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_31",
+   "parent": "group1",
+   "tris": 132,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 132
+   },
+   "min": [
+    -0.008,
+    -0.01,
+    0.006
+   ],
+   "max": [
+    0.008,
+    0.018,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_R_16",
+   "parent": "group1",
+   "tris": 127,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 127
+   },
+   "min": [
+    -0.008,
+    -0.007,
+    0.003
+   ],
+   "max": [
+    -0.007,
+    0.005,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_51",
+   "parent": "group1",
+   "tris": 126,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 126
+   },
+   "min": [
+    -0.007,
+    -0.01,
+    0.002
+   ],
+   "max": [
+    0.0,
+    0.01,
+    0.011
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_17",
+   "parent": "group1",
+   "tris": 125,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 125
+   },
+   "min": [
+    0.003,
+    -0.0,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_45",
+   "parent": "group1",
+   "tris": 124,
+   "mats": {
+    "BMW:MAT_Details_INT1": 124
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_52",
+   "parent": "group1",
+   "tris": 124,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 124
+   },
+   "min": [
+    -0.008,
+    -0.01,
+    0.001
+   ],
+   "max": [
+    0.0,
+    0.004,
+    0.005
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_03",
+   "parent": "group1",
+   "tris": 122,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 122
+   },
+   "min": [
+    -0.01,
+    -0.006,
+    0.007
+   ],
+   "max": [
+    -0.009,
+    0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "carbon_1:ANC_Door_L_14",
+   "parent": "group1",
+   "tris": 118,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 118
+   },
+   "min": [
+    0.008,
+    -0.008,
+    0.008
+   ],
+   "max": [
+    0.008,
+    0.005,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "carbon_1:ANC_Door_R_12",
+   "parent": "group1",
+   "tris": 118,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 118
+   },
+   "min": [
+    -0.008,
+    -0.008,
+    0.008
+   ],
+   "max": [
+    -0.008,
+    0.005,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_17",
+   "parent": "group1",
+   "tris": 116,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 116
+   },
+   "min": [
+    -0.01,
+    -0.007,
+    0.008
+   ],
+   "max": [
+    -0.007,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_16",
+   "parent": "group1",
+   "tris": 115,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 115
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.005,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_50",
+   "parent": "group1",
+   "tris": 113,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 113
+   },
+   "min": [
+    0.006,
+    -0.005,
+    0.006
+   ],
+   "max": [
+    0.008,
+    0.006,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_44",
+   "parent": "group1",
+   "tris": 113,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 113
+   },
+   "min": [
+    -0.008,
+    -0.005,
+    0.006
+   ],
+   "max": [
+    -0.006,
+    0.006,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_13",
+   "parent": "group1",
+   "tris": 112,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 112
+   },
+   "min": [
+    0.003,
+    -0.0,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_FrontKit_0000_001_SM_FrontKit_0000_MAT_GT3_EVO_c_b67da7e",
+   "parent": "group1",
+   "tris": 104,
+   "mats": {
+    "BMW:MAT_Details_Chassis1": 104
+   },
+   "min": [
+    -0.01,
+    -0.025,
+    0.0
+   ],
+   "max": [
+    0.01,
+    -0.009,
+    0.001
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_23",
+   "parent": "group1",
+   "tris": 101,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 101
+   },
+   "min": [
+    0.008,
+    -0.004,
+    0.009
+   ],
+   "max": [
+    0.01,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_18",
+   "parent": "group1",
+   "tris": 101,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 101
+   },
+   "min": [
+    -0.01,
+    -0.004,
+    0.009
+   ],
+   "max": [
+    -0.008,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_L_15",
+   "parent": "group1",
+   "tris": 101,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 101
+   },
+   "min": [
+    0.007,
+    -0.007,
+    0.003
+   ],
+   "max": [
+    0.008,
+    0.005,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_44",
+   "parent": "group1",
+   "tris": 100,
+   "mats": {
+    "BMW:MAT_Details_INT1": 100
+   },
+   "min": [
+    0.002,
+    -0.0,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_80",
+   "parent": "group1",
+   "tris": 96,
+   "mats": {
+    "BMW:MAT_Details_INT1": 96
+   },
+   "min": [
+    -0.002,
+    -0.002,
+    0.005
+   ],
+   "max": [
+    0.001,
+    0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_L_10",
+   "parent": "group1",
+   "tris": 96,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 96
+   },
+   "min": [
+    0.007,
+    -0.006,
+    0.004
+   ],
+   "max": [
+    0.008,
+    0.004,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_R_11",
+   "parent": "group1",
+   "tris": 96,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 96
+   },
+   "min": [
+    -0.008,
+    -0.006,
+    0.004
+   ],
+   "max": [
+    -0.007,
+    0.004,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_15",
+   "parent": "group1",
+   "tris": 93,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 93
+   },
+   "min": [
+    0.002,
+    -0.0,
+    0.007
+   ],
+   "max": [
+    0.003,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_43",
+   "parent": "group1",
+   "tris": 87,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 87
+   },
+   "min": [
+    -0.008,
+    -0.005,
+    0.005
+   ],
+   "max": [
+    -0.006,
+    0.004,
+    0.011
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:D_Body_18",
+   "parent": "group1",
+   "tris": 87,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 87
+   },
+   "min": [
+    -0.002,
+    -0.01,
+    0.002
+   ],
+   "max": [
+    0.007,
+    0.006,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_RearKit_0000_001_SM_RearKit_0000_MAT_GT3_EVO_car_22e1e46",
+   "parent": "group1",
+   "tris": 85,
+   "mats": {
+    "BMW:MAT_Details_Grid_01_002": 85
+   },
+   "min": [
+    -0.01,
+    0.007,
+    0.004
+   ],
+   "max": [
+    0.01,
+    0.021,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_03",
+   "parent": "group1",
+   "tris": 84,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 84
+   },
+   "min": [
+    0.009,
+    -0.006,
+    0.007
+   ],
+   "max": [
+    0.01,
+    0.003,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_15",
+   "parent": "group1",
+   "tris": 80,
+   "mats": {
+    "BMW:MAT_Details_EXT1": 80
+   },
+   "min": [
+    -0.01,
+    -0.005,
+    0.008
+   ],
+   "max": [
+    -0.006,
+    0.005,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_L_14",
+   "parent": "group1",
+   "tris": 79,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 79
+   },
+   "min": [
+    0.007,
+    -0.007,
+    0.003
+   ],
+   "max": [
+    0.008,
+    0.004,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_R_15",
+   "parent": "group1",
+   "tris": 79,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 79
+   },
+   "min": [
+    -0.008,
+    -0.007,
+    0.003
+   ],
+   "max": [
+    -0.007,
+    0.004,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_70",
+   "parent": "group1",
+   "tris": 78,
+   "mats": {
+    "BMW:MAT_Details_INT1": 78
+   },
+   "min": [
+    0.003,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:D_Body_15",
+   "parent": "group1",
+   "tris": 78,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 78
+   },
+   "min": [
+    -0.002,
+    -0.01,
+    0.002
+   ],
+   "max": [
+    0.006,
+    0.006,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_30",
+   "parent": "group1",
+   "tris": 76,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 76
+   },
+   "min": [
+    0.003,
+    -0.006,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.001,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_38",
+   "parent": "group1",
+   "tris": 74,
+   "mats": {
+    "BMW:MAT_Details_INT1": 74
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.003,
+    -0.0,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_24",
+   "parent": "group1",
+   "tris": 72,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 72
+   },
+   "min": [
+    0.009,
+    -0.004,
+    0.009
+   ],
+   "max": [
+    0.01,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_19",
+   "parent": "group1",
+   "tris": 72,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 72
+   },
+   "min": [
+    -0.01,
+    -0.004,
+    0.009
+   ],
+   "max": [
+    -0.009,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_39",
+   "parent": "group1",
+   "tris": 72,
+   "mats": {
+    "BMW:MAT_Details_EXT1": 72
+   },
+   "min": [
+    -0.008,
+    -0.005,
+    0.005
+   ],
+   "max": [
+    -0.007,
+    0.005,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_41",
+   "parent": "group1",
+   "tris": 72,
+   "mats": {
+    "BMW:MAT_Details_INT1": 72
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_FrontKit_0000_001_SM_FrontKit_0000_MAT_GT3_EVO_c_1822511",
+   "parent": "group1",
+   "tris": 72,
+   "mats": {
+    "BMW:MAT_Details_Grid_01_002": 72
+   },
+   "min": [
+    -0.006,
+    -0.023,
+    0.001
+   ],
+   "max": [
+    0.006,
+    -0.022,
+    0.003
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_RearKit_0000_001_SM_RearKit_0000_MAT_GT3_EVO_car_100ee80",
+   "parent": "group1",
+   "tris": 70,
+   "mats": {
+    "BMW:MAT_Glass_004": 70
+   },
+   "min": [
+    -0.006,
+    -0.005,
+    0.011
+   ],
+   "max": [
+    0.006,
+    -0.002,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_RearKit_0000_001_SM_RearKit_0000_MAT_GT3_EVO_car_71905c0",
+   "parent": "group1",
+   "tris": 70,
+   "mats": {
+    "BMW:MAT_Alpha_01_002": 70
+   },
+   "min": [
+    -0.01,
+    0.004,
+    0.002
+   ],
+   "max": [
+    0.01,
+    0.024,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_12",
+   "parent": "group1",
+   "tris": 68,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 68
+   },
+   "min": [
+    0.004,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_66",
+   "parent": "group1",
+   "tris": 66,
+   "mats": {
+    "BMW:MAT_Details_INT1": 66
+   },
+   "min": [
+    -0.003,
+    -0.009,
+    0.003
+   ],
+   "max": [
+    0.004,
+    0.007,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_19",
+   "parent": "group1",
+   "tris": 65,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 65
+   },
+   "min": [
+    0.002,
+    -0.0,
+    0.008
+   ],
+   "max": [
+    0.003,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_19",
+   "parent": "group1",
+   "tris": 64,
+   "mats": {
+    "BMW:MAT_Details_EXT1": 64
+   },
+   "min": [
+    0.006,
+    -0.005,
+    0.008
+   ],
+   "max": [
+    0.008,
+    0.005,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_25",
+   "parent": "group1",
+   "tris": 64,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 64
+   },
+   "min": [
+    0.003,
+    -0.0,
+    0.007
+   ],
+   "max": [
+    0.003,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_RearKit_0000_001_SM_RearKit_0000_MAT_GT3_EVO_car_4b040ff",
+   "parent": "group1",
+   "tris": 64,
+   "mats": {
+    "BMW:MAT_Details_Chassis1": 64
+   },
+   "min": [
+    -0.01,
+    -0.009,
+    0.0
+   ],
+   "max": [
+    0.01,
+    0.01,
+    0.001
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_14",
+   "parent": "group1",
+   "tris": 63,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 63
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.003,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_48",
+   "parent": "group1",
+   "tris": 60,
+   "mats": {
+    "BMW:MAT_Details_INT1": 60
+   },
+   "min": [
+    -0.008,
+    -0.005,
+    0.005
+   ],
+   "max": [
+    -0.006,
+    0.005,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_L_11",
+   "parent": "group1",
+   "tris": 60,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 60
+   },
+   "min": [
+    0.006,
+    -0.007,
+    0.004
+   ],
+   "max": [
+    0.009,
+    0.005,
+    0.011
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_R_12",
+   "parent": "group1",
+   "tris": 60,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 60
+   },
+   "min": [
+    -0.009,
+    -0.007,
+    0.004
+   ],
+   "max": [
+    -0.006,
+    0.005,
+    0.011
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_54",
+   "parent": "group1",
+   "tris": 59,
+   "mats": {
+    "BMW:MAT_Details_INT1": 59
+   },
+   "min": [
+    0.006,
+    -0.005,
+    0.005
+   ],
+   "max": [
+    0.008,
+    0.005,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:D_Body_16",
+   "parent": "group1",
+   "tris": 54,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 54
+   },
+   "min": [
+    -0.002,
+    -0.01,
+    0.002
+   ],
+   "max": [
+    0.008,
+    0.006,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_73",
+   "parent": "group1",
+   "tris": 51,
+   "mats": {
+    "BMW:MAT_Details_INT1": 51
+   },
+   "min": [
+    -0.006,
+    -0.005,
+    0.003
+   ],
+   "max": [
+    0.006,
+    0.001,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "carbon_1:ANC_Door_L_12",
+   "parent": "group1",
+   "tris": 50,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 50
+   },
+   "min": [
+    0.006,
+    -0.007,
+    0.008
+   ],
+   "max": [
+    0.008,
+    0.006,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "carbon_1:ANC_Door_R_10",
+   "parent": "group1",
+   "tris": 50,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 50
+   },
+   "min": [
+    -0.008,
+    -0.007,
+    0.008
+   ],
+   "max": [
+    -0.006,
+    0.006,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_08",
+   "parent": "group1",
+   "tris": 48,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 48
+   },
+   "min": [
+    0.009,
+    -0.005,
+    0.009
+   ],
+   "max": [
+    0.01,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_07",
+   "parent": "group1",
+   "tris": 48,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 48
+   },
+   "min": [
+    -0.01,
+    -0.005,
+    0.009
+   ],
+   "max": [
+    -0.009,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_45",
+   "parent": "group1",
+   "tris": 48,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 48
+   },
+   "min": [
+    -0.008,
+    -0.005,
+    0.008
+   ],
+   "max": [
+    -0.006,
+    0.005,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_61",
+   "parent": "group1",
+   "tris": 48,
+   "mats": {
+    "BMW:MAT_Details_INT1": 48
+   },
+   "min": [
+    -0.003,
+    -0.007,
+    0.002
+   ],
+   "max": [
+    0.004,
+    0.008,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "glass:ANC_Door_L_16",
+   "parent": "group1",
+   "tris": 44,
+   "mats": {
+    "glass:MAT_Glass1": 44
+   },
+   "min": [
+    0.006,
+    -0.005,
+    0.008
+   ],
+   "max": [
+    0.008,
+    0.006,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "glass:ANC_Door_R_13",
+   "parent": "group1",
+   "tris": 44,
+   "mats": {
+    "glass:MAT_Glass1": 44
+   },
+   "min": [
+    -0.008,
+    -0.005,
+    0.008
+   ],
+   "max": [
+    -0.006,
+    0.006,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_15",
+   "parent": "group1",
+   "tris": 42,
+   "mats": {
+    "glass:MAT_Glass1": 42
+   },
+   "min": [
+    0.006,
+    -0.005,
+    0.008
+   ],
+   "max": [
+    0.008,
+    0.006,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_67",
+   "parent": "group1",
+   "tris": 42,
+   "mats": {
+    "BMW:MAT_Details_INT1": 42
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.002,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Base_0000_001_SM_Base_0000_MAT_GT3_EVO_car_paint2",
+   "parent": "group1",
+   "tris": 42,
+   "mats": {
+    "glass:MAT_Glass1": 42
+   },
+   "min": [
+    -0.008,
+    -0.005,
+    0.008
+   ],
+   "max": [
+    -0.006,
+    0.006,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_04",
+   "parent": "group1",
+   "tris": 40,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 40
+   },
+   "min": [
+    0.009,
+    0.002,
+    0.007
+   ],
+   "max": [
+    0.009,
+    0.004,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_47",
+   "parent": "group1",
+   "tris": 40,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 40
+   },
+   "min": [
+    0.003,
+    -0.005,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.001,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Interior_0000_001_SM_Interior_0000_MAT_GT3_EVO_c_999748d",
+   "parent": "group1",
+   "tris": 40,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 40
+   },
+   "min": [
+    -0.007,
+    -0.009,
+    0.001
+   ],
+   "max": [
+    0.006,
+    0.012,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_26",
+   "parent": "group1",
+   "tris": 39,
+   "mats": {
+    "BMW:MAT_Details_INT1": 39
+   },
+   "min": [
+    0.002,
+    -0.0,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_28",
+   "parent": "group1",
+   "tris": 38,
+   "mats": {
+    "BMW:MAT_Details_INT1": 38
+   },
+   "min": [
+    0.002,
+    -0.0,
+    0.008
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_32",
+   "parent": "group1",
+   "tris": 38,
+   "mats": {
+    "BMW:MAT_Details_INT1": 38
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.008
+   ],
+   "max": [
+    0.003,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_38",
+   "parent": "group1",
+   "tris": 38,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 38
+   },
+   "min": [
+    0.003,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.001,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_09",
+   "parent": "group1",
+   "tris": 37,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 37
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.008
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_07",
+   "parent": "group1",
+   "tris": 36,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 36
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.001,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_23",
+   "parent": "group1",
+   "tris": 36,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 36
+   },
+   "min": [
+    0.003,
+    -0.0,
+    0.007
+   ],
+   "max": [
+    0.003,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_27",
+   "parent": "group1",
+   "tris": 36,
+   "mats": {
+    "BMW:MAT_Details_INT1": 36
+   },
+   "min": [
+    0.004,
+    -0.001,
+    0.008
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_71",
+   "parent": "group1",
+   "tris": 36,
+   "mats": {
+    "BMW:MAT_Details_INT1": 36
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.008
+   ],
+   "max": [
+    0.003,
+    -0.001,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_74",
+   "parent": "group1",
+   "tris": 36,
+   "mats": {
+    "BMW:MAT_Details_INT1": 36
+   },
+   "min": [
+    0.003,
+    -0.003,
+    0.007
+   ],
+   "max": [
+    0.003,
+    -0.002,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "carbon_1:ANC_Door_L_11",
+   "parent": "group1",
+   "tris": 34,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 34
+   },
+   "min": [
+    0.007,
+    -0.007,
+    0.008
+   ],
+   "max": [
+    0.008,
+    0.005,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "carbon_1:ANC_Door_R_09",
+   "parent": "group1",
+   "tris": 34,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 34
+   },
+   "min": [
+    -0.008,
+    -0.007,
+    0.008
+   ],
+   "max": [
+    -0.007,
+    0.005,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_48",
+   "parent": "group1",
+   "tris": 33,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 33
+   },
+   "min": [
+    0.007,
+    -0.002,
+    0.005
+   ],
+   "max": [
+    0.008,
+    0.004,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_25",
+   "parent": "group1",
+   "tris": 32,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 32
+   },
+   "min": [
+    0.009,
+    -0.004,
+    0.009
+   ],
+   "max": [
+    0.01,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_20",
+   "parent": "group1",
+   "tris": 32,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 32
+   },
+   "min": [
+    -0.01,
+    -0.004,
+    0.009
+   ],
+   "max": [
+    -0.009,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Hood_0000_001_SM_Hood_0000_MAT_GT3_EVO_car_paint_003",
+   "parent": "group1",
+   "tris": 32,
+   "mats": {
+    "BMW:MAT_Details_EXT1": 32
+   },
+   "min": [
+    -0.005,
+    -0.022,
+    0.006
+   ],
+   "max": [
+    0.005,
+    -0.021,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Interior_0000_001_SM_Interior_0000_MAT_GT3_EVO_c_b15aac2",
+   "parent": "group1",
+   "tris": 32,
+   "mats": {
+    "BMW:MAT_Details_EXT1": 32
+   },
+   "min": [
+    -0.001,
+    -0.004,
+    0.008
+   ],
+   "max": [
+    0.001,
+    0.018,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:D_Body_20",
+   "parent": "group1",
+   "tris": 32,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 32
+   },
+   "min": [
+    -0.002,
+    -0.01,
+    0.004
+   ],
+   "max": [
+    0.001,
+    -0.001,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_47",
+   "parent": "group1",
+   "tris": 31,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 31
+   },
+   "min": [
+    0.007,
+    -0.005,
+    0.006
+   ],
+   "max": [
+    0.008,
+    0.004,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_49",
+   "parent": "group1",
+   "tris": 30,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 30
+   },
+   "min": [
+    0.007,
+    -0.005,
+    0.008
+   ],
+   "max": [
+    0.008,
+    0.001,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_52",
+   "parent": "group1",
+   "tris": 30,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 30
+   },
+   "min": [
+    0.007,
+    -0.005,
+    0.008
+   ],
+   "max": [
+    0.008,
+    0.005,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_22",
+   "parent": "group1",
+   "tris": 30,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 30
+   },
+   "min": [
+    0.003,
+    -0.0,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_FrontKit_0000_001_SM_FrontKit_0000_MAT_GT3_EVO_c_63b6dc5",
+   "parent": "group1",
+   "tris": 30,
+   "mats": {
+    "BMW:MAT_Alpha_01_002": 30
+   },
+   "min": [
+    0.0,
+    -0.024,
+    0.003
+   ],
+   "max": [
+    0.003,
+    -0.024,
+    0.004
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Hood_0000_001_SM_Hood_0000_MAT_GT3_EVO_car_paint_005",
+   "parent": "group1",
+   "tris": 30,
+   "mats": {
+    "BMW:MAT_Alpha_01_002": 30
+   },
+   "min": [
+    -0.008,
+    -0.02,
+    0.008
+   ],
+   "max": [
+    0.008,
+    -0.008,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_L_17",
+   "parent": "group1",
+   "tris": 30,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 30
+   },
+   "min": [
+    0.008,
+    -0.002,
+    0.005
+   ],
+   "max": [
+    0.009,
+    -0.002,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_R_18",
+   "parent": "group1",
+   "tris": 30,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 30
+   },
+   "min": [
+    -0.009,
+    -0.002,
+    0.005
+   ],
+   "max": [
+    -0.008,
+    -0.002,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_57",
+   "parent": "group1",
+   "tris": 28,
+   "mats": {
+    "BMW:MAT_Details_INT1": 28
+   },
+   "min": [
+    0.007,
+    -0.001,
+    0.006
+   ],
+   "max": [
+    0.007,
+    -0.0,
+    0.006
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_51",
+   "parent": "group1",
+   "tris": 28,
+   "mats": {
+    "BMW:MAT_Details_INT1": 28
+   },
+   "min": [
+    -0.007,
+    -0.001,
+    0.006
+   ],
+   "max": [
+    -0.007,
+    -0.0,
+    0.006
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_30",
+   "parent": "group1",
+   "tris": 28,
+   "mats": {
+    "BMW:MAT_Details_INT1": 28
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_21",
+   "parent": "group1",
+   "tris": 27,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 27
+   },
+   "min": [
+    -0.009,
+    -0.004,
+    0.01
+   ],
+   "max": [
+    -0.009,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_24",
+   "parent": "group1",
+   "tris": 26,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 26
+   },
+   "min": [
+    0.003,
+    -0.005,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.003,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_43",
+   "parent": "group1",
+   "tris": 24,
+   "mats": {
+    "BMW:MAT_Details_EXT1": 24
+   },
+   "min": [
+    0.008,
+    0.004,
+    0.006
+   ],
+   "max": [
+    0.008,
+    0.005,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_44",
+   "parent": "group1",
+   "tris": 24,
+   "mats": {
+    "BMW:MAT_Details_EXT1": 24
+   },
+   "min": [
+    0.007,
+    -0.001,
+    0.005
+   ],
+   "max": [
+    0.008,
+    0.004,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_77",
+   "parent": "group1",
+   "tris": 24,
+   "mats": {
+    "BMW:MAT_Details_INT1": 24
+   },
+   "min": [
+    -0.003,
+    0.006,
+    0.004
+   ],
+   "max": [
+    -0.001,
+    0.007,
+    0.005
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_18",
+   "parent": "group1",
+   "tris": 22,
+   "mats": {
+    "BMW:MAT_Details_EXT1": 22
+   },
+   "min": [
+    0.009,
+    -0.005,
+    0.009
+   ],
+   "max": [
+    0.01,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_25",
+   "parent": "group1",
+   "tris": 22,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 22
+   },
+   "min": [
+    -0.008,
+    -0.01,
+    0.002
+   ],
+   "max": [
+    0.008,
+    0.012,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_40",
+   "parent": "group1",
+   "tris": 21,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 21
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.003,
+    -0.001,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_04",
+   "parent": "group1",
+   "tris": 20,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 20
+   },
+   "min": [
+    0.003,
+    -0.0,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_06",
+   "parent": "group1",
+   "tris": 20,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 20
+   },
+   "min": [
+    0.002,
+    -0.0,
+    0.007
+   ],
+   "max": [
+    0.003,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_46",
+   "parent": "group1",
+   "tris": 20,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 20
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.003,
+    -0.001,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_42",
+   "parent": "group1",
+   "tris": 19,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 19
+   },
+   "min": [
+    -0.008,
+    -0.004,
+    0.006
+   ],
+   "max": [
+    -0.007,
+    0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_L_09",
+   "parent": "group1",
+   "tris": 19,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 19
+   },
+   "min": [
+    0.006,
+    -0.008,
+    0.004
+   ],
+   "max": [
+    0.008,
+    0.006,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_R_10",
+   "parent": "group1",
+   "tris": 19,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 19
+   },
+   "min": [
+    -0.008,
+    -0.008,
+    0.004
+   ],
+   "max": [
+    -0.006,
+    0.006,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_46",
+   "parent": "group1",
+   "tris": 18,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 18
+   },
+   "min": [
+    0.008,
+    0.004,
+    0.006
+   ],
+   "max": [
+    0.008,
+    0.004,
+    0.006
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_41",
+   "parent": "group1",
+   "tris": 18,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 18
+   },
+   "min": [
+    -0.008,
+    0.004,
+    0.006
+   ],
+   "max": [
+    -0.008,
+    0.004,
+    0.006
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_60",
+   "parent": "group1",
+   "tris": 18,
+   "mats": {
+    "BMW:MAT_Details_INT1": 18
+   },
+   "min": [
+    -0.008,
+    0.005,
+    0.006
+   ],
+   "max": [
+    0.008,
+    0.005,
+    0.006
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_08",
+   "parent": "group1",
+   "tris": 17,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 17
+   },
+   "min": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:SM_Interior_0000_001_SM_Interior_0000_MAT_GT3__268922d",
+   "parent": "group1",
+   "tris": 17,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 17
+   },
+   "min": [
+    -0.008,
+    -0.01,
+    0.003
+   ],
+   "max": [
+    0.008,
+    0.005,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_00",
+   "parent": "group1",
+   "tris": 16,
+   "mats": {
+    "BMW:MAT_Details_EXT1": 16
+   },
+   "min": [
+    0.003,
+    -0.0,
+    0.007
+   ],
+   "max": [
+    0.003,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_22",
+   "parent": "group1",
+   "tris": 16,
+   "mats": {
+    "BMW:MAT_Details_EXT1": 16
+   },
+   "min": [
+    0.007,
+    -0.005,
+    0.007
+   ],
+   "max": [
+    0.007,
+    -0.005,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_39",
+   "parent": "group1",
+   "tris": 16,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 16
+   },
+   "min": [
+    0.003,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.003,
+    -0.001,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_45",
+   "parent": "group1",
+   "tris": 16,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 16
+   },
+   "min": [
+    0.003,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.003,
+    -0.001,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_68",
+   "parent": "group1",
+   "tris": 16,
+   "mats": {
+    "BMW:MAT_Details_INT1": 16
+   },
+   "min": [
+    -0.007,
+    0.009,
+    0.005
+   ],
+   "max": [
+    -0.003,
+    0.013,
+    0.006
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_72",
+   "parent": "group1",
+   "tris": 16,
+   "mats": {
+    "BMW:MAT_Details_INT1": 16
+   },
+   "min": [
+    0.003,
+    0.009,
+    0.005
+   ],
+   "max": [
+    0.007,
+    0.013,
+    0.006
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:D_Body_21",
+   "parent": "group1",
+   "tris": 16,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 16
+   },
+   "min": [
+    -0.001,
+    -0.001,
+    0.005
+   ],
+   "max": [
+    0.0,
+    -0.0,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_21",
+   "parent": "group1",
+   "tris": 13,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 13
+   },
+   "min": [
+    0.008,
+    -0.006,
+    0.009
+   ],
+   "max": [
+    0.01,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_51",
+   "parent": "group1",
+   "tris": 12,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 12
+   },
+   "min": [
+    0.006,
+    0.002,
+    0.011
+   ],
+   "max": [
+    0.006,
+    0.005,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_56",
+   "parent": "group1",
+   "tris": 12,
+   "mats": {
+    "BMW:MAT_Details_INT1": 12
+   },
+   "min": [
+    0.007,
+    -0.001,
+    0.006
+   ],
+   "max": [
+    0.007,
+    -0.0,
+    0.006
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_50",
+   "parent": "group1",
+   "tris": 12,
+   "mats": {
+    "BMW:MAT_Details_INT1": 12
+   },
+   "min": [
+    -0.007,
+    -0.001,
+    0.006
+   ],
+   "max": [
+    -0.007,
+    -0.0,
+    0.006
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_10",
+   "parent": "group1",
+   "tris": 12,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 12
+   },
+   "min": [
+    0.002,
+    -0.0,
+    0.008
+   ],
+   "max": [
+    0.002,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_40",
+   "parent": "group1",
+   "tris": 12,
+   "mats": {
+    "BMW:MAT_Details_INT1": 12
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.008
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_11",
+   "parent": "group1",
+   "tris": 12,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 12
+   },
+   "min": [
+    -0.009,
+    -0.008,
+    0.007
+   ],
+   "max": [
+    -0.008,
+    -0.008,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_43",
+   "parent": "group1",
+   "tris": 12,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 12
+   },
+   "min": [
+    0.006,
+    -0.002,
+    0.011
+   ],
+   "max": [
+    0.006,
+    -0.001,
+    0.011
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_79",
+   "parent": "group1",
+   "tris": 12,
+   "mats": {
+    "BMW:MAT_Details_INT1": 12
+   },
+   "min": [
+    0.004,
+    -0.005,
+    0.007
+   ],
+   "max": [
+    0.006,
+    -0.005,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Root_M4_GT3_EVO_001_SM_Root_M4_GT3_EVO_MAT_GT3_E_46d71a2",
+   "parent": "group1",
+   "tris": 12,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 12
+   },
+   "min": [
+    -0.0,
+    -0.0,
+    0.003
+   ],
+   "max": [
+    0.0,
+    0.0,
+    0.003
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "carbon_1:ANC_Door_L_10",
+   "parent": "group1",
+   "tris": 12,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 12
+   },
+   "min": [
+    0.007,
+    -0.006,
+    0.008
+   ],
+   "max": [
+    0.008,
+    0.005,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "carbon_1:SM_Base_0000_001_SM_Base_0000_MAT_GT3_EVO_car_paint1",
+   "parent": "group1",
+   "tris": 12,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 12
+   },
+   "min": [
+    -0.008,
+    -0.006,
+    0.008
+   ],
+   "max": [
+    -0.007,
+    0.005,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_16",
+   "parent": "group1",
+   "tris": 10,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 10
+   },
+   "min": [
+    -0.01,
+    -0.006,
+    0.009
+   ],
+   "max": [
+    -0.008,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_11",
+   "parent": "group1",
+   "tris": 10,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 10
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_29",
+   "parent": "group1",
+   "tris": 10,
+   "mats": {
+    "BMW:MAT_Details_INT1": 10
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.008
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_42",
+   "parent": "group1",
+   "tris": 10,
+   "mats": {
+    "BMW:MAT_Details_INT1": 10
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.008
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_13",
+   "parent": "group1",
+   "tris": 10,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 10
+   },
+   "min": [
+    0.008,
+    -0.008,
+    0.007
+   ],
+   "max": [
+    0.009,
+    -0.008,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_27",
+   "parent": "group1",
+   "tris": 10,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 10
+   },
+   "min": [
+    0.003,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.001,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_39",
+   "parent": "group1",
+   "tris": 9,
+   "mats": {
+    "BMW:MAT_Details_INT1": 9
+   },
+   "min": [
+    0.003,
+    -0.0,
+    0.008
+   ],
+   "max": [
+    0.003,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_22",
+   "parent": "group1",
+   "tris": 8,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 8
+   },
+   "min": [
+    0.01,
+    -0.004,
+    0.009
+   ],
+   "max": [
+    0.01,
+    -0.004,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_05",
+   "parent": "group1",
+   "tris": 8,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 8
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.002,
+    -0.001,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_24",
+   "parent": "group1",
+   "tris": 8,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 8
+   },
+   "min": [
+    0.003,
+    -0.0,
+    0.007
+   ],
+   "max": [
+    0.003,
+    -0.0,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_12",
+   "parent": "group1",
+   "tris": 8,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 8
+   },
+   "min": [
+    -0.009,
+    -0.008,
+    0.003
+   ],
+   "max": [
+    -0.009,
+    -0.008,
+    0.003
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_23",
+   "parent": "group1",
+   "tris": 8,
+   "mats": {
+    "BMW:MAT_Details_EXT1": 8
+   },
+   "min": [
+    0.007,
+    0.004,
+    0.008
+   ],
+   "max": [
+    0.007,
+    0.004,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_28",
+   "parent": "group1",
+   "tris": 8,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 8
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.003,
+    -0.001,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_29",
+   "parent": "group1",
+   "tris": 8,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 8
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.003,
+    -0.001,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_58",
+   "parent": "group1",
+   "tris": 8,
+   "mats": {
+    "BMW:MAT_Details_INT1": 8
+   },
+   "min": [
+    -0.008,
+    -0.001,
+    0.006
+   ],
+   "max": [
+    0.008,
+    0.005,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:D_Body_19",
+   "parent": "group1",
+   "tris": 8,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 8
+   },
+   "min": [
+    -0.001,
+    -0.002,
+    0.005
+   ],
+   "max": [
+    0.0,
+    -0.0,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_55",
+   "parent": "group1",
+   "tris": 7,
+   "mats": {
+    "BMW:MAT_Details_INT1": 7
+   },
+   "min": [
+    0.007,
+    -0.001,
+    0.004
+   ],
+   "max": [
+    0.008,
+    0.002,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_14",
+   "parent": "group1",
+   "tris": 7,
+   "mats": {
+    "BMW:MAT_Details_EXT1": 7
+   },
+   "min": [
+    -0.01,
+    -0.004,
+    0.009
+   ],
+   "max": [
+    -0.01,
+    -0.004,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_49",
+   "parent": "group1",
+   "tris": 7,
+   "mats": {
+    "BMW:MAT_Details_INT1": 7
+   },
+   "min": [
+    -0.008,
+    -0.001,
+    0.004
+   ],
+   "max": [
+    -0.007,
+    0.002,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_02",
+   "parent": "group1",
+   "tris": 7,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 7
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.001,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_01",
+   "parent": "group1",
+   "tris": 6,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 6
+   },
+   "min": [
+    0.002,
+    -0.0,
+    0.008
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_03",
+   "parent": "group1",
+   "tris": 6,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 6
+   },
+   "min": [
+    0.004,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.001,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_33",
+   "parent": "group1",
+   "tris": 6,
+   "mats": {
+    "BMW:MAT_Details_INT1": 6
+   },
+   "min": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_34",
+   "parent": "group1",
+   "tris": 6,
+   "mats": {
+    "BMW:MAT_Details_INT1": 6
+   },
+   "min": [
+    0.002,
+    -0.0,
+    0.008
+   ],
+   "max": [
+    0.002,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_35",
+   "parent": "group1",
+   "tris": 6,
+   "mats": {
+    "BMW:MAT_Details_INT1": 6
+   },
+   "min": [
+    0.003,
+    -0.001,
+    0.008
+   ],
+   "max": [
+    0.003,
+    -0.001,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_54",
+   "parent": "group1",
+   "tris": 6,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 6
+   },
+   "min": [
+    0.006,
+    -0.002,
+    0.011
+   ],
+   "max": [
+    0.006,
+    -0.001,
+    0.011
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_65",
+   "parent": "group1",
+   "tris": 6,
+   "mats": {
+    "BMW:MAT_Details_INT1": 6
+   },
+   "min": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_L_16",
+   "parent": "group1",
+   "tris": 6,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 6
+   },
+   "min": [
+    0.008,
+    -0.004,
+    0.005
+   ],
+   "max": [
+    0.008,
+    -0.002,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "Carbon_3:ANC_Door_R_17",
+   "parent": "group1",
+   "tris": 6,
+   "mats": {
+    "carbon_1:BMW_M4_GT3_EVO_Carbon1": 6
+   },
+   "min": [
+    -0.008,
+    -0.004,
+    0.005
+   ],
+   "max": [
+    -0.008,
+    -0.002,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_01",
+   "parent": "group1",
+   "tris": 5,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 5
+   },
+   "min": [
+    -0.009,
+    -0.008,
+    0.007
+   ],
+   "max": [
+    -0.009,
+    -0.008,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_05",
+   "parent": "group1",
+   "tris": 5,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 5
+   },
+   "min": [
+    -0.009,
+    -0.008,
+    0.003
+   ],
+   "max": [
+    0.008,
+    -0.008,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_53",
+   "parent": "group1",
+   "tris": 4,
+   "mats": {
+    "BMW:MAT_Details_INT1": 4
+   },
+   "min": [
+    0.006,
+    0.005,
+    0.011
+   ],
+   "max": [
+    0.006,
+    0.005,
+    0.011
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_46",
+   "parent": "group1",
+   "tris": 4,
+   "mats": {
+    "BMW:MAT_Details_INT1": 4
+   },
+   "min": [
+    -0.006,
+    -0.002,
+    0.011
+   ],
+   "max": [
+    -0.006,
+    -0.001,
+    0.011
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_18",
+   "parent": "group1",
+   "tris": 4,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 4
+   },
+   "min": [
+    0.002,
+    -0.0,
+    0.008
+   ],
+   "max": [
+    0.002,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_31",
+   "parent": "group1",
+   "tris": 4,
+   "mats": {
+    "BMW:MAT_Details_INT1": 4
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.003,
+    -0.001,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_SteeringWheel_36",
+   "parent": "group1",
+   "tris": 4,
+   "mats": {
+    "BMW:MAT_Details_INT1": 4
+   },
+   "min": [
+    0.003,
+    -0.0,
+    0.008
+   ],
+   "max": [
+    0.003,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_07",
+   "parent": "group1",
+   "tris": 4,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 4
+   },
+   "min": [
+    0.009,
+    -0.008,
+    0.007
+   ],
+   "max": [
+    0.009,
+    -0.008,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_33",
+   "parent": "group1",
+   "tris": 4,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 4
+   },
+   "min": [
+    0.004,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.004,
+    -0.001,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_62",
+   "parent": "group1",
+   "tris": 4,
+   "mats": {
+    "BMW:MAT_Details_INT1": 4
+   },
+   "min": [
+    0.003,
+    -0.001,
+    0.008
+   ],
+   "max": [
+    0.004,
+    -0.001,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_63",
+   "parent": "group1",
+   "tris": 4,
+   "mats": {
+    "BMW:MAT_Details_INT1": 4
+   },
+   "min": [
+    0.002,
+    -0.001,
+    0.008
+   ],
+   "max": [
+    0.003,
+    -0.001,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_64",
+   "parent": "group1",
+   "tris": 4,
+   "mats": {
+    "BMW:MAT_Details_INT1": 4
+   },
+   "min": [
+    0.006,
+    -0.002,
+    0.011
+   ],
+   "max": [
+    0.006,
+    -0.001,
+    0.011
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_47",
+   "parent": "group1",
+   "tris": 3,
+   "mats": {
+    "BMW:MAT_Details_INT1": 3
+   },
+   "min": [
+    -0.008,
+    0.002,
+    0.005
+   ],
+   "max": [
+    -0.007,
+    0.004,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_34",
+   "parent": "group1",
+   "tris": 3,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 3
+   },
+   "min": [
+    0.003,
+    -0.001,
+    0.007
+   ],
+   "max": [
+    0.003,
+    -0.001,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_02",
+   "parent": "group1",
+   "tris": 2,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 2
+   },
+   "min": [
+    0.009,
+    -0.004,
+    0.007
+   ],
+   "max": [
+    0.01,
+    0.003,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_17",
+   "parent": "group1",
+   "tris": 2,
+   "mats": {
+    "BMW:MAT_Details_EXT1": 2
+   },
+   "min": [
+    0.009,
+    -0.005,
+    0.009
+   ],
+   "max": [
+    0.01,
+    -0.004,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_20",
+   "parent": "group1",
+   "tris": 2,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 2
+   },
+   "min": [
+    0.009,
+    -0.004,
+    0.009
+   ],
+   "max": [
+    0.01,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_31",
+   "parent": "group1",
+   "tris": 2,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 2
+   },
+   "min": [
+    0.009,
+    -0.008,
+    0.003
+   ],
+   "max": [
+    0.009,
+    -0.008,
+    0.003
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_02",
+   "parent": "group1",
+   "tris": 2,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 2
+   },
+   "min": [
+    -0.009,
+    0.002,
+    0.007
+   ],
+   "max": [
+    -0.009,
+    0.003,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_04",
+   "parent": "group1",
+   "tris": 2,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 2
+   },
+   "min": [
+    -0.009,
+    -0.008,
+    0.003
+   ],
+   "max": [
+    -0.009,
+    -0.008,
+    0.003
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_08",
+   "parent": "group1",
+   "tris": 2,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 2
+   },
+   "min": [
+    0.009,
+    -0.008,
+    0.003
+   ],
+   "max": [
+    0.009,
+    -0.008,
+    0.003
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_57",
+   "parent": "group1",
+   "tris": 2,
+   "mats": {
+    "BMW:MAT_Details_INT1": 2
+   },
+   "min": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_59",
+   "parent": "group1",
+   "tris": 2,
+   "mats": {
+    "BMW:MAT_Details_INT1": 2
+   },
+   "min": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Base_0000_001_SM_Base_0000_MAT_GT3_EVO_car_paint",
+   "parent": "group1",
+   "tris": 2,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 2
+   },
+   "min": [
+    -0.01,
+    -0.009,
+    0.002
+   ],
+   "max": [
+    0.01,
+    0.006,
+    0.012
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Base_0000_001_SM_Base_0000_MAT_GT3_EVO_car_paint4",
+   "parent": "group1",
+   "tris": 2,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 2
+   },
+   "min": [
+    -0.01,
+    -0.004,
+    0.009
+   ],
+   "max": [
+    -0.009,
+    -0.004,
+    0.01
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Interior_0000_001_SM_Interior_0000_MAT_GT3_EVO_c_5fd169a",
+   "parent": "group1",
+   "tris": 2,
+   "mats": {
+    "BMW:MAT_Details_INT1": 2
+   },
+   "min": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "max": [
+    0.004,
+    -0.0,
+    0.008
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_27",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    0.008,
+    -0.008,
+    0.007
+   ],
+   "max": [
+    0.008,
+    -0.008,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_28",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    0.009,
+    -0.008,
+    0.007
+   ],
+   "max": [
+    0.009,
+    -0.008,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_29",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    0.009,
+    -0.008,
+    0.003
+   ],
+   "max": [
+    0.009,
+    -0.008,
+    0.003
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_30",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    0.009,
+    -0.008,
+    0.003
+   ],
+   "max": [
+    0.009,
+    -0.008,
+    0.003
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_32",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    0.008,
+    -0.008,
+    0.007
+   ],
+   "max": [
+    0.009,
+    -0.008,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_33",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    0.008,
+    -0.008,
+    0.007
+   ],
+   "max": [
+    0.009,
+    -0.008,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_L_45",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 1
+   },
+   "min": [
+    0.008,
+    0.004,
+    0.006
+   ],
+   "max": [
+    0.008,
+    0.004,
+    0.006
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_22",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    -0.008,
+    -0.008,
+    0.007
+   ],
+   "max": [
+    -0.008,
+    -0.008,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_23",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    -0.009,
+    -0.008,
+    0.007
+   ],
+   "max": [
+    -0.009,
+    -0.008,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_24",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    -0.009,
+    -0.008,
+    0.003
+   ],
+   "max": [
+    -0.009,
+    -0.008,
+    0.003
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_25",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    -0.009,
+    -0.008,
+    0.003
+   ],
+   "max": [
+    -0.009,
+    -0.008,
+    0.003
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_26",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    -0.009,
+    -0.008,
+    0.003
+   ],
+   "max": [
+    -0.009,
+    -0.008,
+    0.003
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_27",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    -0.009,
+    -0.008,
+    0.003
+   ],
+   "max": [
+    -0.009,
+    -0.008,
+    0.003
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_28",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    -0.009,
+    -0.008,
+    0.007
+   ],
+   "max": [
+    -0.008,
+    -0.008,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_29",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    -0.009,
+    -0.008,
+    0.007
+   ],
+   "max": [
+    -0.008,
+    -0.008,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:ANC_Door_R_40",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_Details_MAT1": 1
+   },
+   "min": [
+    -0.008,
+    0.004,
+    0.006
+   ],
+   "max": [
+    -0.008,
+    0.004,
+    0.006
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_00",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    -0.008,
+    -0.008,
+    0.007
+   ],
+   "max": [
+    -0.008,
+    -0.008,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_02",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    -0.009,
+    -0.008,
+    0.003
+   ],
+   "max": [
+    -0.009,
+    -0.008,
+    0.003
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_03",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    -0.009,
+    -0.008,
+    0.003
+   ],
+   "max": [
+    -0.009,
+    -0.008,
+    0.003
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_06",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    0.009,
+    -0.008,
+    0.007
+   ],
+   "max": [
+    0.009,
+    -0.008,
+    0.007
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:D_Body_09",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_GT3_EVO_car_paint1": 1
+   },
+   "min": [
+    0.009,
+    -0.008,
+    0.003
+   ],
+   "max": [
+    0.009,
+    -0.008,
+    0.003
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "BMW:SM_Base_0000_001_SM_Base_0000_MAT_GT3_EVO_car_paint3",
+   "parent": "group1",
+   "tris": 1,
+   "mats": {
+    "BMW:MAT_Details_EXT1": 1
+   },
+   "min": [
+    -0.01,
+    -0.004,
+    0.009
+   ],
+   "max": [
+    -0.01,
+    -0.004,
+    0.009
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "3DWheel Front L",
+   "parent": "Armature",
+   "tris": 0,
+   "mats": {},
+   "min": [
+    0.008,
+    -0.016,
+    0.003
+   ],
+   "max": [
+    0.008,
+    -0.016,
+    0.003
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "3DWheel Front R",
+   "parent": "Armature",
+   "tris": 0,
+   "mats": {},
+   "min": [
+    -0.008,
+    -0.016,
+    0.003
+   ],
+   "max": [
+    -0.008,
+    -0.016,
+    0.003
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "3DWheel Rear L",
+   "parent": "Armature",
+   "tris": 0,
+   "mats": {},
+   "min": [
+    0.008,
+    0.013,
+    0.004
+   ],
+   "max": [
+    0.008,
+    0.013,
+    0.004
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  },
+  {
+   "name": "3DWheel Rear R",
+   "parent": "Armature",
+   "tris": 0,
+   "mats": {},
+   "min": [
+    -0.008,
+    0.013,
+    0.004
+   ],
+   "max": [
+    -0.008,
+    0.013,
+    0.004
+   ],
+   "scale": [
+    0.01,
+    0.01,
+    0.01
+   ]
+  }
+ ],
+ "materials": {
+  "BMW:MAT_Alpha_01_002": [
+   "file4 (256, 256) -> ['Base Color']",
+   "file4.002 (256, 256) -> []"
+  ],
+  "BMW:MAT_Details_Add_02": [
+   "file5 (256, 256) -> ['Base Color']",
+   "file6 (256, 256) -> ['Color']",
+   "file5.001 (256, 256) -> []"
+  ],
+  "BMW:MAT_Details_Add_04": [
+   "file7 (256, 256) -> ['Base Color']",
+   "file8 (256, 256) -> ['Color']",
+   "file7.001 (256, 256) -> []"
+  ],
+  "BMW:MAT_Details_Add_06": [
+   "file9 (256, 256) -> ['Base Color']",
+   "file9.001 (256, 256) -> []"
+  ],
+  "BMW:MAT_Details_Chassis1": [
+   "file10 (256, 128) -> ['Base Color']",
+   "file11 (256, 128) -> ['Color']"
+  ],
+  "BMW:MAT_Details_Engine1": [
+   "file14 (256, 256) -> ['Base Color']",
+   "file15 (256, 256) -> ['Color']",
+   "file14.001 (256, 256) -> []"
+  ],
+  "BMW:MAT_Details_EXT1": [
+   "file12 (512, 512) -> ['Base Color']",
+   "file13 (512, 512) -> ['Color']",
+   "file12.001 (512, 512) -> []"
+  ],
+  "BMW:MAT_Details_Grid_01_002": [
+   "file16 (512, 256) -> ['Base Color']",
+   "file17 (512, 256) -> ['Color']",
+   "file16.001 (512, 256) -> []"
+  ],
+  "BMW:MAT_Details_INT1": [
+   "file18 (512, 512) -> ['Base Color']",
+   "file19 (512, 512) -> ['Color']",
+   "file18.001 (512, 512) -> []"
+  ],
+  "BMW:MAT_Details_MAT1": [
+   "file20 (256, 128) -> ['Base Color']",
+   "file20.001 (256, 128) -> []"
+  ],
+  "BMW:MAT_Glass_002": [],
+  "BMW:MAT_Glass_004": [
+   "file23 (512, 512) -> ['Base Color']",
+   "file23.001 (512, 512) -> []"
+  ],
+  "BMW:MAT_GT3_EVO_car_paint1": [],
+  "BMW:MAT_Lights1": [
+   "file24 (512, 512) -> ['Base Color']",
+   "file24.001 (512, 512) -> []"
+  ],
+  "BMW:MAT_Tire_Brake1": [
+   "file25 (256, 256) -> ['Base Color']",
+   "file26 (256, 256) -> ['Color']",
+   "file25.001 (256, 256) -> []"
+  ],
+  "BMW:MAT_Tire_Disk1": [
+   "file27 (256, 256) -> ['Base Color']",
+   "file28 (256, 256) -> ['Color']",
+   "file27.001 (256, 256) -> []"
+  ],
+  "BMW:MAT_Tire_Hub1": [
+   "file29 (512, 512) -> ['Base Color']",
+   "file30 (512, 512) -> ['Color']",
+   "file29.001 (512, 512) -> []"
+  ],
+  "carbon_1:BMW_M4_GT3_EVO_Carbon1": [
+   "file2 (128, 128) -> ['Base Color']",
+   "file3 (256, 256) -> ['Color']"
+  ],
+  "glass:MAT_Glass1": [
+   "file22 (1068, 1068) -> ['Base Color']",
+   "file22.002 (1068, 1068) -> []"
+  ],
+  "Tire:BMW_M4GT3_2022_Wheel1A_3D_3DWheel1A_Material1": [
+   "Tire:BMW_M4GT3_2022_Wheel1A_3D_3DWheel1A_Material1F (800, 800) -> ['Base Color']",
+   "file1 (512, 512) -> ['Color']",
+   "Tire:BMW_M4GT3_2022_Wheel1A_3D_3DWheel1A_Material1F.001 (800, 800) -> []"
+  ]
+ },
+ "empties": [
+  "group1"
+ ],
+ "missing_images": []
+}

@@ -1,0 +1,1781 @@
+{
+ "total_tris": 562200,
+ "mesh_count": 64,
+ "bounds": [
+  [
+   1.9999999949504854e-06,
+   0.013306926935911179,
+   -5.073899956187233e-06
+  ],
+  [
+   26.194360733032227,
+   58.07426834106445,
+   18.221891403198242
+  ]
+ ],
+ "objects": [
+  {
+   "name": "Object_64",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 16806,
+   "mats": {
+    "Interior": 16806
+   },
+   "min": [
+    4.721,
+    23.749,
+    4.306
+   ],
+   "max": [
+    21.472,
+    45.2,
+    16.02
+   ]
+  },
+  {
+   "name": "Object_22",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 16505,
+   "mats": {
+    "2022_GAC_Empow_Matte_Green": 16505
+   },
+   "min": [
+    1.716,
+    0.082,
+    2.466
+   ],
+   "max": [
+    24.477,
+    58.062,
+    17.791
+   ]
+  },
+  {
+   "name": "Object_38",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 16279,
+   "mats": {
+    "2022_GAC_Empow_YellowTrims": 16279
+   },
+   "min": [
+    2.675,
+    0.425,
+    4.173
+   ],
+   "max": [
+    23.589,
+    47.57,
+    7.927
+   ]
+  },
+  {
+   "name": "Object_14",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 16005,
+   "mats": {
+    "2022_GAC_Empow_ChromeTrims": 16005
+   },
+   "min": [
+    2.184,
+    0.027,
+    3.704
+   ],
+   "max": [
+    24.046,
+    57.292,
+    13.19
+   ]
+  },
+  {
+   "name": "Object_45",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 15742,
+   "mats": {
+    "Interior": 15742
+   },
+   "min": [
+    5.404,
+    17.981,
+    3.628
+   ],
+   "max": [
+    23.552,
+    55.668,
+    17.35
+   ]
+  },
+  {
+   "name": "Object_55",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 15590,
+   "mats": {
+    "Interior": 15590
+   },
+   "min": [
+    3.787,
+    15.811,
+    3.522
+   ],
+   "max": [
+    22.405,
+    56.764,
+    15.778
+   ]
+  },
+  {
+   "name": "Object_5",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 15583,
+   "mats": {
+    "2022_GAC_Empow_BlackChrome": 15583
+   },
+   "min": [
+    2.259,
+    0.013,
+    2.881
+   ],
+   "max": [
+    23.933,
+    58.015,
+    17.357
+   ]
+  },
+  {
+   "name": "Object_63",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 15455,
+   "mats": {
+    "Interior": 15455
+   },
+   "min": [
+    3.87,
+    21.649,
+    4.092
+   ],
+   "max": [
+    21.358,
+    45.184,
+    17.941
+   ]
+  },
+  {
+   "name": "Object_41",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 15032,
+   "mats": {
+    "Interior": 15032
+   },
+   "min": [
+    2.799,
+    5.95,
+    3.915
+   ],
+   "max": [
+    22.584,
+    54.524,
+    16.902
+   ]
+  },
+  {
+   "name": "Object_61",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 14188,
+   "mats": {
+    "Interior": 14188
+   },
+   "min": [
+    5.077,
+    11.55,
+    4.717
+   ],
+   "max": [
+    23.589,
+    43.124,
+    16.071
+   ]
+  },
+  {
+   "name": "Object_51",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 13729,
+   "mats": {
+    "Interior": 13729
+   },
+   "min": [
+    3.152,
+    16.008,
+    4.615
+   ],
+   "max": [
+    21.253,
+    43.664,
+    17.349
+   ]
+  },
+  {
+   "name": "Object_57",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 12845,
+   "mats": {
+    "Interior": 12845
+   },
+   "min": [
+    4.195,
+    14.866,
+    4.266
+   ],
+   "max": [
+    22.015,
+    31.453,
+    13.49
+   ]
+  },
+  {
+   "name": "Object_50",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 12783,
+   "mats": {
+    "Interior": 12783
+   },
+   "min": [
+    3.477,
+    13.574,
+    4.714
+   ],
+   "max": [
+    21.854,
+    43.351,
+    17.328
+   ]
+  },
+  {
+   "name": "Object_44",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 12739,
+   "mats": {
+    "Interior": 12739
+   },
+   "min": [
+    2.829,
+    11.485,
+    4.543
+   ],
+   "max": [
+    23.401,
+    54.522,
+    17.031
+   ]
+  },
+  {
+   "name": "Object_4",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 12699,
+   "mats": {
+    "2022_GAC_Empow_BlackChrome": 12699
+   },
+   "min": [
+    2.791,
+    2.123,
+    5.065
+   ],
+   "max": [
+    23.539,
+    57.027,
+    17.294
+   ]
+  },
+  {
+   "name": "Object_20",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 12525,
+   "mats": {
+    "2022_GAC_Empow_Grille1": 12525
+   },
+   "min": [
+    2.912,
+    0.026,
+    3.846
+   ],
+   "max": [
+    23.283,
+    54.731,
+    8.907
+   ]
+  },
+  {
+   "name": "Object_43",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 12514,
+   "mats": {
+    "Interior": 12514
+   },
+   "min": [
+    4.944,
+    17.979,
+    4.543
+   ],
+   "max": [
+    23.401,
+    54.629,
+    17.349
+   ]
+  },
+  {
+   "name": "Object_62",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 12379,
+   "mats": {
+    "Interior": 12379
+   },
+   "min": [
+    3.955,
+    16.492,
+    3.915
+   ],
+   "max": [
+    22.433,
+    43.446,
+    16.834
+   ]
+  },
+  {
+   "name": "Object_59",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 12060,
+   "mats": {
+    "Interior": 12060
+   },
+   "min": [
+    4.346,
+    19.327,
+    5.762
+   ],
+   "max": [
+    21.841,
+    45.2,
+    15.191
+   ]
+  },
+  {
+   "name": "Object_46",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 12002,
+   "mats": {
+    "Interior": 12002
+   },
+   "min": [
+    4.877,
+    16.177,
+    3.853
+   ],
+   "max": [
+    22.323,
+    42.946,
+    16.45
+   ]
+  },
+  {
+   "name": "Object_65",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 11986,
+   "mats": {
+    "Interior": 11986
+   },
+   "min": [
+    2.266,
+    8.685,
+    1.401
+   ],
+   "max": [
+    23.964,
+    56.816,
+    17.393
+   ]
+  },
+  {
+   "name": "Object_8",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 11953,
+   "mats": {
+    "2022_GAC_Empow_BlackTrims1": 11953
+   },
+   "min": [
+    3.115,
+    16.503,
+    3.848
+   ],
+   "max": [
+    23.466,
+    58.009,
+    18.036
+   ]
+  },
+  {
+   "name": "Object_42",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 11920,
+   "mats": {
+    "Interior": 11920
+   },
+   "min": [
+    1.97,
+    2.572,
+    1.401
+   ],
+   "max": [
+    24.26,
+    48.312,
+    16.071
+   ]
+  },
+  {
+   "name": "Object_31",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 11836,
+   "mats": {
+    "2022_GAC_Empow_Rims2": 11836
+   },
+   "min": [
+    2.236,
+    11.016,
+    1.453
+   ],
+   "max": [
+    24.345,
+    48.287,
+    7.593
+   ]
+  },
+  {
+   "name": "Object_48",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 11794,
+   "mats": {
+    "Interior": 11794
+   },
+   "min": [
+    3.381,
+    16.146,
+    5.337
+   ],
+   "max": [
+    22.059,
+    51.584,
+    16.479
+   ]
+  },
+  {
+   "name": "Object_16",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 11652,
+   "mats": {
+    "2022_GAC_Empow_DRLs": 11652
+   },
+   "min": [
+    0.0,
+    2.53,
+    7.946
+   ],
+   "max": [
+    26.194,
+    21.878,
+    13.412
+   ]
+  },
+  {
+   "name": "Object_18",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 11575,
+   "mats": {
+    "2022_GAC_Empow_DarkRedChrome": 11575
+   },
+   "min": [
+    2.804,
+    50.631,
+    10.549
+   ],
+   "max": [
+    23.39,
+    56.753,
+    12.114
+   ]
+  },
+  {
+   "name": "Object_28",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 11214,
+   "mats": {
+    "2022_GAC_Empow_Rims2": 11214
+   },
+   "min": [
+    1.901,
+    8.368,
+    1.453
+   ],
+   "max": [
+    24.345,
+    14.507,
+    7.593
+   ]
+  },
+  {
+   "name": "Object_29",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 11097,
+   "mats": {
+    "2022_GAC_Empow_Rims2": 11097
+   },
+   "min": [
+    1.885,
+    8.368,
+    1.453
+   ],
+   "max": [
+    4.662,
+    48.274,
+    7.593
+   ]
+  },
+  {
+   "name": "Object_30",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 11097,
+   "mats": {
+    "2022_GAC_Empow_Rims2": 11097
+   },
+   "min": [
+    1.885,
+    42.148,
+    1.453
+   ],
+   "max": [
+    24.329,
+    48.287,
+    7.593
+   ]
+  },
+  {
+   "name": "Object_58",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 11086,
+   "mats": {
+    "Interior": 11086
+   },
+   "min": [
+    4.016,
+    15.65,
+    4.174
+   ],
+   "max": [
+    22.139,
+    31.984,
+    12.498
+   ]
+  },
+  {
+   "name": "Object_49",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 10953,
+   "mats": {
+    "Interior": 10953
+   },
+   "min": [
+    2.642,
+    2.572,
+    4.16
+   ],
+   "max": [
+    23.385,
+    55.604,
+    17.188
+   ]
+  },
+  {
+   "name": "Object_7",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 10675,
+   "mats": {
+    "2022_GAC_Empow_BlackTrims1": 10675
+   },
+   "min": [
+    0.004,
+    17.72,
+    10.452
+   ],
+   "max": [
+    26.19,
+    56.737,
+    17.354
+   ]
+  },
+  {
+   "name": "Object_60",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 10369,
+   "mats": {
+    "Interior": 10369
+   },
+   "min": [
+    4.626,
+    19.327,
+    3.628
+   ],
+   "max": [
+    22.433,
+    43.446,
+    16.834
+   ]
+  },
+  {
+   "name": "Object_23",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 10362,
+   "mats": {
+    "2022_GAC_Empow_Matte_Green": 10362
+   },
+   "min": [
+    1.901,
+    17.096,
+    2.937
+   ],
+   "max": [
+    24.401,
+    58.04,
+    14.141
+   ]
+  },
+  {
+   "name": "Object_11",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 10004,
+   "mats": {
+    "2022_GAC_Empow_BrakePads": 10004
+   },
+   "min": [
+    2.845,
+    11.498,
+    5.051
+   ],
+   "max": [
+    23.385,
+    47.118,
+    6.732
+   ]
+  },
+  {
+   "name": "Object_56",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 9074,
+   "mats": {
+    "Interior": 9074
+   },
+   "min": [
+    3.787,
+    15.811,
+    3.661
+   ],
+   "max": [
+    22.608,
+    56.496,
+    17.296
+   ]
+  },
+  {
+   "name": "Object_47",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 8701,
+   "mats": {
+    "Interior": 8701
+   },
+   "min": [
+    3.964,
+    16.008,
+    4.092
+   ],
+   "max": [
+    22.229,
+    46.521,
+    16.48
+   ]
+  },
+  {
+   "name": "Object_2",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 8691,
+   "mats": {
+    "2022_GAC_Empow_Black1": 8691
+   },
+   "min": [
+    0.552,
+    1.01,
+    4.005
+   ],
+   "max": [
+    23.611,
+    56.816,
+    17.354
+   ]
+  },
+  {
+   "name": "Object_53",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 8457,
+   "mats": {
+    "Interior": 8457
+   },
+   "min": [
+    4.772,
+    15.551,
+    5.859
+   ],
+   "max": [
+    21.421,
+    31.324,
+    16.692
+   ]
+  },
+  {
+   "name": "Object_40",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 7212,
+   "mats": {
+    "Carbon_Fiber": 7212
+   },
+   "min": [
+    0.002,
+    0.216,
+    2.829
+   ],
+   "max": [
+    26.191,
+    58.074,
+    14.111
+   ]
+  },
+  {
+   "name": "Object_9",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 6821,
+   "mats": {
+    "2022_GAC_Empow_BrakeLightsGlass1": 6821
+   },
+   "min": [
+    4.304,
+    54.668,
+    10.557
+   ],
+   "max": [
+    21.891,
+    56.811,
+    12.232
+   ]
+  },
+  {
+   "name": "Object_3",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 6774,
+   "mats": {
+    "2022_GAC_Empow_Black1": 6774
+   },
+   "min": [
+    0.55,
+    11.986,
+    3.71
+   ],
+   "max": [
+    25.658,
+    57.179,
+    17.354
+   ]
+  },
+  {
+   "name": "Object_34",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 6144,
+   "mats": {
+    "2022_GAC_Empow_Tires": 6144
+   },
+   "min": [
+    1.907,
+    6.926,
+    -0.0
+   ],
+   "max": [
+    24.323,
+    49.707,
+    9.0
+   ]
+  },
+  {
+   "name": "Object_52",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 5809,
+   "mats": {
+    "Interior": 5809
+   },
+   "min": [
+    3.964,
+    20.287,
+    4.954
+   ],
+   "max": [
+    22.229,
+    46.521,
+    13.933
+   ]
+  },
+  {
+   "name": "Object_12",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 5512,
+   "mats": {
+    "2022_GAC_Empow_BrakeRotors": 5512
+   },
+   "min": [
+    2.977,
+    9.702,
+    2.745
+   ],
+   "max": [
+    23.253,
+    46.953,
+    6.214
+   ]
+  },
+  {
+   "name": "Object_36",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 3615,
+   "mats": {
+    "2022_GAC_Empow_Windows": 3615
+   },
+   "min": [
+    3.227,
+    13.519,
+    11.81
+   ],
+   "max": [
+    22.918,
+    53.611,
+    18.222
+   ]
+  },
+  {
+   "name": "Object_39",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 2820,
+   "mats": {
+    "2022_GAC_Empow_YellowTrims": 2820
+   },
+   "min": [
+    2.805,
+    5.639,
+    4.543
+   ],
+   "max": [
+    23.401,
+    13.731,
+    9.49
+   ]
+  },
+  {
+   "name": "Object_10",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 2735,
+   "mats": {
+    "2022_GAC_Empow_BrakeLightsGlass2": 2735
+   },
+   "min": [
+    2.65,
+    50.279,
+    10.529
+   ],
+   "max": [
+    23.545,
+    56.839,
+    12.236
+   ]
+  },
+  {
+   "name": "Object_21",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 2556,
+   "mats": {
+    "2022_GAC_Empow_HeadLightsGlass": 2556
+   },
+   "min": [
+    2.599,
+    2.024,
+    7.925
+   ],
+   "max": [
+    23.587,
+    7.725,
+    10.036
+   ]
+  },
+  {
+   "name": "Object_27",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 2484,
+   "mats": {
+    "2022_GAC_Empow_Rims1": 2484
+   },
+   "min": [
+    1.885,
+    8.368,
+    1.513
+   ],
+   "max": [
+    24.345,
+    48.287,
+    7.565
+   ]
+  },
+  {
+   "name": "Object_25",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 2413,
+   "mats": {
+    "2022_GAC_Empow_RedMain": 2413
+   },
+   "min": [
+    3.372,
+    53.388,
+    10.579
+   ],
+   "max": [
+    22.822,
+    56.749,
+    12.04
+   ]
+  },
+  {
+   "name": "Object_54",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 1992,
+   "mats": {
+    "Interior": 1992
+   },
+   "min": [
+    11.641,
+    20.767,
+    8.283
+   ],
+   "max": [
+    17.691,
+    26.103,
+    10.08
+   ]
+  },
+  {
+   "name": "Object_37",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 1936,
+   "mats": {
+    "2022_GAC_Empow_WindowsTrims": 1936
+   },
+   "min": [
+    3.986,
+    13.552,
+    11.669
+   ],
+   "max": [
+    22.208,
+    53.584,
+    18.027
+   ]
+  },
+  {
+   "name": "Object_33",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 1876,
+   "mats": {
+    "2022_GAC_Empow_SilverChrome": 1876
+   },
+   "min": [
+    2.709,
+    5.189,
+    7.657
+   ],
+   "max": [
+    23.475,
+    7.477,
+    9.916
+   ]
+  },
+  {
+   "name": "Object_6",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 829,
+   "mats": {
+    "2022_GAC_Empow_BlackChrome": 829
+   },
+   "min": [
+    22.697,
+    16.691,
+    6.608
+   ],
+   "max": [
+    23.343,
+    54.915,
+    12.078
+   ]
+  },
+  {
+   "name": "Object_35",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 714,
+   "mats": {
+    "2022_GAC_Empow_UnderCarrier": 714
+   },
+   "min": [
+    1.732,
+    0.598,
+    2.511
+   ],
+   "max": [
+    24.462,
+    54.708,
+    9.591
+   ]
+  },
+  {
+   "name": "Object_15",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 604,
+   "mats": {
+    "2022_GAC_Empow_ChromeTrims": 604
+   },
+   "min": [
+    23.962,
+    44.853,
+    4.276
+   ],
+   "max": [
+    24.046,
+    45.586,
+    4.728
+   ]
+  },
+  {
+   "name": "Object_26",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 326,
+   "mats": {
+    "2022_GAC_Empow_Reflectors": 326
+   },
+   "min": [
+    3.86,
+    51.254,
+    5.727
+   ],
+   "max": [
+    22.403,
+    57.369,
+    14.504
+   ]
+  },
+  {
+   "name": "Object_19",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 297,
+   "mats": {
+    "2022_GAC_Empow_Decals": 297
+   },
+   "min": [
+    2.015,
+    3.914,
+    3.847
+   ],
+   "max": [
+    24.222,
+    58.005,
+    13.12
+   ]
+  },
+  {
+   "name": "Object_32",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 288,
+   "mats": {
+    "2022_GAC_Empow_SignalLens": 288
+   },
+   "min": [
+    4.966,
+    54.775,
+    10.949
+   ],
+   "max": [
+    21.227,
+    55.076,
+    11.195
+   ]
+  },
+  {
+   "name": "Object_17",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 285,
+   "mats": {
+    "2022_GAC_Empow_DRLs": 285
+   },
+   "min": [
+    2.941,
+    2.781,
+    7.947
+   ],
+   "max": [
+    15.03,
+    56.854,
+    12.209
+   ]
+  },
+  {
+   "name": "Object_24",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 198,
+   "mats": {
+    "2022_GAC_Empow_Mirrors": 198
+   },
+   "min": [
+    0.214,
+    20.975,
+    12.395
+   ],
+   "max": [
+    25.981,
+    23.208,
+    15.734
+   ]
+  },
+  {
+   "name": "Object_13",
+   "parents": [
+    "GAC Empow.obj.cleaner.materialmerger.gles",
+    "Sketchfab_model"
+   ],
+   "tris": 4,
+   "mats": {
+    "2022_GAC_Empow_CarbonFiber": 4
+   },
+   "min": [
+    3.597,
+    18.461,
+    12.894
+   ],
+   "max": [
+    22.596,
+    18.503,
+    12.957
+   ]
+  }
+ ],
+ "materials": {
+  "2022_GAC_Empow_Black1": {
+   "base": [
+    0.001,
+    0.001,
+    0.001,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_BlackChrome": {
+   "base": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_BlackTrims1": {
+   "base": [
+    0.001,
+    0.001,
+    0.001,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_BrakeLightsGlass1": {
+   "base": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 0.36,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "BLENDED"
+  },
+  "2022_GAC_Empow_BrakeLightsGlass2": {
+   "base": [
+    0.612,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 0.51,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "BLENDED"
+  },
+  "2022_GAC_Empow_BrakePads": {
+   "base": [
+    0.001,
+    0.001,
+    0.001,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_BrakeRotors": {
+   "base": [
+    0.476,
+    0.476,
+    0.476,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_CarbonFiber": {
+   "base": [
+    0.001,
+    0.001,
+    0.001,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_ChromeTrims": {
+   "base": [
+    0.437,
+    0.437,
+    0.437,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_DarkRedChrome": {
+   "base": [
+    0.01,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_Decals": {
+   "base": [
+    0.8,
+    0.8,
+    0.8,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_DRLs": {
+   "base": [
+    0.573,
+    0.573,
+    0.573,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_Grille1": {
+   "base": [
+    0.001,
+    0.001,
+    0.001,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_HeadLightsGlass": {
+   "base": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 0.54,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "BLENDED"
+  },
+  "2022_GAC_Empow_Matte_Green": {
+   "base": [
+    0.024,
+    0.03,
+    0.007,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_Mirrors": {
+   "base": [
+    0.517,
+    0.517,
+    0.517,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_RedMain": {
+   "base": [
+    0.184,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_Reflectors": {
+   "base": [
+    0.612,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_Rims1": {
+   "base": [
+    0.459,
+    0.459,
+    0.459,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_Rims2": {
+   "base": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_SignalLens": {
+   "base": [
+    0.41,
+    0.037,
+    0.0,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_SilverChrome": {
+   "base": [
+    0.053,
+    0.053,
+    0.053,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_Tires": {
+   "base": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_UnderCarrier": {
+   "base": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_Windows": {
+   "base": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 0.55,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "BLENDED"
+  },
+  "2022_GAC_Empow_WindowsTrims": {
+   "base": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "2022_GAC_Empow_YellowTrims": {
+   "base": [
+    0.364,
+    0.22,
+    0.001,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "Carbon_Fiber": {
+   "base": [
+    0.8,
+    0.8,
+    0.8,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  },
+  "Interior": {
+   "base": [
+    0.006,
+    0.006,
+    0.006,
+    1.0
+   ],
+   "metal": 0.0,
+   "rough": 0.8,
+   "alpha": 1.0,
+   "base_linked": false,
+   "alpha_linked": false,
+   "blend": "DITHERED"
+  }
+ },
+ "images": {},
+ "empties": [
+  [
+   "GAC Empow.obj.cleaner.materialmerger.gles",
+   "Sketchfab_model"
+  ],
+  [
+   "Sketchfab_model",
+   null
+  ]
+ ]
+}

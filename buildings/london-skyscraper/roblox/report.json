@@ -1,0 +1,1326 @@
+{
+ "steps": {
+  "imported_tris": 142785,
+  "cleanup": {
+   "TRIM": {
+    "before": 220,
+    "after_cleanup": 220,
+    "after_dissolve": 220,
+    "merged_verts": 0,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "FACADE": {
+    "before": 90165,
+    "after_cleanup": 90165,
+    "after_dissolve": 77224,
+    "merged_verts": 106,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "BMU": {
+    "before": 2226,
+    "after_cleanup": 2226,
+    "after_dissolve": 1916,
+    "merged_verts": 0,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "PALETTE": {
+    "before": 2980,
+    "after_cleanup": 2980,
+    "after_dissolve": 2980,
+    "merged_verts": 0,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "CONCRETE": {
+    "before": 2790,
+    "after_cleanup": 2790,
+    "after_dissolve": 2300,
+    "merged_verts": 0,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "FLARE_RED": {
+    "before": 224,
+    "after_cleanup": 224,
+    "after_dissolve": 224,
+    "merged_verts": 0,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "FURNITURE": {
+    "before": 402,
+    "after_cleanup": 402,
+    "after_dissolve": 402,
+    "merged_verts": 0,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "GLASS": {
+    "before": 7596,
+    "after_cleanup": 7596,
+    "after_dissolve": 4684,
+    "merged_verts": 0,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "GLASS_OPAQUE": {
+    "before": 6798,
+    "after_cleanup": 6798,
+    "after_dissolve": 4416,
+    "merged_verts": 0,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "GLASS_LOBBY": {
+    "before": 576,
+    "after_cleanup": 576,
+    "after_dissolve": 424,
+    "merged_verts": 8,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "GLASS_RAILING": {
+    "before": 656,
+    "after_cleanup": 656,
+    "after_dissolve": 400,
+    "merged_verts": 0,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "BLINDS": {
+    "before": 912,
+    "after_cleanup": 912,
+    "after_dissolve": 912,
+    "merged_verts": 0,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "INTERIOR": {
+    "before": 11765,
+    "after_cleanup": 11765,
+    "after_dissolve": 11765,
+    "merged_verts": 0,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "LOBBY_CURTAINS": {
+    "before": 112,
+    "after_cleanup": 112,
+    "after_dissolve": 94,
+    "merged_verts": 0,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "LOBBY_FLOOR": {
+    "before": 187,
+    "after_cleanup": 187,
+    "after_dissolve": 136,
+    "merged_verts": 0,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "LOBBY_FURNITURE": {
+    "before": 800,
+    "after_cleanup": 800,
+    "after_dissolve": 778,
+    "merged_verts": 9,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "LOBBY_INTERIOR": {
+    "before": 7712,
+    "after_cleanup": 7712,
+    "after_dissolve": 7275,
+    "merged_verts": 116,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "SIDEWALK_01": {
+    "before": 996,
+    "after_cleanup": 996,
+    "after_dissolve": 459,
+    "merged_verts": 0,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "SIDEWALK_02": {
+    "before": 820,
+    "after_cleanup": 820,
+    "after_dissolve": 117,
+    "merged_verts": 0,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   },
+   "TOP_PIECE": {
+    "before": 4848,
+    "after_cleanup": 4848,
+    "after_dissolve": 3873,
+    "merged_verts": 2,
+    "dup_faces": 0,
+    "loose_verts": 0,
+    "loose_edges": 0
+   }
+  },
+  "after_cleanup_tris": 120599
+ },
+ "textures": {
+  "TRIM_BaseColor.jpg": [
+   1024,
+   1024
+  ],
+  "TRIM_MetalRough.png": [
+   1024,
+   1024
+  ],
+  "TRIM_Normal.png": [
+   1024,
+   1024
+  ],
+  "FACADE_BaseColor.png": [
+   1024,
+   1024
+  ],
+  "FACADE_MetalRough.png": [
+   1024,
+   1024
+  ],
+  "FACADE_Normal.png": [
+   1024,
+   1024
+  ],
+  "BMU_BaseColor.jpg": [
+   1024,
+   1024
+  ],
+  "BMU_MetalRough.png": [
+   512,
+   512
+  ],
+  "BMU_Normal.png": [
+   1024,
+   1024
+  ],
+  "PALETTE_BaseColor.jpg": [
+   256,
+   128
+  ],
+  "PALETTE_MetalRough.png": [
+   256,
+   128
+  ],
+  "PALETTE_Emissive.jpg": [
+   256,
+   128
+  ],
+  "CONCRETE_BaseColor.jpg": [
+   1024,
+   1024
+  ],
+  "CONCRETE_MetalRough.png": [
+   1024,
+   1024
+  ],
+  "CONCRETE_Normal.png": [
+   512,
+   512
+  ],
+  "FLARE_RED_BaseColor.png": [
+   256,
+   256
+  ],
+  "FLARE_RED_Emissive.jpg": [
+   256,
+   256
+  ],
+  "FURNITURE_BaseColor.png": [
+   1024,
+   1024
+  ],
+  "FURNITURE_Emissive.jpg": [
+   1024,
+   1024
+  ],
+  "GLASS_BaseColor.png": [
+   8,
+   8
+  ],
+  "GLASS_OPAQUE_BaseColor.png": [
+   8,
+   8
+  ],
+  "GLASS_LOBBY_BaseColor.png": [
+   8,
+   8
+  ],
+  "GLASS_RAILING_BaseColor.png": [
+   8,
+   8
+  ],
+  "BLINDS_BaseColor.png": [
+   1024,
+   1024
+  ],
+  "BLINDS_MetalRough.png": [
+   256,
+   256
+  ],
+  "BLINDS_Normal.png": [
+   512,
+   512
+  ],
+  "INTERIOR_BaseColor.jpg": [
+   1024,
+   1024
+  ],
+  "INTERIOR_Emissive.jpg": [
+   1024,
+   1024
+  ],
+  "LOBBY_CURTAINS_BaseColor.png": [
+   1024,
+   1024
+  ],
+  "LOBBY_CURTAINS_Normal.png": [
+   1024,
+   1024
+  ],
+  "LOBBY_CURTAINS_Emissive.jpg": [
+   1024,
+   1024
+  ],
+  "LOBBY_FLOOR_BaseColor.jpg": [
+   1024,
+   1024
+  ],
+  "LOBBY_FLOOR_MetalRough.png": [
+   1024,
+   1024
+  ],
+  "LOBBY_FLOOR_Normal.png": [
+   1024,
+   1024
+  ],
+  "LOBBY_FLOOR_Emissive.jpg": [
+   1024,
+   1024
+  ],
+  "LOBBY_FURNITURE_BaseColor.png": [
+   1024,
+   1024
+  ],
+  "LOBBY_FURNITURE_MetalRough.png": [
+   1024,
+   1024
+  ],
+  "LOBBY_FURNITURE_Normal.png": [
+   1024,
+   1024
+  ],
+  "LOBBY_FURNITURE_Emissive.jpg": [
+   1024,
+   1024
+  ],
+  "LOBBY_INTERIOR_BaseColor.jpg": [
+   1024,
+   1024
+  ],
+  "LOBBY_INTERIOR_MetalRough.png": [
+   1024,
+   1024
+  ],
+  "LOBBY_INTERIOR_Normal.png": [
+   1024,
+   1024
+  ],
+  "LOBBY_INTERIOR_Emissive.jpg": [
+   1024,
+   1024
+  ],
+  "SIDEWALK_01_BaseColor.jpg": [
+   1024,
+   1024
+  ],
+  "SIDEWALK_01_MetalRough.png": [
+   1024,
+   1024
+  ],
+  "SIDEWALK_01_Normal.png": [
+   1024,
+   1024
+  ],
+  "SIDEWALK_02_BaseColor.jpg": [
+   1024,
+   1024
+  ],
+  "SIDEWALK_02_MetalRough.png": [
+   512,
+   512
+  ],
+  "SIDEWALK_02_Normal.png": [
+   512,
+   512
+  ],
+  "TOP_PIECE_BaseColor.jpg": [
+   1024,
+   1024
+  ],
+  "TOP_PIECE_MetalRough.png": [
+   1024,
+   1024
+  ],
+  "TOP_PIECE_Normal.png": [
+   1024,
+   1024
+  ]
+ },
+ "objects": [
+  {
+   "name": "Podium__TRIM",
+   "tris": 220,
+   "material": "TRIM",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Crown__FACADE",
+   "tris": 17061,
+   "material": "FACADE",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Podium__FACADE",
+   "tris": 14248,
+   "material": "FACADE",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Tower_Band01__FACADE",
+   "tris": 9051,
+   "material": "FACADE",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Tower_Band02__FACADE",
+   "tris": 9547,
+   "material": "FACADE",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Tower_Band03__FACADE",
+   "tris": 8401,
+   "material": "FACADE",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Tower_Band04__FACADE",
+   "tris": 10758,
+   "material": "FACADE",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Tower_Band05__FACADE",
+   "tris": 8158,
+   "material": "FACADE",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Crown__BMU",
+   "tris": 1916,
+   "material": "BMU",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     512,
+     512
+    ],
+    "normal": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Podium__PALETTE",
+   "tris": 2980,
+   "material": "PALETTE",
+   "set": "day",
+   "textures": {
+    "base": [
+     256,
+     128
+    ],
+    "metalrough": [
+     256,
+     128
+    ],
+    "emissive": [
+     256,
+     128
+    ]
+   }
+  },
+  {
+   "name": "Podium__CONCRETE",
+   "tris": 2300,
+   "material": "CONCRETE",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     1024,
+     1024
+    ],
+    "normal": [
+     512,
+     512
+    ]
+   }
+  },
+  {
+   "name": "Tower__FLARE_RED",
+   "tris": 224,
+   "material": "FLARE_RED",
+   "set": "day",
+   "textures": {
+    "base": [
+     256,
+     256
+    ],
+    "emissive": [
+     256,
+     256
+    ]
+   }
+  },
+  {
+   "name": "Tower__FURNITURE",
+   "tris": 402,
+   "material": "FURNITURE",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Podium__GLASS",
+   "tris": 238,
+   "material": "GLASS",
+   "set": "day",
+   "textures": {
+    "base": [
+     8,
+     8
+    ]
+   }
+  },
+  {
+   "name": "Tower_Band01__GLASS",
+   "tris": 807,
+   "material": "GLASS",
+   "set": "day",
+   "textures": {
+    "base": [
+     8,
+     8
+    ]
+   }
+  },
+  {
+   "name": "Tower_Band02__GLASS",
+   "tris": 717,
+   "material": "GLASS",
+   "set": "day",
+   "textures": {
+    "base": [
+     8,
+     8
+    ]
+   }
+  },
+  {
+   "name": "Tower_Band03__GLASS",
+   "tris": 636,
+   "material": "GLASS",
+   "set": "day",
+   "textures": {
+    "base": [
+     8,
+     8
+    ]
+   }
+  },
+  {
+   "name": "Tower_Band04__GLASS",
+   "tris": 1433,
+   "material": "GLASS",
+   "set": "day",
+   "textures": {
+    "base": [
+     8,
+     8
+    ]
+   }
+  },
+  {
+   "name": "Tower_Band05__GLASS",
+   "tris": 853,
+   "material": "GLASS",
+   "set": "day",
+   "textures": {
+    "base": [
+     8,
+     8
+    ]
+   }
+  },
+  {
+   "name": "Crown__GLASS_OPAQUE",
+   "tris": 4416,
+   "material": "GLASS_OPAQUE",
+   "set": "day",
+   "textures": {
+    "base": [
+     8,
+     8
+    ]
+   }
+  },
+  {
+   "name": "Podium__GLASS_LOBBY",
+   "tris": 424,
+   "material": "GLASS_LOBBY",
+   "set": "day",
+   "textures": {
+    "base": [
+     8,
+     8
+    ]
+   }
+  },
+  {
+   "name": "Podium__GLASS_RAILING",
+   "tris": 400,
+   "material": "GLASS_RAILING",
+   "set": "day",
+   "textures": {
+    "base": [
+     8,
+     8
+    ]
+   }
+  },
+  {
+   "name": "Tower__BLINDS",
+   "tris": 912,
+   "material": "BLINDS",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     256,
+     256
+    ],
+    "normal": [
+     512,
+     512
+    ]
+   }
+  },
+  {
+   "name": "Crown__INTERIOR",
+   "tris": 151,
+   "material": "INTERIOR",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Podium__INTERIOR",
+   "tris": 61,
+   "material": "INTERIOR",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Tower_Band01__INTERIOR",
+   "tris": 2127,
+   "material": "INTERIOR",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Tower_Band02__INTERIOR",
+   "tris": 2407,
+   "material": "INTERIOR",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Tower_Band03__INTERIOR",
+   "tris": 2384,
+   "material": "INTERIOR",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Tower_Band04__INTERIOR",
+   "tris": 2296,
+   "material": "INTERIOR",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Tower_Band05__INTERIOR",
+   "tris": 2339,
+   "material": "INTERIOR",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Podium__LOBBY_CURTAINS",
+   "tris": 94,
+   "material": "LOBBY_CURTAINS",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Podium__LOBBY_FLOOR",
+   "tris": 136,
+   "material": "LOBBY_FLOOR",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Podium__LOBBY_FURNITURE",
+   "tris": 778,
+   "material": "LOBBY_FURNITURE",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Podium__LOBBY_INTERIOR",
+   "tris": 7275,
+   "material": "LOBBY_INTERIOR",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Podium__SIDEWALK_01",
+   "tris": 459,
+   "material": "SIDEWALK_01",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "Podium__SIDEWALK_02",
+   "tris": 117,
+   "material": "SIDEWALK_02",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     512,
+     512
+    ],
+    "normal": [
+     512,
+     512
+    ]
+   }
+  },
+  {
+   "name": "Crown__TOP_PIECE",
+   "tris": 3873,
+   "material": "TOP_PIECE",
+   "set": "day",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "NightWindows_Podium__PALETTE_NIGHT",
+   "tris": 2980,
+   "material": "PALETTE_NIGHT",
+   "set": "night",
+   "textures": {
+    "base": [
+     256,
+     128
+    ],
+    "metalrough": [
+     256,
+     128
+    ],
+    "emissive": [
+     256,
+     128
+    ]
+   }
+  },
+  {
+   "name": "NightWindows_Tower__FLARE_RED_NIGHT",
+   "tris": 224,
+   "material": "FLARE_RED_NIGHT",
+   "set": "night",
+   "textures": {
+    "base": [
+     256,
+     256
+    ],
+    "emissive": [
+     256,
+     256
+    ]
+   }
+  },
+  {
+   "name": "NightWindows_Tower__FURNITURE_NIGHT",
+   "tris": 402,
+   "material": "FURNITURE_NIGHT",
+   "set": "night",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "NightWindows_Crown__INTERIOR_NIGHT",
+   "tris": 151,
+   "material": "INTERIOR_NIGHT",
+   "set": "night",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "NightWindows_Podium__INTERIOR_NIGHT",
+   "tris": 61,
+   "material": "INTERIOR_NIGHT",
+   "set": "night",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "NightWindows_Tower_Band01__INTERIOR_NIGHT",
+   "tris": 2127,
+   "material": "INTERIOR_NIGHT",
+   "set": "night",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "NightWindows_Tower_Band02__INTERIOR_NIGHT",
+   "tris": 2407,
+   "material": "INTERIOR_NIGHT",
+   "set": "night",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "NightWindows_Tower_Band03__INTERIOR_NIGHT",
+   "tris": 2384,
+   "material": "INTERIOR_NIGHT",
+   "set": "night",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "NightWindows_Tower_Band04__INTERIOR_NIGHT",
+   "tris": 2296,
+   "material": "INTERIOR_NIGHT",
+   "set": "night",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "NightWindows_Tower_Band05__INTERIOR_NIGHT",
+   "tris": 2339,
+   "material": "INTERIOR_NIGHT",
+   "set": "night",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "NightWindows_Podium__LOBBY_CURTAINS_NIGHT",
+   "tris": 94,
+   "material": "LOBBY_CURTAINS_NIGHT",
+   "set": "night",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "NightWindows_Podium__LOBBY_FLOOR_NIGHT",
+   "tris": 136,
+   "material": "LOBBY_FLOOR_NIGHT",
+   "set": "night",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "NightWindows_Podium__LOBBY_FURNITURE_NIGHT",
+   "tris": 778,
+   "material": "LOBBY_FURNITURE_NIGHT",
+   "set": "night",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  },
+  {
+   "name": "NightWindows_Podium__LOBBY_INTERIOR_NIGHT",
+   "tris": 7275,
+   "material": "LOBBY_INTERIOR_NIGHT",
+   "set": "night",
+   "textures": {
+    "base": [
+     1024,
+     1024
+    ],
+    "metalrough": [
+     1024,
+     1024
+    ],
+    "normal": [
+     1024,
+     1024
+    ],
+    "emissive": [
+     1024,
+     1024
+    ]
+   }
+  }
+ ],
+ "notes": [],
+ "missing_textures": [],
+ "origin_shift_m": [
+  -1.3639640808105469,
+  -8.472631454467773,
+  4.216765880584717
+ ],
+ "ground_note": "Z=0 is the top of the sidewalk; lowest geometry (lobby slab) is 0.58 m below it",
+ "size_m": [
+  38.00965881347656,
+  51.98666000366211,
+  170.3883819580078
+ ],
+ "totals": {
+  "source_tris": 142785,
+  "day_tris": 120599,
+  "night_tris": 23654,
+  "all_tris": 144253,
+  "day_parts": 37,
+  "night_parts": 14,
+  "max_part_tris": 17061,
+  "materials": 20,
+  "night_materials": 8,
+  "texture_files": 52
+ },
+ "glb_bytes": 28444188
+}

@@ -1,0 +1,23 @@
+# Regenerable / bulky local files
+*.log
+*.blend1
+*.blend
+*.wrap.py
+**/previews/
+**/scripts/tex_dump/
+**/scripts/tex/
+**/scripts/*.json
+!**/scripts/inspect.json
+
+# Original download archives (already extracted next to them)
+*.zip
+*.rar
+
+# Tower is finished: keep only its Roblox output
+buildings/london-skyscraper/source/
+buildings/london-skyscraper/extracted/
+buildings/london-skyscraper/textures/
+
+# OS junk
+Thumbs.db
+desktop.ini

@@ -1,0 +1,697 @@
+{
+ "removed": [
+  "EXT_BADGE_PORSCHE_0",
+  "EXT_PLASTIC_GLOSS_2",
+  "EXT_Logo_Weissach",
+  "EXT_DECAL_SIDE",
+  "EXT_DECAL_HL",
+  "EXT_DECAL_REAR_0",
+  "EXT_DECAL_REAR_1",
+  "INT_CLOCK",
+  "INT_DECAL_TOP",
+  "INT_DECALS_0",
+  "INT_GPS",
+  "INT_Logo_Weissach",
+  "EXT_BADGE_PORSCHE_1",
+  "INT_DECALS_1",
+  "INT_DECALS_2",
+  "EXT_CHROME_0: 3856 faces (region)",
+  "EXT_PLASTIC_GLOSS_0: 4789 faces (region)"
+ ],
+ "groups": {
+  "Body": {
+   "before": 285702,
+   "after": 41978,
+   "objects": 35
+  },
+  "Lights": {
+   "before": 9740,
+   "after": 3994,
+   "objects": 14
+  },
+  "Glass": {
+   "before": 19254,
+   "after": 5996,
+   "objects": 6
+  },
+  "Interior": {
+   "before": 308064,
+   "after": 18049,
+   "objects": 59
+  },
+  "SteeringWheel": {
+   "before": 52612,
+   "after": 2495,
+   "objects": 13
+  },
+  "Wheel_LF": {
+   "before": 24596,
+   "after": 6995,
+   "objects": 6
+  },
+  "Brakes": {
+   "before": 33200,
+   "after": 2998,
+   "objects": 4
+  },
+  "Wheel_LR": {
+   "before": 24596,
+   "after": 6995,
+   "objects": 6
+  },
+  "Wheel_RR": {
+   "before": 24596,
+   "after": 6994,
+   "objects": 6
+  },
+  "Wheel_RF": {
+   "before": 24596,
+   "after": 6996,
+   "objects": 6
+  }
+ },
+ "parts": [
+  {
+   "name": "Body_CarPaint_flake_1",
+   "group": "Body",
+   "tris": 18758,
+   "material": "CarPaint_flake"
+  },
+  {
+   "name": "Body_CarPaint_flake_2",
+   "group": "Body",
+   "tris": 975,
+   "material": "CarPaint_flake"
+  },
+  {
+   "name": "Body_Carbonblack_coat",
+   "group": "Body",
+   "tris": 13991,
+   "material": "Carbonblack_coat"
+  },
+  {
+   "name": "Body_EXT_BLACK_MISC",
+   "group": "Body",
+   "tris": 1126,
+   "material": "EXT_BLACK_MISC"
+  },
+  {
+   "name": "Body_EXT_CHROME",
+   "group": "Body",
+   "tris": 2029,
+   "material": "EXT_CHROME"
+  },
+  {
+   "name": "Body_EXT_DEFROST",
+   "group": "Body",
+   "tris": 150,
+   "material": "EXT_DEFROST"
+  },
+  {
+   "name": "Body_EXT_EXHAUST",
+   "group": "Body",
+   "tris": 786,
+   "material": "EXT_EXHAUST"
+  },
+  {
+   "name": "Body_EXT_GRILL",
+   "group": "Body",
+   "tris": 150,
+   "material": "EXT_GRILL"
+  },
+  {
+   "name": "Body_EXT_PLASTIC",
+   "group": "Body",
+   "tris": 303,
+   "material": "EXT_PLASTIC"
+  },
+  {
+   "name": "Body_EXT_PLASTIC_GLOSS",
+   "group": "Body",
+   "tris": 1485,
+   "material": "EXT_PLASTIC_GLOSS"
+  },
+  {
+   "name": "Body_MIRROR_PLACEMENT",
+   "group": "Body",
+   "tris": 150,
+   "material": "MIRROR_PLACEMENT"
+  },
+  {
+   "name": "Body_Material_001",
+   "group": "Body",
+   "tris": 150,
+   "material": "Material.001"
+  },
+  {
+   "name": "Body_Smooth_plastic",
+   "group": "Body",
+   "tris": 953,
+   "material": "Smooth_plastic"
+  },
+  {
+   "name": "Body_Wheel_Paint_Red_61",
+   "group": "Body",
+   "tris": 100,
+   "material": "Wheel_Paint_Red_61"
+  },
+  {
+   "name": "Body_Wheel_Paint_Red_62",
+   "group": "Body",
+   "tris": 326,
+   "material": "Wheel_Paint_Red_62"
+  },
+  {
+   "name": "Body_ext_Body_Paint",
+   "group": "Body",
+   "tris": 546,
+   "material": "ext_Body_Paint"
+  },
+  {
+   "name": "Brakes_ext_Wheel_brake_caliper",
+   "group": "Brakes",
+   "tris": 2998,
+   "material": "ext_Wheel_brake_caliper"
+  },
+  {
+   "name": "Glass_EXT_GLASS",
+   "group": "Glass",
+   "tris": 2442,
+   "material": "EXT_GLASS"
+  },
+  {
+   "name": "Glass_EXT_GLASS_NM",
+   "group": "Glass",
+   "tris": 16,
+   "material": "EXT_GLASS_NM"
+  },
+  {
+   "name": "Glass_EXT_GLASS_RED",
+   "group": "Glass",
+   "tris": 1080,
+   "material": "EXT_GLASS_RED"
+  },
+  {
+   "name": "Glass_EXT_WINDOW",
+   "group": "Glass",
+   "tris": 1229,
+   "material": "EXT_WINDOW"
+  },
+  {
+   "name": "Glass_INT_WINDOW",
+   "group": "Glass",
+   "tris": 1229,
+   "material": "INT_WINDOW"
+  },
+  {
+   "name": "Interior_Carbonblack_coat",
+   "group": "Interior",
+   "tris": 1239,
+   "material": "Carbonblack_coat"
+  },
+  {
+   "name": "Interior_Carpet_pattern",
+   "group": "Interior",
+   "tris": 568,
+   "material": "Carpet_pattern"
+  },
+  {
+   "name": "Interior_EXT_CHROME",
+   "group": "Interior",
+   "tris": 707,
+   "material": "EXT_CHROME"
+  },
+  {
+   "name": "Interior_INT_CHROME",
+   "group": "Interior",
+   "tris": 493,
+   "material": "INT_CHROME"
+  },
+  {
+   "name": "Interior_INT_CHROME_BLACK",
+   "group": "Interior",
+   "tris": 928,
+   "material": "INT_CHROME_BLACK"
+  },
+  {
+   "name": "Interior_INT_CLUSTER",
+   "group": "Interior",
+   "tris": 32,
+   "material": "INT_CLUSTER"
+  },
+  {
+   "name": "Interior_INT_CLUSTER_ALPHA",
+   "group": "Interior",
+   "tris": 150,
+   "material": "INT_CLUSTER_ALPHA"
+  },
+  {
+   "name": "Interior_INT_CLUSTER_COLOR",
+   "group": "Interior",
+   "tris": 300,
+   "material": "INT_CLUSTER_COLOR"
+  },
+  {
+   "name": "Interior_INT_CLUSTER_NEEDLE_EMISSIVE",
+   "group": "Interior",
+   "tris": 127,
+   "material": "INT_CLUSTER_NEEDLE_EMISSIVE"
+  },
+  {
+   "name": "Interior_INT_CLUSTER_SHIFT",
+   "group": "Interior",
+   "tris": 64,
+   "material": "INT_CLUSTER_SHIFT"
+  },
+  {
+   "name": "Interior_INT_CLUSTER_SIDE",
+   "group": "Interior",
+   "tris": 149,
+   "material": "INT_CLUSTER_SIDE"
+  },
+  {
+   "name": "Interior_INT_CLUSTER_WARNING_LIGHTS",
+   "group": "Interior",
+   "tris": 34,
+   "material": "INT_CLUSTER_WARNING_LIGHTS"
+  },
+  {
+   "name": "Interior_INT_DECAL_2",
+   "group": "Interior",
+   "tris": 2,
+   "material": "INT_DECAL_2"
+  },
+  {
+   "name": "Interior_INT_DECAL_SHIFTER",
+   "group": "Interior",
+   "tris": 150,
+   "material": "INT_DECAL_SHIFTER"
+  },
+  {
+   "name": "Interior_INT_DOMELIGHT",
+   "group": "Interior",
+   "tris": 150,
+   "material": "INT_DOMELIGHT"
+  },
+  {
+   "name": "Interior_INT_FABRIC",
+   "group": "Interior",
+   "tris": 527,
+   "material": "INT_FABRIC"
+  },
+  {
+   "name": "Interior_INT_GLASS",
+   "group": "Interior",
+   "tris": 278,
+   "material": "INT_GLASS"
+  },
+  {
+   "name": "Interior_INT_GRILL_AT",
+   "group": "Interior",
+   "tris": 64,
+   "material": "INT_GRILL_AT"
+  },
+  {
+   "name": "Interior_INT_METAL_KNOB_DETAIL",
+   "group": "Interior",
+   "tris": 150,
+   "material": "INT_METAL_KNOB_DETAIL"
+  },
+  {
+   "name": "Interior_INT_PLASTIC",
+   "group": "Interior",
+   "tris": 755,
+   "material": "INT_PLASTIC"
+  },
+  {
+   "name": "Interior_INT_PLASTIC_GLOSS",
+   "group": "Interior",
+   "tris": 1262,
+   "material": "INT_PLASTIC_GLOSS"
+  },
+  {
+   "name": "Interior_INT_PLASTIC_RED",
+   "group": "Interior",
+   "tris": 150,
+   "material": "INT_PLASTIC_RED"
+  },
+  {
+   "name": "Interior_INT_SPEAKER",
+   "group": "Interior",
+   "tris": 150,
+   "material": "INT_SPEAKER"
+  },
+  {
+   "name": "Interior_INT_Stitching_2",
+   "group": "Interior",
+   "tris": 150,
+   "material": "INT_Stitching_2"
+  },
+  {
+   "name": "Interior_MIRROR_PLACEMENT",
+   "group": "Interior",
+   "tris": 150,
+   "material": "MIRROR_PLACEMENT"
+  },
+  {
+   "name": "Interior_RIM_chrome_001",
+   "group": "Interior",
+   "tris": 1407,
+   "material": "RIM_chrome.001"
+  },
+  {
+   "name": "Interior_Seat_leather_2",
+   "group": "Interior",
+   "tris": 2063,
+   "material": "Seat_leather_2"
+  },
+  {
+   "name": "Interior_Seat_leather_2_001",
+   "group": "Interior",
+   "tris": 150,
+   "material": "Seat_leather_2.001"
+  },
+  {
+   "name": "Interior_Smooth_plastic",
+   "group": "Interior",
+   "tris": 4319,
+   "material": "Smooth_plastic"
+  },
+  {
+   "name": "Interior_int_leather_paint1",
+   "group": "Interior",
+   "tris": 150,
+   "material": "int_leather_paint1"
+  },
+  {
+   "name": "Interior_int_leather_paint2",
+   "group": "Interior",
+   "tris": 150,
+   "material": "int_leather_paint2"
+  },
+  {
+   "name": "Interior_int_leather_paint4",
+   "group": "Interior",
+   "tris": 481,
+   "material": "int_leather_paint4"
+  },
+  {
+   "name": "Interior_int_leather_paint6",
+   "group": "Interior",
+   "tris": 150,
+   "material": "int_leather_paint6"
+  },
+  {
+   "name": "Interior_int_light_paint1",
+   "group": "Interior",
+   "tris": 450,
+   "material": "int_light_paint1"
+  },
+  {
+   "name": "Lights_EXT_EMISSIVE_BULB_2",
+   "group": "Lights",
+   "tris": 441,
+   "material": "EXT_EMISSIVE_BULB.2"
+  },
+  {
+   "name": "Lights_EXT_EMISSIVE_STRIP",
+   "group": "Lights",
+   "tris": 838,
+   "material": "EXT_EMISSIVE_STRIP"
+  },
+  {
+   "name": "Lights_EXT_HL_DRL",
+   "group": "Lights",
+   "tris": 1254,
+   "material": "EXT_HL_DRL"
+  },
+  {
+   "name": "Lights_EXT_TL_THIRD_BRAKE",
+   "group": "Lights",
+   "tris": 32,
+   "material": "EXT_TL_THIRD_BRAKE"
+  },
+  {
+   "name": "Lights_Headlight_led",
+   "group": "Lights",
+   "tris": 1192,
+   "material": "Headlight_led"
+  },
+  {
+   "name": "Lights_Tailght_EMISSIVE",
+   "group": "Lights",
+   "tris": 205,
+   "material": "Tailght_EMISSIVE"
+  },
+  {
+   "name": "Lights_frontlight",
+   "group": "Lights",
+   "tris": 32,
+   "material": "frontlight"
+  },
+  {
+   "name": "SteeringWheel_INT_CHROME",
+   "group": "SteeringWheel",
+   "tris": 149,
+   "material": "INT_CHROME"
+  },
+  {
+   "name": "SteeringWheel_INT_CHROME_BLACK",
+   "group": "SteeringWheel",
+   "tris": 534,
+   "material": "INT_CHROME_BLACK"
+  },
+  {
+   "name": "SteeringWheel_INT_DECAL_2",
+   "group": "SteeringWheel",
+   "tris": 150,
+   "material": "INT_DECAL_2"
+  },
+  {
+   "name": "SteeringWheel_INT_FABRIC",
+   "group": "SteeringWheel",
+   "tris": 150,
+   "material": "INT_FABRIC"
+  },
+  {
+   "name": "SteeringWheel_INT_METAL_KNOB_DETAIL",
+   "group": "SteeringWheel",
+   "tris": 214,
+   "material": "INT_METAL_KNOB_DETAIL"
+  },
+  {
+   "name": "SteeringWheel_INT_PLASTIC",
+   "group": "SteeringWheel",
+   "tris": 700,
+   "material": "INT_PLASTIC"
+  },
+  {
+   "name": "SteeringWheel_INT_PLASTIC_COLOR",
+   "group": "SteeringWheel",
+   "tris": 149,
+   "material": "INT_PLASTIC_COLOR"
+  },
+  {
+   "name": "SteeringWheel_INT_STITCH",
+   "group": "SteeringWheel",
+   "tris": 150,
+   "material": "INT_STITCH"
+  },
+  {
+   "name": "SteeringWheel_Seat_leather_2",
+   "group": "SteeringWheel",
+   "tris": 149,
+   "material": "Seat_leather_2"
+  },
+  {
+   "name": "SteeringWheel_int_leather_paint3",
+   "group": "SteeringWheel",
+   "tris": 150,
+   "material": "int_leather_paint3"
+  },
+  {
+   "name": "Wheel_LF_EXT_RIM_CAP",
+   "group": "Wheel_LF",
+   "tris": 150,
+   "material": "EXT_RIM_CAP"
+  },
+  {
+   "name": "Wheel_LF_EXT_RIM_CHROME",
+   "group": "Wheel_LF",
+   "tris": 1894,
+   "material": "EXT_RIM_CHROME"
+  },
+  {
+   "name": "Wheel_LF_EXT_RIM_PLASTIC",
+   "group": "Wheel_LF",
+   "tris": 437,
+   "material": "EXT_RIM_PLASTIC"
+  },
+  {
+   "name": "Wheel_LF_EXT_Tyre",
+   "group": "Wheel_LF",
+   "tris": 436,
+   "material": "EXT_Tyre"
+  },
+  {
+   "name": "Wheel_LF_EXT_disc",
+   "group": "Wheel_LF",
+   "tris": 150,
+   "material": "EXT_disc"
+  },
+  {
+   "name": "Wheel_LF_RIM_chrome",
+   "group": "Wheel_LF",
+   "tris": 3928,
+   "material": "RIM_chrome"
+  },
+  {
+   "name": "Wheel_LR_EXT_RIM_CAP",
+   "group": "Wheel_LR",
+   "tris": 150,
+   "material": "EXT_RIM_CAP"
+  },
+  {
+   "name": "Wheel_LR_EXT_RIM_CHROME",
+   "group": "Wheel_LR",
+   "tris": 1894,
+   "material": "EXT_RIM_CHROME"
+  },
+  {
+   "name": "Wheel_LR_EXT_RIM_PLASTIC",
+   "group": "Wheel_LR",
+   "tris": 437,
+   "material": "EXT_RIM_PLASTIC"
+  },
+  {
+   "name": "Wheel_LR_EXT_Tyre",
+   "group": "Wheel_LR",
+   "tris": 436,
+   "material": "EXT_Tyre"
+  },
+  {
+   "name": "Wheel_LR_EXT_disc",
+   "group": "Wheel_LR",
+   "tris": 150,
+   "material": "EXT_disc"
+  },
+  {
+   "name": "Wheel_LR_RIM_chrome",
+   "group": "Wheel_LR",
+   "tris": 3928,
+   "material": "RIM_chrome"
+  },
+  {
+   "name": "Wheel_RF_EXT_RIM_CAP",
+   "group": "Wheel_RF",
+   "tris": 150,
+   "material": "EXT_RIM_CAP"
+  },
+  {
+   "name": "Wheel_RF_EXT_RIM_CHROME",
+   "group": "Wheel_RF",
+   "tris": 1894,
+   "material": "EXT_RIM_CHROME"
+  },
+  {
+   "name": "Wheel_RF_EXT_RIM_PLASTIC",
+   "group": "Wheel_RF",
+   "tris": 437,
+   "material": "EXT_RIM_PLASTIC"
+  },
+  {
+   "name": "Wheel_RF_EXT_Tyre",
+   "group": "Wheel_RF",
+   "tris": 436,
+   "material": "EXT_Tyre"
+  },
+  {
+   "name": "Wheel_RF_EXT_disc",
+   "group": "Wheel_RF",
+   "tris": 150,
+   "material": "EXT_disc"
+  },
+  {
+   "name": "Wheel_RF_RIM_chrome",
+   "group": "Wheel_RF",
+   "tris": 3929,
+   "material": "RIM_chrome"
+  },
+  {
+   "name": "Wheel_RR_EXT_RIM_CAP",
+   "group": "Wheel_RR",
+   "tris": 150,
+   "material": "EXT_RIM_CAP"
+  },
+  {
+   "name": "Wheel_RR_EXT_RIM_CHROME",
+   "group": "Wheel_RR",
+   "tris": 1894,
+   "material": "EXT_RIM_CHROME"
+  },
+  {
+   "name": "Wheel_RR_EXT_RIM_PLASTIC",
+   "group": "Wheel_RR",
+   "tris": 437,
+   "material": "EXT_RIM_PLASTIC"
+  },
+  {
+   "name": "Wheel_RR_EXT_Tyre",
+   "group": "Wheel_RR",
+   "tris": 436,
+   "material": "EXT_Tyre"
+  },
+  {
+   "name": "Wheel_RR_EXT_disc",
+   "group": "Wheel_RR",
+   "tris": 149,
+   "material": "EXT_disc"
+  },
+  {
+   "name": "Wheel_RR_RIM_chrome",
+   "group": "Wheel_RR",
+   "tris": 3928,
+   "material": "RIM_chrome"
+  }
+ ],
+ "total_tris": 103490,
+ "part_count": 97,
+ "parts_with_custom_normals": 0,
+ "max_part_tris": 18758,
+ "textures": [
+  "911 GT3 RS 1024x1024",
+  "911 GT3 RS_N 1024x1024",
+  "Brake_Disc_DIF 512x512",
+  "Brake_Disc_NM 512x512",
+  "Carpet_NM 256x256",
+  "Decals_Thread_tileable_decal_BaseColor 1024x1024",
+  "EXT_CALIPER_AO_SHOCKWORKS 1024x1024",
+  "EXT_PLASTIC_COLORS 128x128",
+  "GRILL_1_AT 128x128",
+  "GRILL_1_AT_NM 128x128",
+  "GT3RS Side Decals 1024x1024",
+  "INT_CLUSTER_WARNING_LIGHTS 812x812",
+  "INT_Gear_Decal 1000x1000",
+  "INT_LEATHER_ALCANTARA_NM 256x256",
+  "INT_SPEAKER_1_DIF 128x128",
+  "INT_SPEAKER_1_NM 128x128",
+  "INT_plastic_nm 128x128",
+  "Image_1 128x128",
+  "Image_5 128x128",
+  "License_plate 1024x367",
+  "NULL 32x32",
+  "ORANGE_NULL 32x32",
+  "PlasticDetail 128x128",
+  "RIDGES_D 128x128",
+  "RIDGES_NM 128x128",
+  "STITCH_2_DIFFUSE 512x512",
+  "Tyre_D 1024x1024",
+  "Tyre_NM 1024x1024",
+  "YELLOW_NULL 32x32",
+  "int_light_paint1 32x32",
+  "leather_6 256x256",
+  "paint_detail_nm 256x256",
+  "plastic_detail_nm 256x256",
+  "shift_thing 512x512"
+ ]
+}

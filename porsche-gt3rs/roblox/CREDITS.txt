@@ -1,0 +1,11 @@
+3D model credit (required by the CC BY 4.0 license)
+
+"Porsche 911 GT3 RS Weissach" by VTDAT23
+https://sketchfab.com/3d-models/porsche-911-gt3-rs-weissach-549c25c48c474274be5373f1f2fe20a8
+License: Creative Commons Attribution 4.0 (CC BY 4.0) - https://creativecommons.org/licenses/by/4.0/
+
+Changes made: simplified for Roblox (about 825k to 103k triangles), split into
+single-material parts, brand logos and lettering removed, textures resized to 1024.
+
+Put a credit line like this in the game description or an in-game credits screen:
+"Car model based on 'Porsche 911 GT3 RS Weissach' by VTDAT23 (Sketchfab), CC BY 4.0, modified."

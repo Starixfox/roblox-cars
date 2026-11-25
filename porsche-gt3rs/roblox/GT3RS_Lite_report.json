@@ -1,0 +1,3871 @@
+{
+ "variant": "lite",
+ "removed": [
+  "EXT_BADGE_PORSCHE_0",
+  "EXT_PLASTIC_GLOSS_2",
+  "EXT_Logo_Weissach",
+  "EXT_DECAL_SIDE",
+  "EXT_DECAL_HL",
+  "EXT_DECAL_REAR_0",
+  "EXT_DECAL_REAR_1",
+  "INT_CLOCK",
+  "INT_DECAL_TOP",
+  "INT_DECALS_0",
+  "INT_GPS",
+  "INT_Logo_Weissach",
+  "EXT_BADGE_PORSCHE_1",
+  "INT_DECALS_1",
+  "INT_DECALS_2",
+  "EXT_CHROME_0: 3856 faces",
+  "EXT_PLASTIC_GLOSS_0: 4789 faces",
+  "texture 911 GT3 RS: 4 areas blanked",
+  "texture 911 GT3 RS_N: 4 areas blanked",
+  "texture GT3RS Side Decals: 1 areas blanked",
+  "texture EXT_CALIPER_AO_SHOCKWORKS: 1 areas blanked",
+  "texture License_plate: blanked",
+  "texture Tyre_D: sidewall lettering blanked",
+  "texture Tyre_NM: sidewall lettering blanked"
+ ],
+ "roles": {
+  "Body": {
+   "before": 285894,
+   "after": 19950
+  },
+  "Lights": {
+   "before": 9740,
+   "after": 2380
+  },
+  "Glass": {
+   "before": 19254,
+   "after": 2525
+  },
+  "Interior": {
+   "before": 308064,
+   "after": 9631
+  },
+  "SteeringWheel": {
+   "before": 52612,
+   "after": 1503
+  },
+  "Wheel_LF": {
+   "before": 24596,
+   "after": 2497
+  },
+  "Brakes": {
+   "before": 33200,
+   "after": 1000
+  },
+  "Wheel_LR": {
+   "before": 24596,
+   "after": 2495
+  },
+  "Wheel_RR": {
+   "before": 24596,
+   "after": 2497
+  },
+  "Wheel_RF": {
+   "before": 24596,
+   "after": 2497
+  }
+ },
+ "groups": {
+  "Body_Front": {
+   "tris": 5228,
+   "dmg_tris": 0,
+   "parts": 32,
+   "detachable": false,
+   "chunks": 7
+  },
+  "Body_Mid": {
+   "tris": 1770,
+   "dmg_tris": 0,
+   "parts": 17,
+   "detachable": false,
+   "chunks": 6
+  },
+  "Body_Rear": {
+   "tris": 2180,
+   "dmg_tris": 0,
+   "parts": 30,
+   "detachable": false,
+   "chunks": 7
+  },
+  "Brakes": {
+   "tris": 934,
+   "dmg_tris": 0,
+   "parts": 1,
+   "detachable": false,
+   "chunks": 0
+  },
+  "Door_L": {
+   "tris": 2725,
+   "dmg_tris": 0,
+   "parts": 48,
+   "detachable": true,
+   "chunks": 6
+  },
+  "Door_R": {
+   "tris": 2727,
+   "dmg_tris": 0,
+   "parts": 57,
+   "detachable": true,
+   "chunks": 6
+  },
+  "FrontBumper": {
+   "tris": 1378,
+   "dmg_tris": 0,
+   "parts": 22,
+   "detachable": true,
+   "chunks": 7
+  },
+  "Glass_Door_L": {
+   "tris": 402,
+   "dmg_tris": 402,
+   "parts": 30,
+   "detachable": false,
+   "chunks": 8
+  },
+  "Glass_Door_R": {
+   "tris": 400,
+   "dmg_tris": 400,
+   "parts": 30,
+   "detachable": false,
+   "chunks": 8
+  },
+  "Glass_Quarter_L": {
+   "tris": 358,
+   "dmg_tris": 358,
+   "parts": 18,
+   "detachable": false,
+   "chunks": 5
+  },
+  "Glass_Quarter_R": {
+   "tris": 358,
+   "dmg_tris": 358,
+   "parts": 18,
+   "detachable": false,
+   "chunks": 5
+  },
+  "Glass_Rear": {
+   "tris": 646,
+   "dmg_tris": 646,
+   "parts": 50,
+   "detachable": false,
+   "chunks": 12
+  },
+  "Glass_Windshield": {
+   "tris": 776,
+   "dmg_tris": 776,
+   "parts": 64,
+   "detachable": false,
+   "chunks": 16
+  },
+  "HeadLight_L": {
+   "tris": 686,
+   "dmg_tris": 0,
+   "parts": 6,
+   "detachable": false,
+   "chunks": 0
+  },
+  "HeadLight_R": {
+   "tris": 687,
+   "dmg_tris": 0,
+   "parts": 6,
+   "detachable": false,
+   "chunks": 0
+  },
+  "Hood": {
+   "tris": 1312,
+   "dmg_tris": 0,
+   "parts": 22,
+   "detachable": true,
+   "chunks": 6
+  },
+  "Interior": {
+   "tris": 4729,
+   "dmg_tris": 0,
+   "parts": 33,
+   "detachable": false,
+   "chunks": 0
+  },
+  "Mirror_L": {
+   "tris": 483,
+   "dmg_tris": 0,
+   "parts": 3,
+   "detachable": true,
+   "chunks": 0
+  },
+  "Mirror_R": {
+   "tris": 483,
+   "dmg_tris": 0,
+   "parts": 3,
+   "detachable": true,
+   "chunks": 0
+  },
+  "RearBumper": {
+   "tris": 2647,
+   "dmg_tris": 0,
+   "parts": 34,
+   "detachable": true,
+   "chunks": 7
+  },
+  "SteeringWheel": {
+   "tris": 1465,
+   "dmg_tris": 0,
+   "parts": 10,
+   "detachable": false,
+   "chunks": 0
+  },
+  "TailLight_L": {
+   "tris": 693,
+   "dmg_tris": 0,
+   "parts": 5,
+   "detachable": false,
+   "chunks": 0
+  },
+  "TailLight_R": {
+   "tris": 693,
+   "dmg_tris": 0,
+   "parts": 5,
+   "detachable": false,
+   "chunks": 0
+  },
+  "Trunk": {
+   "tris": 1665,
+   "dmg_tris": 0,
+   "parts": 18,
+   "detachable": true,
+   "chunks": 5
+  },
+  "Wheel_LF": {
+   "tris": 2497,
+   "dmg_tris": 0,
+   "parts": 6,
+   "detachable": true,
+   "chunks": 0
+  },
+  "Wheel_LR": {
+   "tris": 2495,
+   "dmg_tris": 0,
+   "parts": 6,
+   "detachable": true,
+   "chunks": 0
+  },
+  "Wheel_RF": {
+   "tris": 2497,
+   "dmg_tris": 0,
+   "parts": 6,
+   "detachable": true,
+   "chunks": 0
+  },
+  "Wheel_RR": {
+   "tris": 2497,
+   "dmg_tris": 0,
+   "parts": 6,
+   "detachable": true,
+   "chunks": 0
+  },
+  "Wing": {
+   "tris": 1481,
+   "dmg_tris": 0,
+   "parts": 12,
+   "detachable": true,
+   "chunks": 3
+  }
+ },
+ "parts": [
+  {
+   "name": "Body_Front__C01__BayLiner",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 6
+  },
+  {
+   "name": "Body_Front__C01__CarPaint_flake",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 471
+  },
+  {
+   "name": "Body_Front__C01__Carbonblack_coat",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 102
+  },
+  {
+   "name": "Body_Front__C01__EXT_BLACK_MISC",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 47
+  },
+  {
+   "name": "Body_Front__C01__EXT_PLASTIC_GLOSS",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 105
+  },
+  {
+   "name": "Body_Front__C02__BayLiner",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 8
+  },
+  {
+   "name": "Body_Front__C02__CarPaint_flake",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 411
+  },
+  {
+   "name": "Body_Front__C02__Carbonblack_coat",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 643
+  },
+  {
+   "name": "Body_Front__C02__EXT_BLACK_MISC",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "Body_Front__C02__EXT_CHROME",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 92
+  },
+  {
+   "name": "Body_Front__C02__Smooth_plastic",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 164
+  },
+  {
+   "name": "Body_Front__C03__BayLiner",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Body_Front__C03__CarPaint_flake",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 884
+  },
+  {
+   "name": "Body_Front__C03__Carbonblack_coat",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 104
+  },
+  {
+   "name": "Body_Front__C03__EXT_BLACK_MISC",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 89
+  },
+  {
+   "name": "Body_Front__C03__EXT_PLASTIC_GLOSS",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 154
+  },
+  {
+   "name": "Body_Front__C04__BayLiner",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 28
+  },
+  {
+   "name": "Body_Front__C04__Carbonblack_coat",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 26
+  },
+  {
+   "name": "Body_Front__C04__EXT_BLACK_MISC",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 7
+  },
+  {
+   "name": "Body_Front__C05__BayLiner",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "Body_Front__C05__Carbonblack_coat",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 3
+  },
+  {
+   "name": "Body_Front__C05__EXT_BLACK_MISC",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 116
+  },
+  {
+   "name": "Body_Front__C05__EXT_PLASTIC_GLOSS",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 116
+  },
+  {
+   "name": "Body_Front__C06__BayLiner",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 6
+  },
+  {
+   "name": "Body_Front__C06__Carbonblack_coat",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Body_Front__C06__EXT_BLACK_MISC",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Body_Front__C07__BayLiner",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Body_Front__C07__CarPaint_flake",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 588
+  },
+  {
+   "name": "Body_Front__C07__Carbonblack_coat",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 675
+  },
+  {
+   "name": "Body_Front__C07__EXT_BLACK_MISC",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 33
+  },
+  {
+   "name": "Body_Front__C07__EXT_CHROME",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 92
+  },
+  {
+   "name": "Body_Front__C07__Smooth_plastic",
+   "group": "Body_Front",
+   "dmg": false,
+   "tris": 166
+  },
+  {
+   "name": "Body_Mid__C01__CarPaint_flake",
+   "group": "Body_Mid",
+   "dmg": false,
+   "tris": 146
+  },
+  {
+   "name": "Body_Mid__C01__Carbonblack_coat",
+   "group": "Body_Mid",
+   "dmg": false,
+   "tris": 84
+  },
+  {
+   "name": "Body_Mid__C01__EXT_BLACK_MISC",
+   "group": "Body_Mid",
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Body_Mid__C02__CarPaint_flake",
+   "group": "Body_Mid",
+   "dmg": false,
+   "tris": 294
+  },
+  {
+   "name": "Body_Mid__C02__Carbonblack_coat",
+   "group": "Body_Mid",
+   "dmg": false,
+   "tris": 134
+  },
+  {
+   "name": "Body_Mid__C02__EXT_BLACK_MISC",
+   "group": "Body_Mid",
+   "dmg": false,
+   "tris": 65
+  },
+  {
+   "name": "Body_Mid__C03__CarPaint_flake",
+   "group": "Body_Mid",
+   "dmg": false,
+   "tris": 81
+  },
+  {
+   "name": "Body_Mid__C03__Carbonblack_coat",
+   "group": "Body_Mid",
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "Body_Mid__C03__EXT_BLACK_MISC",
+   "group": "Body_Mid",
+   "dmg": false,
+   "tris": 4
+  },
+  {
+   "name": "Body_Mid__C04__CarPaint_flake",
+   "group": "Body_Mid",
+   "dmg": false,
+   "tris": 277
+  },
+  {
+   "name": "Body_Mid__C04__Carbonblack_coat",
+   "group": "Body_Mid",
+   "dmg": false,
+   "tris": 128
+  },
+  {
+   "name": "Body_Mid__C04__EXT_BLACK_MISC",
+   "group": "Body_Mid",
+   "dmg": false,
+   "tris": 48
+  },
+  {
+   "name": "Body_Mid__C04__EXT_PLASTIC_GLOSS",
+   "group": "Body_Mid",
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "Body_Mid__C05__EXT_BLACK_MISC",
+   "group": "Body_Mid",
+   "dmg": false,
+   "tris": 42
+  },
+  {
+   "name": "Body_Mid__C06__CarPaint_flake",
+   "group": "Body_Mid",
+   "dmg": false,
+   "tris": 155
+  },
+  {
+   "name": "Body_Mid__C06__Carbonblack_coat",
+   "group": "Body_Mid",
+   "dmg": false,
+   "tris": 93
+  },
+  {
+   "name": "Body_Mid__C06__EXT_BLACK_MISC",
+   "group": "Body_Mid",
+   "dmg": false,
+   "tris": 53
+  },
+  {
+   "name": "Body_Rear__C01__CarPaint_flake",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Body_Rear__C01__Carbonblack_coat",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Body_Rear__C01__EXT_BLACK_MISC",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 42
+  },
+  {
+   "name": "Body_Rear__C01__EXT_DEFROST",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 86
+  },
+  {
+   "name": "Body_Rear__C02__BayLiner",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 28
+  },
+  {
+   "name": "Body_Rear__C02__CarPaint_flake",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 55
+  },
+  {
+   "name": "Body_Rear__C02__Carbonblack_coat",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 171
+  },
+  {
+   "name": "Body_Rear__C02__EXT_BLACK_MISC",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 27
+  },
+  {
+   "name": "Body_Rear__C02__EXT_CHROME",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 60
+  },
+  {
+   "name": "Body_Rear__C03__CarPaint_flake",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 288
+  },
+  {
+   "name": "Body_Rear__C03__Carbonblack_coat",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 47
+  },
+  {
+   "name": "Body_Rear__C03__EXT_BLACK_MISC",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 81
+  },
+  {
+   "name": "Body_Rear__C03__EXT_DEFROST",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 31
+  },
+  {
+   "name": "Body_Rear__C04__BayLiner",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 26
+  },
+  {
+   "name": "Body_Rear__C04__CarPaint_flake",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 41
+  },
+  {
+   "name": "Body_Rear__C04__Carbonblack_coat",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 171
+  },
+  {
+   "name": "Body_Rear__C04__EXT_BLACK_MISC",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Body_Rear__C04__EXT_CHROME",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 59
+  },
+  {
+   "name": "Body_Rear__C05__BayLiner",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 42
+  },
+  {
+   "name": "Body_Rear__C05__Carbonblack_coat",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 98
+  },
+  {
+   "name": "Body_Rear__C05__EXT_BLACK_MISC",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Body_Rear__C05__EXT_EXHAUST",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 339
+  },
+  {
+   "name": "Body_Rear__C05__EXT_GLASS_NM",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "Body_Rear__C06__CarPaint_flake",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 260
+  },
+  {
+   "name": "Body_Rear__C06__Carbonblack_coat",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 26
+  },
+  {
+   "name": "Body_Rear__C06__EXT_BLACK_MISC",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 44
+  },
+  {
+   "name": "Body_Rear__C06__EXT_DEFROST",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 3
+  },
+  {
+   "name": "Body_Rear__C07__CarPaint_flake",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Body_Rear__C07__Carbonblack_coat",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 22
+  },
+  {
+   "name": "Body_Rear__C07__EXT_BLACK_MISC",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 13
+  },
+  {
+   "name": "Brakes__ext_Wheel_brake_caliper",
+   "group": "Brakes",
+   "dmg": false,
+   "tris": 934
+  },
+  {
+   "name": "Door_L__C01__CarPaint_flake",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 202
+  },
+  {
+   "name": "Door_L__C01__Carbonblack_coat",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 111
+  },
+  {
+   "name": "Door_L__C01__INT_PLASTIC",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 74
+  },
+  {
+   "name": "Door_L__C01__INT_Stitching_2",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 36
+  },
+  {
+   "name": "Door_L__C01__RIM_chrome_001",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "Door_L__C01__Seat_leather_2",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 68
+  },
+  {
+   "name": "Door_L__C01__Seat_leather_2_001",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 36
+  },
+  {
+   "name": "Door_L__C02__CarPaint_flake",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 52
+  },
+  {
+   "name": "Door_L__C02__INT_SPEAKER",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 53
+  },
+  {
+   "name": "Door_L__C02__INT_Stitching_2",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Door_L__C02__Seat_leather_2",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "Door_L__C02__Smooth_plastic",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 34
+  },
+  {
+   "name": "Door_L__C03__CarPaint_flake",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 22
+  },
+  {
+   "name": "Door_L__C03__Carbonblack_coat",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 158
+  },
+  {
+   "name": "Door_L__C03__EXT_CHROME",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Door_L__C03__INT_FABRIC",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 40
+  },
+  {
+   "name": "Door_L__C03__INT_PLASTIC",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Door_L__C03__INT_SPEAKER",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 33
+  },
+  {
+   "name": "Door_L__C03__INT_Stitching_2",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 22
+  },
+  {
+   "name": "Door_L__C03__RIM_chrome_001",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 103
+  },
+  {
+   "name": "Door_L__C03__Seat_leather_2",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 50
+  },
+  {
+   "name": "Door_L__C03__Seat_leather_2_001",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 37
+  },
+  {
+   "name": "Door_L__C03__Smooth_plastic",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 26
+  },
+  {
+   "name": "Door_L__C03__int_leather_paint6",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Door_L__C04__CarPaint_flake",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 28
+  },
+  {
+   "name": "Door_L__C04__Carbonblack_coat",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 53
+  },
+  {
+   "name": "Door_L__C04__INT_FABRIC",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 79
+  },
+  {
+   "name": "Door_L__C04__INT_METAL_KNOB_DETAIL",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 24
+  },
+  {
+   "name": "Door_L__C04__INT_PLASTIC",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 26
+  },
+  {
+   "name": "Door_L__C04__INT_PLASTIC_GLOSS",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Door_L__C04__INT_Stitching_2",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 7
+  },
+  {
+   "name": "Door_L__C04__Seat_leather_2",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 55
+  },
+  {
+   "name": "Door_L__C04__Smooth_plastic",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 58
+  },
+  {
+   "name": "Door_L__C05__CarPaint_flake",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Door_L__C05__Carbonblack_coat",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 37
+  },
+  {
+   "name": "Door_L__C05__INT_PLASTIC",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Door_L__C05__INT_SPEAKER",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 33
+  },
+  {
+   "name": "Door_L__C05__INT_Stitching_2",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Door_L__C05__Seat_leather_2",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 23
+  },
+  {
+   "name": "Door_L__C05__Seat_leather_2_001",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Door_L__C05__Smooth_plastic",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 87
+  },
+  {
+   "name": "Door_L__C05__int_light_paint1",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 180
+  },
+  {
+   "name": "Door_L__C06__CarPaint_flake",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 46
+  },
+  {
+   "name": "Door_L__C06__INT_CHROME_BLACK",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Door_L__C06__INT_Stitching_2",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 28
+  },
+  {
+   "name": "Door_L__C06__Seat_leather_2",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 27
+  },
+  {
+   "name": "Door_L__C06__Seat_leather_2_001",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 31
+  },
+  {
+   "name": "Door_L__C06__Smooth_plastic",
+   "group": "Door_L",
+   "dmg": false,
+   "tris": 34
+  },
+  {
+   "name": "Door_R__C01__CarPaint_flake",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 185
+  },
+  {
+   "name": "Door_R__C01__Carbonblack_coat",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 86
+  },
+  {
+   "name": "Door_R__C01__INT_PLASTIC",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 52
+  },
+  {
+   "name": "Door_R__C01__INT_Stitching_2",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 53
+  },
+  {
+   "name": "Door_R__C01__RIM_chrome_001",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 4
+  },
+  {
+   "name": "Door_R__C01__Seat_leather_2",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 64
+  },
+  {
+   "name": "Door_R__C01__Seat_leather_2_001",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 37
+  },
+  {
+   "name": "Door_R__C01__Smooth_plastic",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "Door_R__C02__CarPaint_flake",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 66
+  },
+  {
+   "name": "Door_R__C02__Carbonblack_coat",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Door_R__C02__INT_FABRIC",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 51
+  },
+  {
+   "name": "Door_R__C02__INT_METAL_KNOB_DETAIL",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 7
+  },
+  {
+   "name": "Door_R__C02__INT_PLASTIC",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Door_R__C02__INT_PLASTIC_GLOSS",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 60
+  },
+  {
+   "name": "Door_R__C02__INT_SPEAKER",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Door_R__C02__INT_Stitching_2",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Door_R__C02__Seat_leather_2",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 38
+  },
+  {
+   "name": "Door_R__C02__Smooth_plastic",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 63
+  },
+  {
+   "name": "Door_R__C03__CarPaint_flake",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Door_R__C03__INT_CHROME_BLACK",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Door_R__C03__INT_SPEAKER",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 7
+  },
+  {
+   "name": "Door_R__C03__INT_Stitching_2",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 8
+  },
+  {
+   "name": "Door_R__C03__Seat_leather_2",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "Door_R__C03__Seat_leather_2_001",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 34
+  },
+  {
+   "name": "Door_R__C03__Smooth_plastic",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 40
+  },
+  {
+   "name": "Door_R__C03__int_light_paint1",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 100
+  },
+  {
+   "name": "Door_R__C04__CarPaint_flake",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 23
+  },
+  {
+   "name": "Door_R__C04__Carbonblack_coat",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 54
+  },
+  {
+   "name": "Door_R__C04__INT_PLASTIC",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Door_R__C04__INT_SPEAKER",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 57
+  },
+  {
+   "name": "Door_R__C04__INT_Stitching_2",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 11
+  },
+  {
+   "name": "Door_R__C04__RIM_chrome_001",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Door_R__C04__Seat_leather_2",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 10
+  },
+  {
+   "name": "Door_R__C04__Seat_leather_2_001",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 2
+  },
+  {
+   "name": "Door_R__C04__Smooth_plastic",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 62
+  },
+  {
+   "name": "Door_R__C04__int_light_paint1",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 80
+  },
+  {
+   "name": "Door_R__C05__CarPaint_flake",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 52
+  },
+  {
+   "name": "Door_R__C05__Carbonblack_coat",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 85
+  },
+  {
+   "name": "Door_R__C05__INT_PLASTIC",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 21
+  },
+  {
+   "name": "Door_R__C05__INT_Stitching_2",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 13
+  },
+  {
+   "name": "Door_R__C05__RIM_chrome_001",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 10
+  },
+  {
+   "name": "Door_R__C05__Seat_leather_2",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 35
+  },
+  {
+   "name": "Door_R__C05__Seat_leather_2_001",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 36
+  },
+  {
+   "name": "Door_R__C06__CarPaint_flake",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Door_R__C06__Carbonblack_coat",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 114
+  },
+  {
+   "name": "Door_R__C06__EXT_CHROME",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Door_R__C06__INT_FABRIC",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 68
+  },
+  {
+   "name": "Door_R__C06__INT_METAL_KNOB_DETAIL",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "Door_R__C06__INT_PLASTIC",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 32
+  },
+  {
+   "name": "Door_R__C06__INT_PLASTIC_GLOSS",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 60
+  },
+  {
+   "name": "Door_R__C06__INT_SPEAKER",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 26
+  },
+  {
+   "name": "Door_R__C06__INT_Stitching_2",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Door_R__C06__RIM_chrome_001",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 86
+  },
+  {
+   "name": "Door_R__C06__Seat_leather_2",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 76
+  },
+  {
+   "name": "Door_R__C06__Seat_leather_2_001",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 10
+  },
+  {
+   "name": "Door_R__C06__Smooth_plastic",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 56
+  },
+  {
+   "name": "Door_R__C06__int_leather_paint6",
+   "group": "Door_R",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "FrontBumper__C01__CarPaint_flake",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 139
+  },
+  {
+   "name": "FrontBumper__C01__Carbonblack_coat",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 128
+  },
+  {
+   "name": "FrontBumper__C02__CarPaint_flake",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 114
+  },
+  {
+   "name": "FrontBumper__C02__Carbonblack_coat",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 166
+  },
+  {
+   "name": "FrontBumper__C02__EXT_BLACK_MISC",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 9
+  },
+  {
+   "name": "FrontBumper__C02__EXT_GRILL",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 6
+  },
+  {
+   "name": "FrontBumper__C03__CarPaint_flake",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 187
+  },
+  {
+   "name": "FrontBumper__C03__Carbonblack_coat",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 112
+  },
+  {
+   "name": "FrontBumper__C04__CarPaint_flake",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 43
+  },
+  {
+   "name": "FrontBumper__C04__Carbonblack_coat",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 56
+  },
+  {
+   "name": "FrontBumper__C04__EXT_BLACK_MISC",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 7
+  },
+  {
+   "name": "FrontBumper__C04__EXT_GRILL",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 5
+  },
+  {
+   "name": "FrontBumper__C05__CarPaint_flake",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 14
+  },
+  {
+   "name": "FrontBumper__C05__Carbonblack_coat",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 68
+  },
+  {
+   "name": "FrontBumper__C05__EXT_BLACK_MISC",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 8
+  },
+  {
+   "name": "FrontBumper__C05__EXT_GRILL",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 4
+  },
+  {
+   "name": "FrontBumper__C06__CarPaint_flake",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 130
+  },
+  {
+   "name": "FrontBumper__C06__Carbonblack_coat",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 61
+  },
+  {
+   "name": "FrontBumper__C07__CarPaint_flake",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 49
+  },
+  {
+   "name": "FrontBumper__C07__Carbonblack_coat",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 61
+  },
+  {
+   "name": "FrontBumper__C07__EXT_BLACK_MISC",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 6
+  },
+  {
+   "name": "FrontBumper__C07__EXT_GRILL",
+   "group": "FrontBumper",
+   "dmg": false,
+   "tris": 5
+  },
+  {
+   "name": "Glass_Door_L__C01__DMG__EXT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": true,
+   "tris": 22
+  },
+  {
+   "name": "Glass_Door_L__C01__DMG__INT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": true,
+   "tris": 22
+  },
+  {
+   "name": "Glass_Door_L__C01__EXT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": false,
+   "tris": 22
+  },
+  {
+   "name": "Glass_Door_L__C01__INT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": false,
+   "tris": 22
+  },
+  {
+   "name": "Glass_Door_L__C02__DMG__EXT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": true,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Door_L__C02__DMG__INT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": true,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Door_L__C02__EXT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Door_L__C02__INT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Door_L__C03__DMG__EXT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": true,
+   "tris": 32
+  },
+  {
+   "name": "Glass_Door_L__C03__DMG__INT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": true,
+   "tris": 32
+  },
+  {
+   "name": "Glass_Door_L__C03__EXT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": false,
+   "tris": 32
+  },
+  {
+   "name": "Glass_Door_L__C03__INT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": false,
+   "tris": 32
+  },
+  {
+   "name": "Glass_Door_L__C04__DMG__EXT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": true,
+   "tris": 17
+  },
+  {
+   "name": "Glass_Door_L__C04__DMG__INT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": true,
+   "tris": 17
+  },
+  {
+   "name": "Glass_Door_L__C04__EXT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "Glass_Door_L__C04__INT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "Glass_Door_L__C05__DMG__EXT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": true,
+   "tris": 21
+  },
+  {
+   "name": "Glass_Door_L__C05__DMG__INT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": true,
+   "tris": 21
+  },
+  {
+   "name": "Glass_Door_L__C05__EXT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": false,
+   "tris": 21
+  },
+  {
+   "name": "Glass_Door_L__C05__INT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": false,
+   "tris": 21
+  },
+  {
+   "name": "Glass_Door_L__C06__DMG__EXT_GLASS",
+   "group": "Glass_Door_L",
+   "dmg": true,
+   "tris": 120
+  },
+  {
+   "name": "Glass_Door_L__C06__EXT_GLASS",
+   "group": "Glass_Door_L",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Glass_Door_L__C07__DMG__EXT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": true,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Door_L__C07__DMG__INT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": true,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Door_L__C07__EXT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Door_L__C07__INT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Door_L__C08__DMG__EXT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": true,
+   "tris": 16
+  },
+  {
+   "name": "Glass_Door_L__C08__DMG__INT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": true,
+   "tris": 16
+  },
+  {
+   "name": "Glass_Door_L__C08__EXT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "Glass_Door_L__C08__INT_WINDOW",
+   "group": "Glass_Door_L",
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "Glass_Door_R__C01__DMG__EXT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": true,
+   "tris": 16
+  },
+  {
+   "name": "Glass_Door_R__C01__DMG__INT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": true,
+   "tris": 16
+  },
+  {
+   "name": "Glass_Door_R__C01__EXT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "Glass_Door_R__C01__INT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "Glass_Door_R__C02__DMG__EXT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": true,
+   "tris": 26
+  },
+  {
+   "name": "Glass_Door_R__C02__DMG__INT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": true,
+   "tris": 26
+  },
+  {
+   "name": "Glass_Door_R__C02__EXT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": false,
+   "tris": 26
+  },
+  {
+   "name": "Glass_Door_R__C02__INT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": false,
+   "tris": 26
+  },
+  {
+   "name": "Glass_Door_R__C03__DMG__EXT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": true,
+   "tris": 17
+  },
+  {
+   "name": "Glass_Door_R__C03__DMG__INT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": true,
+   "tris": 17
+  },
+  {
+   "name": "Glass_Door_R__C03__EXT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "Glass_Door_R__C03__INT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "Glass_Door_R__C04__DMG__EXT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": true,
+   "tris": 12
+  },
+  {
+   "name": "Glass_Door_R__C04__DMG__INT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": true,
+   "tris": 12
+  },
+  {
+   "name": "Glass_Door_R__C04__EXT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Glass_Door_R__C04__INT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Glass_Door_R__C05__DMG__EXT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": true,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Door_R__C05__DMG__INT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": true,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Door_R__C05__EXT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Door_R__C05__INT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Door_R__C06__DMG__EXT_GLASS",
+   "group": "Glass_Door_R",
+   "dmg": true,
+   "tris": 120
+  },
+  {
+   "name": "Glass_Door_R__C06__EXT_GLASS",
+   "group": "Glass_Door_R",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Glass_Door_R__C07__DMG__EXT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": true,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Door_R__C07__DMG__INT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": true,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Door_R__C07__EXT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Door_R__C07__INT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Door_R__C08__DMG__EXT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": true,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Door_R__C08__DMG__INT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": true,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Door_R__C08__EXT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": false,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Door_R__C08__INT_WINDOW",
+   "group": "Glass_Door_R",
+   "dmg": false,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Quarter_L__C01__DMG__EXT_WINDOW",
+   "group": "Glass_Quarter_L",
+   "dmg": true,
+   "tris": 41
+  },
+  {
+   "name": "Glass_Quarter_L__C01__DMG__INT_WINDOW",
+   "group": "Glass_Quarter_L",
+   "dmg": true,
+   "tris": 41
+  },
+  {
+   "name": "Glass_Quarter_L__C01__EXT_WINDOW",
+   "group": "Glass_Quarter_L",
+   "dmg": false,
+   "tris": 41
+  },
+  {
+   "name": "Glass_Quarter_L__C01__INT_WINDOW",
+   "group": "Glass_Quarter_L",
+   "dmg": false,
+   "tris": 41
+  },
+  {
+   "name": "Glass_Quarter_L__C02__DMG__EXT_WINDOW",
+   "group": "Glass_Quarter_L",
+   "dmg": true,
+   "tris": 40
+  },
+  {
+   "name": "Glass_Quarter_L__C02__DMG__INT_WINDOW",
+   "group": "Glass_Quarter_L",
+   "dmg": true,
+   "tris": 40
+  },
+  {
+   "name": "Glass_Quarter_L__C02__EXT_WINDOW",
+   "group": "Glass_Quarter_L",
+   "dmg": false,
+   "tris": 40
+  },
+  {
+   "name": "Glass_Quarter_L__C02__INT_WINDOW",
+   "group": "Glass_Quarter_L",
+   "dmg": false,
+   "tris": 40
+  },
+  {
+   "name": "Glass_Quarter_L__C03__DMG__EXT_WINDOW",
+   "group": "Glass_Quarter_L",
+   "dmg": true,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Quarter_L__C03__DMG__INT_WINDOW",
+   "group": "Glass_Quarter_L",
+   "dmg": true,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Quarter_L__C03__EXT_WINDOW",
+   "group": "Glass_Quarter_L",
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Quarter_L__C03__INT_WINDOW",
+   "group": "Glass_Quarter_L",
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Quarter_L__C04__DMG__EXT_WINDOW",
+   "group": "Glass_Quarter_L",
+   "dmg": true,
+   "tris": 23
+  },
+  {
+   "name": "Glass_Quarter_L__C04__DMG__INT_WINDOW",
+   "group": "Glass_Quarter_L",
+   "dmg": true,
+   "tris": 23
+  },
+  {
+   "name": "Glass_Quarter_L__C04__EXT_WINDOW",
+   "group": "Glass_Quarter_L",
+   "dmg": false,
+   "tris": 23
+  },
+  {
+   "name": "Glass_Quarter_L__C04__INT_WINDOW",
+   "group": "Glass_Quarter_L",
+   "dmg": false,
+   "tris": 23
+  },
+  {
+   "name": "Glass_Quarter_L__C05__DMG__EXT_GLASS",
+   "group": "Glass_Quarter_L",
+   "dmg": true,
+   "tris": 120
+  },
+  {
+   "name": "Glass_Quarter_L__C05__EXT_GLASS",
+   "group": "Glass_Quarter_L",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Glass_Quarter_R__C01__DMG__EXT_WINDOW",
+   "group": "Glass_Quarter_R",
+   "dmg": true,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Quarter_R__C01__DMG__INT_WINDOW",
+   "group": "Glass_Quarter_R",
+   "dmg": true,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Quarter_R__C01__EXT_WINDOW",
+   "group": "Glass_Quarter_R",
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Quarter_R__C01__INT_WINDOW",
+   "group": "Glass_Quarter_R",
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Quarter_R__C02__DMG__EXT_GLASS",
+   "group": "Glass_Quarter_R",
+   "dmg": true,
+   "tris": 120
+  },
+  {
+   "name": "Glass_Quarter_R__C02__EXT_GLASS",
+   "group": "Glass_Quarter_R",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Glass_Quarter_R__C03__DMG__EXT_WINDOW",
+   "group": "Glass_Quarter_R",
+   "dmg": true,
+   "tris": 44
+  },
+  {
+   "name": "Glass_Quarter_R__C03__DMG__INT_WINDOW",
+   "group": "Glass_Quarter_R",
+   "dmg": true,
+   "tris": 44
+  },
+  {
+   "name": "Glass_Quarter_R__C03__EXT_WINDOW",
+   "group": "Glass_Quarter_R",
+   "dmg": false,
+   "tris": 44
+  },
+  {
+   "name": "Glass_Quarter_R__C03__INT_WINDOW",
+   "group": "Glass_Quarter_R",
+   "dmg": false,
+   "tris": 44
+  },
+  {
+   "name": "Glass_Quarter_R__C04__DMG__EXT_WINDOW",
+   "group": "Glass_Quarter_R",
+   "dmg": true,
+   "tris": 39
+  },
+  {
+   "name": "Glass_Quarter_R__C04__DMG__INT_WINDOW",
+   "group": "Glass_Quarter_R",
+   "dmg": true,
+   "tris": 39
+  },
+  {
+   "name": "Glass_Quarter_R__C04__EXT_WINDOW",
+   "group": "Glass_Quarter_R",
+   "dmg": false,
+   "tris": 39
+  },
+  {
+   "name": "Glass_Quarter_R__C04__INT_WINDOW",
+   "group": "Glass_Quarter_R",
+   "dmg": false,
+   "tris": 39
+  },
+  {
+   "name": "Glass_Quarter_R__C05__DMG__EXT_WINDOW",
+   "group": "Glass_Quarter_R",
+   "dmg": true,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Quarter_R__C05__DMG__INT_WINDOW",
+   "group": "Glass_Quarter_R",
+   "dmg": true,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Quarter_R__C05__EXT_WINDOW",
+   "group": "Glass_Quarter_R",
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Quarter_R__C05__INT_WINDOW",
+   "group": "Glass_Quarter_R",
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Rear__C01__DMG__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Rear__C01__DMG__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Rear__C01__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Rear__C01__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Rear__C02__DMG__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Rear__C02__DMG__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 16
+  },
+  {
+   "name": "Glass_Rear__C02__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Rear__C02__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "Glass_Rear__C03__DMG__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 31
+  },
+  {
+   "name": "Glass_Rear__C03__DMG__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Rear__C03__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 31
+  },
+  {
+   "name": "Glass_Rear__C03__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Rear__C04__DMG__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 38
+  },
+  {
+   "name": "Glass_Rear__C04__DMG__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 39
+  },
+  {
+   "name": "Glass_Rear__C04__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 38
+  },
+  {
+   "name": "Glass_Rear__C04__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 39
+  },
+  {
+   "name": "Glass_Rear__C05__DMG__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 22
+  },
+  {
+   "name": "Glass_Rear__C05__DMG__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Rear__C05__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 22
+  },
+  {
+   "name": "Glass_Rear__C05__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Rear__C06__DMG__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Rear__C06__DMG__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 12
+  },
+  {
+   "name": "Glass_Rear__C06__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Rear__C06__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Glass_Rear__C07__DMG__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 33
+  },
+  {
+   "name": "Glass_Rear__C07__DMG__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 33
+  },
+  {
+   "name": "Glass_Rear__C07__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 33
+  },
+  {
+   "name": "Glass_Rear__C07__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 33
+  },
+  {
+   "name": "Glass_Rear__C08__DMG__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Rear__C08__DMG__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Rear__C08__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Rear__C08__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Rear__C09__DMG__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Rear__C09__DMG__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Rear__C09__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Rear__C09__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Rear__C10__DMG__EXT_GLASS",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 120
+  },
+  {
+   "name": "Glass_Rear__C10__DMG__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Rear__C10__DMG__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 17
+  },
+  {
+   "name": "Glass_Rear__C10__EXT_GLASS",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Glass_Rear__C10__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Rear__C10__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 17
+  },
+  {
+   "name": "Glass_Rear__C11__DMG__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 19
+  },
+  {
+   "name": "Glass_Rear__C11__DMG__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Rear__C11__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 19
+  },
+  {
+   "name": "Glass_Rear__C11__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Rear__C12__DMG__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 13
+  },
+  {
+   "name": "Glass_Rear__C12__DMG__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": true,
+   "tris": 14
+  },
+  {
+   "name": "Glass_Rear__C12__EXT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 13
+  },
+  {
+   "name": "Glass_Rear__C12__INT_WINDOW",
+   "group": "Glass_Rear",
+   "dmg": false,
+   "tris": 14
+  },
+  {
+   "name": "Glass_Windshield__C01__DMG__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Windshield__C01__DMG__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Windshield__C01__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Windshield__C01__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Windshield__C02__DMG__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Windshield__C02__DMG__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 23
+  },
+  {
+   "name": "Glass_Windshield__C02__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Windshield__C02__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 23
+  },
+  {
+   "name": "Glass_Windshield__C03__DMG__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 21
+  },
+  {
+   "name": "Glass_Windshield__C03__DMG__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Windshield__C03__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 21
+  },
+  {
+   "name": "Glass_Windshield__C03__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Windshield__C04__DMG__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Windshield__C04__DMG__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Windshield__C04__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Windshield__C04__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Glass_Windshield__C05__DMG__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 16
+  },
+  {
+   "name": "Glass_Windshield__C05__DMG__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Windshield__C05__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "Glass_Windshield__C05__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Glass_Windshield__C06__DMG__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Windshield__C06__DMG__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 21
+  },
+  {
+   "name": "Glass_Windshield__C06__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Windshield__C06__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 21
+  },
+  {
+   "name": "Glass_Windshield__C07__DMG__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 23
+  },
+  {
+   "name": "Glass_Windshield__C07__DMG__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 21
+  },
+  {
+   "name": "Glass_Windshield__C07__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 23
+  },
+  {
+   "name": "Glass_Windshield__C07__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 21
+  },
+  {
+   "name": "Glass_Windshield__C08__DMG__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 21
+  },
+  {
+   "name": "Glass_Windshield__C08__DMG__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Windshield__C08__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 21
+  },
+  {
+   "name": "Glass_Windshield__C08__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Windshield__C09__DMG__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 33
+  },
+  {
+   "name": "Glass_Windshield__C09__DMG__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 37
+  },
+  {
+   "name": "Glass_Windshield__C09__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 33
+  },
+  {
+   "name": "Glass_Windshield__C09__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 37
+  },
+  {
+   "name": "Glass_Windshield__C10__DMG__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 27
+  },
+  {
+   "name": "Glass_Windshield__C10__DMG__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 27
+  },
+  {
+   "name": "Glass_Windshield__C10__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 27
+  },
+  {
+   "name": "Glass_Windshield__C10__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 27
+  },
+  {
+   "name": "Glass_Windshield__C11__DMG__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Windshield__C11__DMG__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 39
+  },
+  {
+   "name": "Glass_Windshield__C11__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Windshield__C11__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 39
+  },
+  {
+   "name": "Glass_Windshield__C12__DMG__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 16
+  },
+  {
+   "name": "Glass_Windshield__C12__DMG__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 19
+  },
+  {
+   "name": "Glass_Windshield__C12__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "Glass_Windshield__C12__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 19
+  },
+  {
+   "name": "Glass_Windshield__C13__DMG__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Windshield__C13__DMG__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Windshield__C13__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 24
+  },
+  {
+   "name": "Glass_Windshield__C13__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Glass_Windshield__C14__DMG__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 33
+  },
+  {
+   "name": "Glass_Windshield__C14__DMG__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 32
+  },
+  {
+   "name": "Glass_Windshield__C14__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 33
+  },
+  {
+   "name": "Glass_Windshield__C14__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 32
+  },
+  {
+   "name": "Glass_Windshield__C15__DMG__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 22
+  },
+  {
+   "name": "Glass_Windshield__C15__DMG__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Windshield__C15__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 22
+  },
+  {
+   "name": "Glass_Windshield__C15__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "Glass_Windshield__C16__DMG__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 22
+  },
+  {
+   "name": "Glass_Windshield__C16__DMG__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": true,
+   "tris": 25
+  },
+  {
+   "name": "Glass_Windshield__C16__EXT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 22
+  },
+  {
+   "name": "Glass_Windshield__C16__INT_WINDOW",
+   "group": "Glass_Windshield",
+   "dmg": false,
+   "tris": 25
+  },
+  {
+   "name": "HeadLight_L__EXT_EMISSIVE_BULB_2",
+   "group": "HeadLight_L",
+   "dmg": false,
+   "tris": 90
+  },
+  {
+   "name": "HeadLight_L__EXT_EMISSIVE_STRIP",
+   "group": "HeadLight_L",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "HeadLight_L__EXT_GLASS",
+   "group": "HeadLight_L",
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "HeadLight_L__EXT_HL_DRL",
+   "group": "HeadLight_L",
+   "dmg": false,
+   "tris": 101
+  },
+  {
+   "name": "HeadLight_L__Headlight_led",
+   "group": "HeadLight_L",
+   "dmg": false,
+   "tris": 240
+  },
+  {
+   "name": "HeadLight_L__frontlight",
+   "group": "HeadLight_L",
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "HeadLight_R__EXT_EMISSIVE_BULB_2",
+   "group": "HeadLight_R",
+   "dmg": false,
+   "tris": 90
+  },
+  {
+   "name": "HeadLight_R__EXT_EMISSIVE_STRIP",
+   "group": "HeadLight_R",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "HeadLight_R__EXT_GLASS",
+   "group": "HeadLight_R",
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "HeadLight_R__EXT_HL_DRL",
+   "group": "HeadLight_R",
+   "dmg": false,
+   "tris": 102
+  },
+  {
+   "name": "HeadLight_R__Headlight_led",
+   "group": "HeadLight_R",
+   "dmg": false,
+   "tris": 240
+  },
+  {
+   "name": "HeadLight_R__frontlight",
+   "group": "HeadLight_R",
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "Hood__C01__CarPaint_flake",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 19
+  },
+  {
+   "name": "Hood__C01__Carbonblack_coat",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 103
+  },
+  {
+   "name": "Hood__C01__EXT_GRILL",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 15
+  },
+  {
+   "name": "Hood__C01__Smooth_plastic",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 60
+  },
+  {
+   "name": "Hood__C02__CarPaint_flake",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 54
+  },
+  {
+   "name": "Hood__C02__Carbonblack_coat",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 51
+  },
+  {
+   "name": "Hood__C02__EXT_GRILL",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "Hood__C03__CarPaint_flake",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 73
+  },
+  {
+   "name": "Hood__C03__Carbonblack_coat",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 169
+  },
+  {
+   "name": "Hood__C03__EXT_GRILL",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 57
+  },
+  {
+   "name": "Hood__C03__Smooth_plastic",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 60
+  },
+  {
+   "name": "Hood__C04__CarPaint_flake",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 29
+  },
+  {
+   "name": "Hood__C04__Carbonblack_coat",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 51
+  },
+  {
+   "name": "Hood__C04__EXT_GRILL",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 18
+  },
+  {
+   "name": "Hood__C05__CarPaint_flake",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 25
+  },
+  {
+   "name": "Hood__C05__Carbonblack_coat",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 54
+  },
+  {
+   "name": "Hood__C05__EXT_BLACK_MISC",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 64
+  },
+  {
+   "name": "Hood__C05__EXT_PLASTIC_GLOSS",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 65
+  },
+  {
+   "name": "Hood__C06__CarPaint_flake",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 32
+  },
+  {
+   "name": "Hood__C06__Carbonblack_coat",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 54
+  },
+  {
+   "name": "Hood__C06__EXT_BLACK_MISC",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 56
+  },
+  {
+   "name": "Hood__C06__EXT_PLASTIC_GLOSS",
+   "group": "Hood",
+   "dmg": false,
+   "tris": 173
+  },
+  {
+   "name": "Interior__Carbonblack_coat",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 105
+  },
+  {
+   "name": "Interior__Carpet_pattern",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 352
+  },
+  {
+   "name": "Interior__EXT_CHROME",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 82
+  },
+  {
+   "name": "Interior__INT_CHROME",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Interior__INT_CHROME_BLACK",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 84
+  },
+  {
+   "name": "Interior__INT_CLUSTER",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 32
+  },
+  {
+   "name": "Interior__INT_CLUSTER_ALPHA",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Interior__INT_CLUSTER_COLOR",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 192
+  },
+  {
+   "name": "Interior__INT_CLUSTER_NEEDLE_EMISSIVE",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 118
+  },
+  {
+   "name": "Interior__INT_CLUSTER_SHIFT",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 64
+  },
+  {
+   "name": "Interior__INT_CLUSTER_SIDE",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 117
+  },
+  {
+   "name": "Interior__INT_CLUSTER_WARNING_LIGHTS",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 34
+  },
+  {
+   "name": "Interior__INT_DECAL_2",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 2
+  },
+  {
+   "name": "Interior__INT_DECAL_SHIFTER",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Interior__INT_DOMELIGHT",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 117
+  },
+  {
+   "name": "Interior__INT_FABRIC",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 237
+  },
+  {
+   "name": "Interior__INT_GLASS",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 238
+  },
+  {
+   "name": "Interior__INT_GRILL_AT",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 64
+  },
+  {
+   "name": "Interior__INT_METAL_KNOB_DETAIL",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Interior__INT_PLASTIC",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 276
+  },
+  {
+   "name": "Interior__INT_PLASTIC_GLOSS",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 300
+  },
+  {
+   "name": "Interior__INT_PLASTIC_RED",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Interior__INT_SPEAKER",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 80
+  },
+  {
+   "name": "Interior__INT_Stitching_2",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "Interior__MIRROR_PLACEMENT",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "Interior__RIM_chrome_001",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "Interior__Seat_leather_2",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 236
+  },
+  {
+   "name": "Interior__Seat_leather_2_001",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 106
+  },
+  {
+   "name": "Interior__Smooth_plastic",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 241
+  },
+  {
+   "name": "Interior__int_leather_paint1",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 109
+  },
+  {
+   "name": "Interior__int_leather_paint2",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 115
+  },
+  {
+   "name": "Interior__int_leather_paint4",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 381
+  },
+  {
+   "name": "Interior__int_light_paint1",
+   "group": "Interior",
+   "dmg": false,
+   "tris": 90
+  },
+  {
+   "name": "Mirror_L__Carbonblack_coat",
+   "group": "Mirror_L",
+   "dmg": false,
+   "tris": 244
+  },
+  {
+   "name": "Mirror_L__EXT_PLASTIC_GLOSS",
+   "group": "Mirror_L",
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "Mirror_L__MIRROR_PLACEMENT",
+   "group": "Mirror_L",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Mirror_R__Carbonblack_coat",
+   "group": "Mirror_R",
+   "dmg": false,
+   "tris": 244
+  },
+  {
+   "name": "Mirror_R__EXT_PLASTIC_GLOSS",
+   "group": "Mirror_R",
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "Mirror_R__MIRROR_PLACEMENT",
+   "group": "Mirror_R",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "RearBumper__C01__CarPaint_flake",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 75
+  },
+  {
+   "name": "RearBumper__C01__Carbonblack_coat",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 56
+  },
+  {
+   "name": "RearBumper__C01__EXT_BLACK_MISC",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 96
+  },
+  {
+   "name": "RearBumper__C01__EXT_PLASTIC",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 20
+  },
+  {
+   "name": "RearBumper__C01__Wheel_Paint_Red_61",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 10
+  },
+  {
+   "name": "RearBumper__C01__Wheel_Paint_Red_62",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 53
+  },
+  {
+   "name": "RearBumper__C02__CarPaint_flake",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 190
+  },
+  {
+   "name": "RearBumper__C02__Carbonblack_coat",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 141
+  },
+  {
+   "name": "RearBumper__C02__Material_001",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 55
+  },
+  {
+   "name": "RearBumper__C03__CarPaint_flake",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 232
+  },
+  {
+   "name": "RearBumper__C03__Carbonblack_coat",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 116
+  },
+  {
+   "name": "RearBumper__C03__EXT_GRILL",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 6
+  },
+  {
+   "name": "RearBumper__C03__Material_001",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 29
+  },
+  {
+   "name": "RearBumper__C04__CarPaint_flake",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 146
+  },
+  {
+   "name": "RearBumper__C04__Carbonblack_coat",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 84
+  },
+  {
+   "name": "RearBumper__C04__EXT_BLACK_MISC",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 100
+  },
+  {
+   "name": "RearBumper__C04__EXT_PLASTIC",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 98
+  },
+  {
+   "name": "RearBumper__C04__Wheel_Paint_Red_61",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 28
+  },
+  {
+   "name": "RearBumper__C04__Wheel_Paint_Red_62",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 66
+  },
+  {
+   "name": "RearBumper__C05__CarPaint_flake",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 3
+  },
+  {
+   "name": "RearBumper__C05__Carbonblack_coat",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 56
+  },
+  {
+   "name": "RearBumper__C05__Material_001",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 30
+  },
+  {
+   "name": "RearBumper__C06__CarPaint_flake",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 237
+  },
+  {
+   "name": "RearBumper__C06__Carbonblack_coat",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 93
+  },
+  {
+   "name": "RearBumper__C06__EXT_BLACK_MISC",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 31
+  },
+  {
+   "name": "RearBumper__C06__EXT_CHROME",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 60
+  },
+  {
+   "name": "RearBumper__C06__EXT_GRILL",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 6
+  },
+  {
+   "name": "RearBumper__C06__Material_001",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 1
+  },
+  {
+   "name": "RearBumper__C07__CarPaint_flake",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 304
+  },
+  {
+   "name": "RearBumper__C07__Carbonblack_coat",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 136
+  },
+  {
+   "name": "RearBumper__C07__EXT_BLACK_MISC",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "RearBumper__C07__EXT_CHROME",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 60
+  },
+  {
+   "name": "RearBumper__C07__EXT_GRILL",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "RearBumper__C07__Material_001",
+   "group": "RearBumper",
+   "dmg": false,
+   "tris": 5
+  },
+  {
+   "name": "SteeringWheel__INT_CHROME",
+   "group": "SteeringWheel",
+   "dmg": false,
+   "tris": 110
+  },
+  {
+   "name": "SteeringWheel__INT_CHROME_BLACK",
+   "group": "SteeringWheel",
+   "dmg": false,
+   "tris": 116
+  },
+  {
+   "name": "SteeringWheel__INT_DECAL_2",
+   "group": "SteeringWheel",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "SteeringWheel__INT_FABRIC",
+   "group": "SteeringWheel",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "SteeringWheel__INT_METAL_KNOB_DETAIL",
+   "group": "SteeringWheel",
+   "dmg": false,
+   "tris": 184
+  },
+  {
+   "name": "SteeringWheel__INT_PLASTIC",
+   "group": "SteeringWheel",
+   "dmg": false,
+   "tris": 342
+  },
+  {
+   "name": "SteeringWheel__INT_PLASTIC_COLOR",
+   "group": "SteeringWheel",
+   "dmg": false,
+   "tris": 116
+  },
+  {
+   "name": "SteeringWheel__INT_STITCH",
+   "group": "SteeringWheel",
+   "dmg": false,
+   "tris": 117
+  },
+  {
+   "name": "SteeringWheel__Seat_leather_2",
+   "group": "SteeringWheel",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "SteeringWheel__int_leather_paint3",
+   "group": "SteeringWheel",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "TailLight_L__EXT_EMISSIVE_STRIP",
+   "group": "TailLight_L",
+   "dmg": false,
+   "tris": 319
+  },
+  {
+   "name": "TailLight_L__EXT_GLASS_RED",
+   "group": "TailLight_L",
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "TailLight_L__EXT_TL_THIRD_BRAKE",
+   "group": "TailLight_L",
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "TailLight_L__Headlight_led",
+   "group": "TailLight_L",
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "TailLight_L__Tailght_EMISSIVE",
+   "group": "TailLight_L",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "TailLight_R__EXT_EMISSIVE_STRIP",
+   "group": "TailLight_R",
+   "dmg": false,
+   "tris": 319
+  },
+  {
+   "name": "TailLight_R__EXT_GLASS_RED",
+   "group": "TailLight_R",
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "TailLight_R__EXT_TL_THIRD_BRAKE",
+   "group": "TailLight_R",
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "TailLight_R__Headlight_led",
+   "group": "TailLight_R",
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "TailLight_R__Tailght_EMISSIVE",
+   "group": "TailLight_R",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Trunk__C01__CarPaint_flake",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 102
+  },
+  {
+   "name": "Trunk__C01__Carbonblack_coat",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 96
+  },
+  {
+   "name": "Trunk__C02__Carbonblack_coat",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 250
+  },
+  {
+   "name": "Trunk__C02__EXT_BLACK_MISC",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 88
+  },
+  {
+   "name": "Trunk__C02__EXT_CHROME",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Trunk__C02__EXT_DEFROST",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 31
+  },
+  {
+   "name": "Trunk__C02__EXT_GRILL",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 87
+  },
+  {
+   "name": "Trunk__C03__CarPaint_flake",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 71
+  },
+  {
+   "name": "Trunk__C03__Carbonblack_coat",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 116
+  },
+  {
+   "name": "Trunk__C03__EXT_BLACK_MISC",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 32
+  },
+  {
+   "name": "Trunk__C03__EXT_DEFROST",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 9
+  },
+  {
+   "name": "Trunk__C04__CarPaint_flake",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 148
+  },
+  {
+   "name": "Trunk__C04__Carbonblack_coat",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 63
+  },
+  {
+   "name": "Trunk__C05__CarPaint_flake",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 145
+  },
+  {
+   "name": "Trunk__C05__Carbonblack_coat",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 186
+  },
+  {
+   "name": "Trunk__C05__EXT_BLACK_MISC",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 72
+  },
+  {
+   "name": "Trunk__C05__EXT_DEFROST",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 16
+  },
+  {
+   "name": "Trunk__C05__EXT_GRILL",
+   "group": "Trunk",
+   "dmg": false,
+   "tris": 33
+  },
+  {
+   "name": "Wheel_LF__EXT_RIM_CAP",
+   "group": "Wheel_LF",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Wheel_LF__EXT_RIM_CHROME",
+   "group": "Wheel_LF",
+   "dmg": false,
+   "tris": 639
+  },
+  {
+   "name": "Wheel_LF__EXT_RIM_PLASTIC",
+   "group": "Wheel_LF",
+   "dmg": false,
+   "tris": 147
+  },
+  {
+   "name": "Wheel_LF__EXT_Tyre",
+   "group": "Wheel_LF",
+   "dmg": false,
+   "tris": 146
+  },
+  {
+   "name": "Wheel_LF__EXT_disc",
+   "group": "Wheel_LF",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Wheel_LF__RIM_chrome",
+   "group": "Wheel_LF",
+   "dmg": false,
+   "tris": 1325
+  },
+  {
+   "name": "Wheel_LR__EXT_RIM_CAP",
+   "group": "Wheel_LR",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Wheel_LR__EXT_RIM_CHROME",
+   "group": "Wheel_LR",
+   "dmg": false,
+   "tris": 639
+  },
+  {
+   "name": "Wheel_LR__EXT_RIM_PLASTIC",
+   "group": "Wheel_LR",
+   "dmg": false,
+   "tris": 147
+  },
+  {
+   "name": "Wheel_LR__EXT_Tyre",
+   "group": "Wheel_LR",
+   "dmg": false,
+   "tris": 146
+  },
+  {
+   "name": "Wheel_LR__EXT_disc",
+   "group": "Wheel_LR",
+   "dmg": false,
+   "tris": 119
+  },
+  {
+   "name": "Wheel_LR__RIM_chrome",
+   "group": "Wheel_LR",
+   "dmg": false,
+   "tris": 1324
+  },
+  {
+   "name": "Wheel_RF__EXT_RIM_CAP",
+   "group": "Wheel_RF",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Wheel_RF__EXT_RIM_CHROME",
+   "group": "Wheel_RF",
+   "dmg": false,
+   "tris": 639
+  },
+  {
+   "name": "Wheel_RF__EXT_RIM_PLASTIC",
+   "group": "Wheel_RF",
+   "dmg": false,
+   "tris": 147
+  },
+  {
+   "name": "Wheel_RF__EXT_Tyre",
+   "group": "Wheel_RF",
+   "dmg": false,
+   "tris": 146
+  },
+  {
+   "name": "Wheel_RF__EXT_disc",
+   "group": "Wheel_RF",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Wheel_RF__RIM_chrome",
+   "group": "Wheel_RF",
+   "dmg": false,
+   "tris": 1325
+  },
+  {
+   "name": "Wheel_RR__EXT_RIM_CAP",
+   "group": "Wheel_RR",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Wheel_RR__EXT_RIM_CHROME",
+   "group": "Wheel_RR",
+   "dmg": false,
+   "tris": 639
+  },
+  {
+   "name": "Wheel_RR__EXT_RIM_PLASTIC",
+   "group": "Wheel_RR",
+   "dmg": false,
+   "tris": 147
+  },
+  {
+   "name": "Wheel_RR__EXT_Tyre",
+   "group": "Wheel_RR",
+   "dmg": false,
+   "tris": 146
+  },
+  {
+   "name": "Wheel_RR__EXT_disc",
+   "group": "Wheel_RR",
+   "dmg": false,
+   "tris": 120
+  },
+  {
+   "name": "Wheel_RR__RIM_chrome",
+   "group": "Wheel_RR",
+   "dmg": false,
+   "tris": 1325
+  },
+  {
+   "name": "Wing__C01__Carbonblack_coat",
+   "group": "Wing",
+   "dmg": false,
+   "tris": 173
+  },
+  {
+   "name": "Wing__C01__EXT_BLACK_MISC",
+   "group": "Wing",
+   "dmg": false,
+   "tris": 100
+  },
+  {
+   "name": "Wing__C01__EXT_CHROME",
+   "group": "Wing",
+   "dmg": false,
+   "tris": 300
+  },
+  {
+   "name": "Wing__C01__ext_Body_Paint",
+   "group": "Wing",
+   "dmg": false,
+   "tris": 54
+  },
+  {
+   "name": "Wing__C02__Carbonblack_coat",
+   "group": "Wing",
+   "dmg": false,
+   "tris": 12
+  },
+  {
+   "name": "Wing__C02__EXT_PLASTIC_GLOSS",
+   "group": "Wing",
+   "dmg": false,
+   "tris": 60
+  },
+  {
+   "name": "Wing__C02__ext_Body_Paint",
+   "group": "Wing",
+   "dmg": false,
+   "tris": 51
+  },
+  {
+   "name": "Wing__C03__Carbonblack_coat",
+   "group": "Wing",
+   "dmg": false,
+   "tris": 174
+  },
+  {
+   "name": "Wing__C03__EXT_BLACK_MISC",
+   "group": "Wing",
+   "dmg": false,
+   "tris": 100
+  },
+  {
+   "name": "Wing__C03__EXT_CHROME",
+   "group": "Wing",
+   "dmg": false,
+   "tris": 300
+  },
+  {
+   "name": "Wing__C03__EXT_PLASTIC_GLOSS",
+   "group": "Wing",
+   "dmg": false,
+   "tris": 60
+  },
+  {
+   "name": "Wing__C03__ext_Body_Paint",
+   "group": "Wing",
+   "dmg": false,
+   "tris": 97
+  }
+ ],
+ "hidden_faces_removed": 990,
+ "visible_tris": 46892,
+ "dmg_tris": 2940,
+ "part_count": 598,
+ "max_part_tris": 1325
+}

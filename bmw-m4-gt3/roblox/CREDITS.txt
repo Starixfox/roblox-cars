@@ -1,0 +1,29 @@
+!!! WARNING: READ BEFORE USING THIS CAR !!!
+
+NonCommercial: may not be used in a game that earns Robux; likely based on a ripped
+Need For Speed Mobile model, takedown risk.
+
+- The license is CC BY-NC-SA 4.0: NonCommercial. No game passes, developer products,
+  paid access, Premium Payouts or any other Robux income in a game that uses this car.
+- The author's description says the model is "Based on a Need For Speed Mobile 3d model",
+  so it is most likely a game rip. The original game publisher may own the geometry and
+  can file a takedown (DMCA) against any upload, whatever the Sketchfab license says.
+- ShareAlike: the converted files (these .glb/.blend files) must be shared under the same
+  CC BY-NC-SA 4.0 license if you give them to anyone.
+
+------------------------------------------------------------------------------------------
+
+3D model credit (required by the license)
+
+"2025 BMW M4 GT3 EVO G82" by Ddiaz Design
+https://sketchfab.com/3d-models/113f83dd87064697a5ec2511d280b9d5
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Changes made: scaled to real size, split into damage groups and single-material parts
+(pre-fractured panel and glass chunks, cracked glass versions), simplified for Roblox
+(High and Lite versions), brand logos, badges, decal sheet, windshield banner and brand
+lettering on tyres, calipers and interior parts removed, textures resized.
+
+Put a credit line like this in the game description or an in-game credits screen:
+"Car model based on '2025 BMW M4 GT3 EVO G82' by Ddiaz Design (Sketchfab), CC BY-NC-SA 4.0, modified."

@@ -1,0 +1,22 @@
+3D model credit (required by the CC BY 4.0 license, as listed on Sketchfab)
+
+"GAC empow" by ParticleAccelerator5000 (Sketchfab username: Tvclap)
+https://sketchfab.com/3d-models/703d80ae6d2f4b56978e2890dee9827f
+License as listed: Creative Commons Attribution 4.0 (CC BY 4.0) - https://creativecommons.org/licenses/by/4.0/
+
+WARNING - PROVENANCE UNCLEAR:
+The uploader's own description says "THIS MODEL ISNT MINE BEWARE".
+The uploader states the model is not theirs; the license may not be valid, takedown risk.
+The real author is unknown, so the CC BY 4.0 grant may not come from the rights holder.
+Using this model in a published game carries a risk of a copyright claim or takedown.
+Consider replacing it with a model of clear origin before release.
+
+Changes made: rescaled to real size (about 4.7 m long), simplified for Roblox
+(about 562k to 100k triangles High / 45k Lite), duplicate geometry removed, split into
+single-material damage parts and chunks, brand logos and lettering removed
+(front and rear emblems, model lettering, grille badge, side stickers, wheel centre
+cap emblems, caliper lettering, steering wheel emblem), material names cleaned,
+missing carbon texture replaced by a plain dark colour.
+
+Put a credit line like this in the game description or an in-game credits screen:
+"Car model based on 'GAC empow' by ParticleAccelerator5000 (Sketchfab), listed as CC BY 4.0, modified."
