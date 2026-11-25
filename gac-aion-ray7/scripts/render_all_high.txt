@@ -1,0 +1,7 @@
+﻿render normal exit 0
+render remove:Hood+Trunk+Door_L+Door_R+Door_RL+Door_RR+FrontBumper+RearBumper+Mirror_L+Mirror_R+Wheel_LF+Wheel_RF+Wheel_LR+Wheel_RR exit 0
+render dmg exit -1073741819
+render chunkcolors exit 0
+render impact exit 0
+render explode exit 0
+ALL RENDERS DONE

@@ -122,7 +122,7 @@ if is_split:
 scene.render.engine = 'BLENDER_EEVEE'
 scene.render.resolution_x, scene.render.resolution_y = 1280, 720
 try:
-    scene.eevee.taa_render_samples = 32
+    scene.eevee.taa_render_samples = 16
 except Exception:
     pass
 scene.view_settings.view_transform = 'AgX'

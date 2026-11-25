@@ -150,6 +150,7 @@ local Config = {
 		Glass_Quarter_R = { Chunked = "Glass", Weight = 0.15, ImpactMult = 1.2 },
 		Glass_Door_L = { Chunked = "Glass", Weight = 0.2, ImpactMult = 1.2, Parent = "Door_L" },
 		Glass_Door_R = { Chunked = "Glass", Weight = 0.2, ImpactMult = 1.2, Parent = "Door_R" },
+		Glass_Roof = { Chunked = "Glass", Weight = 0.3 }, -- panoramic glass roof (fixed)
 		Glass_Door_RL = { Chunked = "Glass", Weight = 0.2, ImpactMult = 1.2, Parent = "Door_RL" },
 		Glass_Door_RR = { Chunked = "Glass", Weight = 0.2, ImpactMult = 1.2, Parent = "Door_RR" },
 

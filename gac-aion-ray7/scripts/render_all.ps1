@@ -13,10 +13,22 @@ $jobs = @(
     @("impact", "_impact", "front34,windshield"),
     @("explode", "_explode", "front34,rear34")
 )
+function Wait-Safe {
+    # only one Blender at a time, and enough free RAM (low-memory machine)
+    for ($k = 0; $k -lt 40; $k++) {
+        $busy = @(Get-Process -ErrorAction SilentlyContinue | Where-Object { $_.Name -like 'blender*' }).Count
+        $free = [int]((Get-CimInstance Win32_OperatingSystem).FreePhysicalMemory / 1024)
+        if ($busy -eq 0 -and $free -ge 600) { return $true }
+        "waiting: blender processes $busy, free RAM $free MB"
+        Start-Sleep 30
+    }
+    return $false
+}
 foreach ($j in $jobs) {
     if ($Only -and $j[1] -ne $Only) { continue }
     $start = Get-Date
     for ($try = 1; $try -le 3; $try++) {
+        if (-not (Wait-Safe)) { "STOPPED: not safe to start Blender"; exit 1 }
         & "$s\render_set.ps1" -Model $m -Prefix ($p + $j[1]) -Mode $j[0] -Shots $j[2]
         $first = $j[2].Split(",")[-1]
         $f = "$p$($j[1])_$first.png"

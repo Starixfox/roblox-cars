@@ -550,7 +550,7 @@ def region_group(c, objname=""):
         return all(math.hypot(c.y - w.y, c.z - w.z) > 0.44 for w in ws)
     if c.y < -1.80 and c.z < 0.66 and abs(c.x) < 0.95 and outside_arch("F"):
         return "FrontBumper"          # lower grille, intakes, splitter, bumper backing
-    if c.y > 1.75 and c.z < 0.64 and abs(c.x) < 0.95 and outside_arch("R"):
+    if c.y > 1.75 and c.z < 0.64 and abs(c.x) < 0.95 and (outside_arch("R") or c.z < 0.30):
         return "RearBumper"           # diffuser, bumper backing
     return None
 

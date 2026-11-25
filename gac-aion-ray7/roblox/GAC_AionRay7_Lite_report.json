@@ -43,16 +43,16 @@
   "texture Plate_D-Plate_D.dds: 1 areas blanked",
   "texture 245_Tyre_D-245_Tyre_D.dds: sidewall lettering blanked",
   "texture 245_Tyre_D_nm: sidewall lettering blanked",
-  "RAY90.001: 19 lettering faces in box",
   "RAY64.001: 0 lettering faces in box",
-  "RAY93.001: 0 lettering faces in box",
   "RAY42.001: 789 lettering faces in box",
+  "RAY93.001: 0 lettering faces in box",
+  "RAY90.001: 19 lettering faces in box",
+  "RAY113.001: 0 lettering faces in box",
   "RAY90.001: 2140 lettering faces in box",
   "RAY117.001: 0 lettering faces in box",
   "RAY113.001: 0 lettering faces in box",
   "RAY90.001: 1102 lettering faces in box",
   "RAY117.001: 0 lettering faces in box",
-  "RAY113.001: 0 lettering faces in box",
   "RAY89.001: lettered plate replaced by a plain box",
   "RIMA03.001: 16 cap lettering faces",
   "RIMA006.001: 16 cap lettering faces",
@@ -67,7 +67,7 @@
  "roles": {
   "Body": {
    "before": 161028,
-   "after": 16963
+   "after": 16961
   },
   "Interior": {
    "before": 85237,
@@ -122,7 +122,7 @@
    "chunks": 7
   },
   "Body_Rear": {
-   "tris": 1294,
+   "tris": 1288,
    "dmg_tris": 0,
    "parts": 14,
    "detachable": false,
@@ -276,9 +276,9 @@
    "chunks": 0
   },
   "RearBumper": {
-   "tris": 2239,
+   "tris": 2243,
    "dmg_tris": 0,
-   "parts": 22,
+   "parts": 19,
    "detachable": true,
    "chunks": 7
   },
@@ -645,98 +645,98 @@
    "name": "Body_Rear__C01__1_BLACKRF",
    "group": "Body_Rear",
    "dmg": false,
-   "tris": 8,
+   "tris": 9,
    "materials": 1
   },
   {
    "name": "Body_Rear__C01__BayLiner",
    "group": "Body_Rear",
    "dmg": false,
-   "tris": 78,
-   "materials": 1
-  },
-  {
-   "name": "Body_Rear__C02__1_BLACKRF",
-   "group": "Body_Rear",
-   "dmg": false,
-   "tris": 5,
+   "tris": 87,
    "materials": 1
   },
   {
    "name": "Body_Rear__C02__1_BODY",
    "group": "Body_Rear",
    "dmg": false,
-   "tris": 295,
+   "tris": 286,
    "materials": 1
   },
   {
    "name": "Body_Rear__C03__1_BLACKRF",
    "group": "Body_Rear",
    "dmg": false,
-   "tris": 82,
+   "tris": 80,
    "materials": 1
   },
   {
    "name": "Body_Rear__C04__1_BLACKRF",
    "group": "Body_Rear",
    "dmg": false,
-   "tris": 46,
+   "tris": 40,
    "materials": 1
   },
   {
    "name": "Body_Rear__C04__1_BODY",
    "group": "Body_Rear",
    "dmg": false,
-   "tris": 164,
+   "tris": 162,
+   "materials": 1
+  },
+  {
+   "name": "Body_Rear__C04__BayLiner",
+   "group": "Body_Rear",
+   "dmg": false,
+   "tris": 1,
    "materials": 1
   },
   {
    "name": "Body_Rear__C05__1_BLACKRF",
    "group": "Body_Rear",
    "dmg": false,
-   "tris": 60,
+   "tris": 64,
    "materials": 1
   },
   {
    "name": "Body_Rear__C05__1_BODY",
    "group": "Body_Rear",
    "dmg": false,
-   "tris": 139,
+   "tris": 150,
    "materials": 1
   },
   {
    "name": "Body_Rear__C05__BayLiner",
    "group": "Body_Rear",
    "dmg": false,
-   "tris": 21,
+   "tris": 11,
    "materials": 1
   },
   {
    "name": "Body_Rear__C06__1_BLACKRF",
    "group": "Body_Rear",
    "dmg": false,
-   "tris": 35,
+   "tris": 40,
    "materials": 1
   },
   {
    "name": "Body_Rear__C06__1_BODY",
    "group": "Body_Rear",
    "dmg": false,
-   "tris": 214,
+   "tris": 216,
    "materials": 1
   },
   {
    "name": "Body_Rear__C07__1_BLACKRF",
    "group": "Body_Rear",
    "dmg": false,
-   "tris": 46,
+   "tris": 43,
    "materials": 1
   },
   {
    "name": "Body_Rear__C07__1_BODY",
    "group": "Body_Rear",
    "dmg": false,
-   "tris": 101,
+   "tris": 99,
    "materials": 1
   },
   {
@@ -3914,154 +3914,133 @@
    "name": "RearBumper__C01__1_BLACKRF",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 200,
+   "tris": 188,
    "materials": 1
   },
   {
    "name": "RearBumper__C01__1_BODY",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 221,
+   "tris": 222,
    "materials": 1
   },
   {
    "name": "RearBumper__C01__RedNM",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 36,
+   "tris": 25,
    "materials": 1
   },
   {
    "name": "RearBumper__C02__1_BLACKRF",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 5,
+   "tris": 28,
    "materials": 1
   },
   {
    "name": "RearBumper__C02__1_BODY",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 327,
+   "tris": 397,
    "materials": 1
   },
   {
    "name": "RearBumper__C03__1_BLACKRF",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 3,
+   "tris": 2,
    "materials": 1
   },
   {
    "name": "RearBumper__C03__1_BODY",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 271,
+   "tris": 256,
    "materials": 1
   },
   {
    "name": "RearBumper__C04__1_BLACKRF",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 44,
+   "tris": 30,
    "materials": 1
   },
   {
    "name": "RearBumper__C04__1_BODY",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 173,
-   "materials": 1
-  },
-  {
-   "name": "RearBumper__C04__RedNM",
-   "group": "RearBumper",
-   "dmg": false,
-   "tris": 14,
+   "tris": 166,
    "materials": 1
   },
   {
    "name": "RearBumper__C04__Tex_3836_0",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 50,
+   "tris": 100,
    "materials": 1
   },
   {
    "name": "RearBumper__C04__Tex_4236_0_dds",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 2,
+   "tris": 4,
    "materials": 1
   },
   {
    "name": "RearBumper__C05__1_BLACKRF",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 23,
+   "tris": 22,
    "materials": 1
   },
   {
    "name": "RearBumper__C05__1_BODY",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 90,
+   "tris": 91,
    "materials": 1
   },
   {
    "name": "RearBumper__C06__1_BLACKRF",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 43,
+   "tris": 223,
    "materials": 1
   },
   {
    "name": "RearBumper__C06__1_BODY",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 192,
+   "tris": 207,
    "materials": 1
   },
   {
    "name": "RearBumper__C06__RedNM",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 23,
-   "materials": 1
-  },
-  {
-   "name": "RearBumper__C06__Tex_3836_0",
-   "group": "RearBumper",
-   "dmg": false,
-   "tris": 50,
-   "materials": 1
-  },
-  {
-   "name": "RearBumper__C06__Tex_4236_0_dds",
-   "group": "RearBumper",
-   "dmg": false,
-   "tris": 2,
+   "tris": 49,
    "materials": 1
   },
   {
    "name": "RearBumper__C07__1_BLACKRF",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 213,
+   "tris": 42,
    "materials": 1
   },
   {
    "name": "RearBumper__C07__1_BODY",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 231,
+   "tris": 166,
    "materials": 1
   },
   {
    "name": "RearBumper__C07__RedNM",
    "group": "RearBumper",
    "dmg": false,
-   "tris": 26,
+   "tris": 25,
    "materials": 1
   },
   {
@@ -4507,9 +4486,9 @@
   }
  ],
  "hidden_faces_removed": 125,
- "visible_tris": 47242,
+ "visible_tris": 47240,
  "dmg_tris": 5413,
- "part_count": 595,
+ "part_count": 592,
  "max_part_tris": 1526,
  "names_ok": true,
  "single_material": true
